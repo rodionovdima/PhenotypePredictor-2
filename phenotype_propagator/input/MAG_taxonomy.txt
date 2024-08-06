@@ -1,0 +1,2 @@
+MAG	MAG_species	MAG_genus
+genome_id	Genome_species	Genome_genus

@@ -1,0 +1,13 @@
+root_dir: "/home/.../PhenotypePredictor-2/phenotype_propagator"
+
+# Input data & output dir
+annotation_dir: "input/annotation"
+magtable_path: "input/MAG_taxonomy.txt"
+output_dir: "output"
+
+# Sys data
+model_dir: "sysdata/MLmodels"
+training_dir: "sysdata/train/noGenomeID"
+training_dir_genomeid: "sysdata/train/withGenomeID"
+subs_ref: "sysdata/SubsystemPhenotypeRef.csv"
+functional_roles: "sysdata/train/functional_roles.txt"

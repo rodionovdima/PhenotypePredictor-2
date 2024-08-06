@@ -1,0 +1,2752 @@
+Role	Phenotype
+Galactonate dehydratase (EC 4.2.1.6)	Dgal
+2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)	Dgal
+2-dehydro-3-deoxyphosphogalactonate aldolase (EC 4.1.2.21)	Dgal
+D-galactonate transporter	Dgal
+Predicted D-galactonate ABC transporter, substrate-binding component	Dgal
+Predicted D-galactonate ABC transporter, permease component 1	Dgal
+Predicted D-galactonate ABC transporter, permease component 2	Dgal
+D-Galactonate repressor DgoR	Dgal
+D-galactonate regulator, IclR family	Dgal
+Uncharacterized MFS-type transporter from D-galactonate utilization operon	Dgal
+Uncharacterized dehydrogenase from D-galactonate utilization operon	Dgal
+D-allose kinase (EC 2.7.1.55)	All
+D-allose-6-phosphate isomerase (EC 5.3.1.-)	All
+D-allulose-6-phosphate 3-epimerase (EC 5.1.3.-)	All
+D-allose ABC transporter, ATP-binding protein	All
+D-allose ABC transporter, substrate-binding protein	All
+D-allose ABC transporter, permease protein	All
+PTS system, D-allose/D-ribose-specific IIA component	All
+PTS system, D-allose/D-ribose-specific IIB component (EC 2.7.1.69)	All
+PTS system, D-allose/D-ribose-specific IIC component	All
+PTS system, D-allose-specific IIA component (EC 2.7.1.69)	All
+PTS system, D-allose-specific IIB component (EC 2.7.1.69)	All
+PTS system, D-allose-specific IIC component (EC 2.7.1.69)	All
+Allose utilization antiterminator, BglG family	All
+Transcriptional regulator of D-allose utilization, RpiR family	All
+Transcriptional regulator of D-allose utilization, DeoR family	All
+Transcriptional regulator of D-allose utilization, LacI family	All
+N-(1-deoxy-D-fructos-1-yl)-L-aspartate transporter FraA	FruAsn
+N-(1-deoxy-D-fructos-1-yl)-L-aspartate kinase FraD	FruAsn
+N-(1-deoxy-6-phospho-D-fructos-1-yl)-L-aspartate deglycase FraB	FruAsn
+Fructose-asparagine utilization regulator FraR, GntR family	FruAsn
+N-(1-deoxy-D-fructos-1-yl)-L-asparaginase FraE	FruAsn
+Uncharacterized sugar epimerase related to fructoselysine 3-epimerase	FruAsn
+PTS system, fructose-asparagine-specific IID component (EC 2.7.1.69)	FruAsn
+PTS system, fructose-asparagine-specific IIC component (EC 2.7.1.69)	FruAsn
+PTS system, fructose-asparagine-specific IIB component (EC 2.7.1.69)	FruAsn
+PTS system, fructose-asparagine-specific IIA component (EC 2.7.1.69)	FruAsn
+Fructoselysine 6-phosphate deglycase (EC 3.5.-.-)	FruLys; PsiLys
+Fructoselysine 6-kinase (EC 2.7.1.218)	FruLys; PsiLys
+Fructoselysine 3-epimerase (EC 5.1.3.41)	FruLys; PsiLys
+Fructoselysine/psicoselysine transporter FrlA	FruLys; PsiLys
+Predicted fructoselysine transporter, GltS family	FruLys
+Predicted fructoselysine transporter, MATE family	FruLys
+Predicted fructoselysine transporter, ArcD family	FruLys
+Glucoselysine-6-phosphate deglycase	GlcLys
+PTS system, fructoselysine/glucoselysine-specific IID component	FruLys; GlcLys
+PTS system, fructoselysine/glucoselysine-specific IIB component (EC 2.7.1.69)	FruLys; GlcLys
+PTS system, fructoselysine/glucoselysine-specific IIC component	FruLys; GlcLys
+PTS system, fructoselysine/glucoselysine-specific IIA component	FruLys; GlcLys
+Fructoselysine ABC transporter, substrate-binding protein	FruLys
+Fructoselysine ABC transporter, permease protein 1	FruLys
+Fructoselysine ABC transporter, permease protein 2	FruLys
+Fructoselysine ABC transporter, ATP-binding protein	FruLys
+Predicted fructoselysine ABC transporter, substrate-binding protein	FruLys
+Predicted fructoselysine ABC transporter, permease protein 1	FruLys
+Predicted fructoselysine ABC transporter, permease protein 2	FruLys
+Predicted fructoselysine ABC transporter, ATP-binding protein	FruLys
+Transcriptional regulator of fructoselysine utilization, GntR family	FruLys; PsiLys
+RpoN-dependent transcriptional activator of GfrABCDEF operon, NtrC family	FruLys; GlcLys
+Hyaluronate lyase precursor (EC 4.2.2.1)	Hyl
+Heparin-sulfate lyase (EC:4.2.2.8)	Hyl
+Unsaturated glucuronyl hydrolase (EC 3.2.1.-)	Hyl
+Oligohyaluronate lyase (EC 4.2.2.-)	Hyl
+PTS system, hyaluronate-oligosaccharide-specific IIC component (EC 2.7.1.69)	Hyl
+PTS system, hyaluronate-oligosaccharide-specific IIB component (EC 2.7.1.69)	Hyl
+PTS system, hyaluronate-oligosaccharide-specific IID component (EC 2.7.1.69)	Hyl
+PTS system, hyaluronate-oligosaccharide-specific IIA component (EC 2.7.1.69)	Hyl
+Predicted hyaluronate ABC transport system, sugar-binding protein	Hyl
+Predicted hyaluronate ABC transport system, permease protein 1	Hyl
+Predicted hyaluronate ABC transport system, permease protein 2	Hyl
+Predicted transcriptional regulator for hyaluronate utilization, GntR family	Hyl
+Transcriptional regulator RegR, repressor of hyaluronate and KDG utilization, LacI family	Hyl
+Hyaluronoglucosaminidase (EC 3.2.1.35)	Hyl
+Beta-1,3-galactosidase, linked to hyaluronan utilization genes (GH35)	Hyl
+Predicted hyaluronic acid binding protein (DUF4627)	Hyl
+Unsaturated glucuronide lyase acting on chondroitin/heparin disaccharides (EC 3.2.1.180)	Hyl
+SusD, outer membrane protein, probably involved in hyaluronate binding	Hyl
+SusC, outer membrane protein, probably involved in hyaluronate binding	Hyl
+N-acetylgalactosamine-6-phosphate deacetylase (EC 3.5.1.25)	GalNAc
+N-acetylgalactosamine kinase, ROK-type (EC 2.7.1.157)	GalNAc; GalN
+Predicted N-acetylgalactosamine and N-acetylglucosamine kinase, ROK family (EC 2.7.1.157)(EC 2.7.1.59)	GalNAc; GalN
+Galactosamine-6-phosphate isomerase (galactosamine-6-phosphate deaminase) (EC 5.3.1.-)	GalNAc; GalN
+Tagatose-6-phosphate kinase (EC 2.7.1.144)	GalNAc; GalN
+Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)	GalNAc; GalN
+PTS system, N-acetylgalactosamine-specific IIB component (EC 2.7.1.69)	GalNAc; GalN
+PTS system, N-acetylgalactosamine-specific IIC component (EC 2.7.1.69)	GalNAc; GalN
+PTS system, N-acetylgalactosamine-specific IID component (EC 2.7.1.69)	GalNAc; GalN
+PTS system, N-acetylgalactosamine- and galactosamine-specific IIA component (EC 2.7.1.69)	GalNAc; GalN
+PTS system, galactosamine-specific IIA component (EC 2.7.1.69)	GalN
+PTS system, galactosamine-specific IIB component (EC 2.7.1.69)	GalN
+PTS system, galactosamine-specific IIC component (EC 2.7.1.69)	GalN
+PTS system, galactosamine-specific IID component (EC 2.7.1.69)	GalN
+Predicted N-acetylgalactosamine transporter, MFS family	GalNAc
+Predicted PTS system, galactosamine-specific IID component (EC 2.7.1.69)	GalN
+Predicted PTS system, galactosamine-specific IIB component (EC 2.7.1.69)	GalN
+Predicted PTS system, galactosamine-specific IIA component (EC 2.7.1.69)	GalN
+Predicted PTS system, galactosamine-specific IIC component (EC 2.7.1.69)	GalN
+Transcriptional repressor of aga operon	GalNAc; GalN
+Tagatose-6-phosphate kinase AgaZ (EC 2.7.1.144)	GalNAc; GalN
+Galactosamine-6-phosphate isomerase (EC 5.3.1.-)	GalNAc; GalN
+Beta-1,3-galactosidase, specific for lacto-N-biose and galacto-N-biose (GH35)	GalNAc
+Predicted transcriptional regulator of N-Acetylgalactosamine utilization, GntR family	GalNAc; GalN
+Predicted transcriptional regulator of N-Acetylgalactosamine utilization, AraC family	GalNAc; GalN
+Alpha-N-acetylgalactosaminidase, GH109 family (EC 3.2.1.49)	GalNAc
+Extracellular alpha-N-acetylgalactosaminidase (GH31)	GalNAc
+N-acetylglucosamine related transporter, NagX	GalNAc
+Alpha-N-acetylgalactosaminidase AagA, GH36 family (EC 3.2.1.49)	GalNAc
+Predicted N-acetylgalactosamine-6-sulfatase	GalNAc
+N-acetylhexosamine 1-kinase (EC 2.7.1.162)	GalNAc
+UTP---hexose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GalNAc
+UDP-hexose 4-epimerase (EC 5.1.3.2)	GalNAc
+Alpha-D-galactosamine galactosaminidase (GH36)	GalNAc
+Outer membrane TonB-dependent transporter for galactosamine containing antigen, SusC family	GalN
+Outer membrane TonB-dependent transporter for galactosamine containing antigen, SusD family	GalN
+Predicted N-acetylmuramic acid kinase (EC 2.7.1.170)	MurNac
+Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170)	MurNac
+N-acetylmuramic acid 6-phosphate etherase (EC 4.2.1.126)	MurNac
+N-acetylmuramic acid transporter, NagX-related	MurNac
+Predicted N-acetylmuramic acid ABC transport system, permease protein 2	MurNac
+Predicted N-acetylmuramic acid ABC transport system, ATP-binding protein	MurNac
+Predicted N-acetylmuramic acid ABC transport system, sugar-binding protein	MurNac
+Predicted N-acetylmuramic acid ABC transport system, permease protein 1	MurNac
+PTS system, N-acetylmuramic acid-specific IIB component (EC 2.7.1.69)	MurNac
+PTS system, N-acetylmuramic acid-specific IIC component	MurNac
+PTS system, N-acetylmuramic acid-specific IIA component (EC 2.7.1.69)	MurNac
+N-acetylmuramic acid utilization transcriptional regulator, RpiR family	MurNac
+6-phospho-N-acetylmuramidase (EC 3.2.1.-)	MurNac
+GlcNAc-MurNAc permease AmpG	MurNac
+Peptydoglycan-specific exo-beta-N-acetylmuramidase (GH171)	MurNac
+Predicted bifunctional N-acetylmuramic acid and N-acetylglucosamine kinase	MurNac
+Rhamnulokinase (EC 2.7.1.5)	Rha; Rhi; ROS
+L-rhamnose isomerase (EC 5.3.1.14)	Rha; Rhi; ROS
+Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)	Rha; Rhi; ROS
+Predicted rhamnulose-1-phosphate aldolase (EC 4.1.2.19)	Rha; Rhi; ROS
+L-rhamnose mutarotase (EC 5.1.3.32)	Rha; Rhi; ROS
+Novel predicted L-rhamnose 1-dehydrogenase (EC 1.1.1.173)	Rha; Rhi; ROS
+Novel predicted L-rhamnono-gamma-lactonase (EC 3.1.1.65)	Rha; Rhi; ROS
+Novel predicted L-rhamnoate dehydratase (EC 4.2.1.90)	Rha; Rhi; ROS
+Novel predicted 2-keto-3-deoxy-L-rhamnoate aldolase (EC 4.1.2.53)	Rha; Rhi; ROS
+L-rhamnose-proton symporter	Rha; Rhi
+Predicted L-rhamnose permease RhaY	Rha; Rhi
+Predicted L-rhamnose ABC transporter, substrate-binding component	Rha
+Predicted L-rhamnose ABC transporter, transmembrane component 1	Rha
+Predicted L-rhamnose ABC transporter, transmembrane component 2	Rha
+Predicted L-rhamnose ABC transporter, ATP-binding component	Rha
+Pedicted L-rhamnose permease, NCS1 Family	Rha
+Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization (EC 1.2.1.22)	Rha; Rhi; ROS
+Predicted lactaldehyde dehydrogenase (EC 1.2.1.22)	Rha; Rhi; ROS
+Lactaldehyde dehydrogenase involved in rhamnose utilization (EC 1.2.1.22)	Rha; Rhi; ROS
+Rhamnogalacturonan endolyase (EC 4.2.2.23)	Rhi
+Unsaturated rhamnogalacturonyl hydrolase (EC 3.2.1.172)	Rhi
+rhamnogalacturonan acetylesterase	Rhi
+Predicted rhamnogalacturonide-specific TRAP-type transporter, substrate-binding component RhiA	Rhi
+Predicted rhamnogalacturonide-specific TRAP-type transporter, small transmembrane component RhiB	Rhi
+Predicted rhamnogalacturonide-specific TRAP-type transporter, large transmembrane component RhiC	Rhi
+Rhamnogalacturonide transporter RhiT	Rhi
+Putative rhamnogalacturonides ABC transporter, permease component 2	Rhi
+Putative rhamnogalacturonides ABC transporter, substrate-binding protein	Rhi
+Putative rhamnogalacturonides ABC transporter, permease component 1	Rhi
+Predicted rhamnosides transporter RamT	ROS
+alpha-L-rhamnosidase (EC 3.2.1.40)	ROS
+Predicted alpha-L-rhamnosidase	ROS
+Beta-D-galactosyl-(1->4)-L-rhamnose phosphorylase (EC 2.4.1.247)	ROS
+Uncharacterized oligosaccharide lyase involved in rhamnogalacturonan I degradation	Rhi
+Putative rhamnooligosaccharide ABC transporter, ATP-binding protein	ROS
+Putative rhamnooligosaccharide ABC transporter, permease protein 1	ROS
+Putative rhamnooligosaccharide ABC transporter, substrate-binding protein	ROS
+Putatuve rhamnooligosaccharide ABC transporter, substrate-binding protein	ROS
+Predicted rhamnose oligosaccharide ABC transport system, permease component	ROS
+Predicted rhamnose oligosaccharide ABC transport system, permease component 2	ROS
+Predicted rhamnose oligosaccharide ABC transport system, substrate-binding component	ROS
+Transcriptional regulator of rhamnose utilization, AraC family	Rha
+Predicted rhamnonate utilization transcriptional regulator, GntR family	Rha
+Transcriptional regulator of rhamnose utilization, DeoR family	Rha
+Two-component response regulator for rhamnogalacturonan utilization, AraC family	Rhi
+Two-component system sensor histidine kinase for rhamnogalacturonan utilization	Rhi
+Predicted transcriptional regulator for rhamnogalacturonan utilization, AraC family	Rhi
+Trehalase (EC 3.2.1.28)	Tre
+Cytoplasmic trehalase (EC 3.2.1.28)	Tre
+Trehalose phosphorylase (EC 2.4.1.64)	Tre
+Trehalose 6-phosphate phosphorylase (EC 2.4.1.216)	Tre
+Trehalose-6-phosphate hydrolase (EC 3.2.1.93)	Tre
+Predicted trehalose permease, MFS family, FucP subfamily	Tre
+PTS system, trehalose-specific IIB component (EC 2.7.1.69)	Tre
+PTS system, trehalose-specific IIC component (EC 2.7.1.69)	Tre
+PTS system, trehalose-specific IIA component (EC 2.7.1.69)	Tre
+PTS system, trehalose-specific IID component (EC 2.7.1.69)	Tre
+Beta-phosphoglucomutase (EC 5.4.2.6)	Tre
+Trehalose operon transcriptional repressor	Tre
+Transcriptional regulator of trehalose utilization, LacI family	Tre
+Probable transcriptional regulator of trehalose utilization, LuxR family	Tre
+D-trehalose outer membrane porin	Tre
+Trehalose ABC transporter, trehalose-binding lipoprotein	Tre
+Trehalose ABC transporter, permease protein 1	Tre
+Trehalose ABC transporter, permease protein 2	Tre
+Trehalose transport ATP-binding protein TreK (EC 3.6.3.19)	Tre
+Periplasmic 3-ketodisaccharide hydrolase (EC 3.2.1.218)	Tre
+Trehalose ABC transporter, substrate binding periplasmic protein ThuE (TC 3.A.1.1.17)	Tre
+Trehalose ABC transporter, permease protein ThuF (TC 3.A.1.1.17)	Tre
+Trehalose ABC transporter, ATP-binding protein ThuK (TC 3.A.1.1.17)	Tre
+Trehalose ABC transporter, permease protein ThuG (TC 3.A.1.1.17)	Tre
+Trehalose utilization protein ThuA	Tre
+Glucoside-3-hydrogenase ThuB subunit (EC 1.1.99.13)	Tre
+Transcriptional regulator of trehalose utilization ThuR, LacI family	Tre
+4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)	ddGlcA
+predicted 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)	ddGlcA
+2-deoxy-D-gluconate 3-dehydrogenase (EC 1.1.1.125)	ddGlcA
+2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)	ddGlcA
+2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	ddGlcA
+2-keto-3-deoxygluconate permease (KDG permease)	ddGlcA
+Transcriptional regulator KdgR, KDG operon repressor	ddGlcA
+PTS system, D-glucosaminate-specific IIA component (EC 2.7.1.203)	Gmt
+PTS system, D-glucosaminate-specific IIB component (EC 2.7.1.203)	Gmt
+PTS system, D-glucosaminate-specific IIC component (EC 2.7.1.203)	Gmt
+PTS system, D-glucosaminate-specific IID component (EC 2.7.1.203)	Gmt
+D-Glucosaminate-6-phosphate ammonia-lyase (EC 4.3.1.-)	Gmt
+2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14) in D-glucosaminate utilization operon	Gmt
+Putative glucosaminate-related transporter 1	Gmt
+Putative glucosaminate-related transporter 2	Gmt
+Putative glucosaminate-related hydrolase	Gmt
+RpoN-dependent transcriptional activator of D-glucosaminate utilization operon, NtrC family	Gmt
+Transcriptional antiterminator of glucosaminate utilization, BglG family	Gmt
+Predicted transcriptional regulator of D-glucosaminate utilization, GntR family	Gmt
+Uncharacterized protein STM4441	Gmt
+Uncharacterized protein STM4442	Gmt
+D-glycerate transporter (predicted)	Glt
+Glycerate kinase (EC 2.7.1.31)	Glt
+D-glycerate 2-kinase (EC 2.7.1.-)	Glt
+D-glycerate 3-kinase (EC 2.7.1.31), plant type	Glt
+D-glycerate 2-kinase (EC 2.7.1.165)	Glt
+Sugar diacid utilization regulator SdaR	Glt
+Glyoxylate carboligase (EC 4.1.1.47)	Glt
+2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)	Glt
+Hydroxypyruvate isomerase (EC 5.3.1.22)	Glt
+2-dehydro-3-deoxyglucarate aldolase (EC 4.1.2.20)	Glt
+Deoxyribokinase (EC 2.7.1.229)	dRib
+Deoxyribose mutarotase	dRib
+Putative deoxyribose mutarotase (FucU family)	dRib
+Deoxyribose-phosphate aldolase (EC 4.1.2.4)	dRib
+Aldehyde dehydrogenase (EC 1.2.1.3) involved in deoxyribose utilization	dRib
+2-Deoxy-D-ribose porter (TC 2.A.1.7.5)	dRib
+Putative deoxyribose ABC transporter substrate-binding component (TC 3.A.1.2)	dRib
+Putative deoxyribose ABC transporter ATP-binding component (TC 3.A.1.2)	dRib
+Putative deoxyribose ABC transporter permease component 1 (TC 3.A.1.2)	dRib
+Putative deoxyribose ABC transporter permease component 2 (TC 3.A.1.2)	dRib
+Putative transcriptional regulator of deoxyribose utilization (DeoR family)	dRib
+Putative transcriptional regulator of deoxyribose utilization (LacI family)	dRib
+L-gulonate 5-dehydrogenase (EC 1.1.1.380)	Lgul
+L-galactonate oxidoreductase (EC 1.1.1.414)	Lgal
+TRAP-type L-galactonate transport system, small permease component	Lgal
+TRAP-type L-galactonate transport system, periplasmic component	Lgal
+TRAP-type L-galactonate transport system, large permease component	Lgal
+Probable L-galactonate transporter (TC 2.A.1.14)	Lgal
+Putative L-galactonate permease, GntP family	Lgal
+TRAP-type L-gulonate transport system, small permease component	Lgul
+TRAP-type L-gulonate transport system, periplasmic component	Lgul
+TRAP-type L-gulonate transport system, large permease component	Lgul
+Regulator of L-galactonate catabolism LgoR, GntR family	Lgal
+Gulonate utilization operon transcriptional repressor GulR	Lgul
+Probable L-gulonate transporter (TC 2.A.1.14)	Lgul
+Probable L-gulonate transporter (TC 2.A.1.6)	Lgul
+Putative fuconate or L-gulonate permease, GntP family	Lgul
+Predicted L-galactonate transporter, KdgT-related	Lgal
+Mannosylglycerate hydrolase (EC 3.2.1.170)	ManGlt
+PTS system, 2-O-alpha-mannosyl-D-glycerate-specific IIA component (EC 2.7.1.195)	ManGlt
+PTS system, 2-O-alpha-mannosyl-D-glycerate-specific IIB component (EC 2.7.1.195)	ManGlt
+PTS system, 2-O-alpha-mannosyl-D-glycerate-specific IIC component	ManGlt
+PTS system, predicted mannosylglycerate-specific IIA component (EC 2.7.1.69)	ManGlt
+PTS system, predicted mannosylglycerate-specific IIB component (EC 2.7.1.69)	ManGlt
+PTS system, predicted mannosylglycerate-specific IIC component (EC 2.7.1.69)	ManGlt
+Mannosyl-D-glycerate utilization repressor MngR	ManGlt
+Predicted transcriptional antiterminator of mannosylglycerate utilization, BglG family	ManGlt
+Predicted mannosylglycerate utilization regulator, RpiR family	ManGlt
+Glucosylglycerate phosphorylase (EC 2.4.1.352)	ManGlt
+Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)	Mtl
+Predicted mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)	Mtl
+PTS system, mannitol-specific IIC component (EC 2.7.1.69)	Mtl
+PTS system, mannitol-specific IIB component (EC 2.7.1.69)	Mtl
+PTS system, mannitol-specific IIA component (EC 2.7.1.69)	Mtl
+Mannitol 2-dehydrogenase (EC 1.1.1.67)	Mtl
+Multiple polyol-specific dehydrogenase (EC 1.1.1.-)	Mtl
+Predicted mannitol transporter, GGP family	Mtl
+Putative mannitol MFS permease (TC 2.A.1.18)	Mtl
+Various polyols ABC transporter, periplasmic substrate-binding protein	Mtl
+Various polyols ABC transporter, permease component 1	Mtl
+Various polyols ABC transporter, permease component 2	Mtl
+Various polyols ABC transporter, ATP-binding component	Mtl
+Mannitol operon repressor	Mtl
+Mannitol operon activator, BglG family	Mtl
+Transciptional regulator of mannitol utilization, DeoR family	Mtl
+Putative transcriptional regulator of mannitol utilization (ROK family)	Mtl
+Fructokinase (EC 2.7.1.4)	Mtl
+1-phosphofructokinase (EC 2.7.1.56)	Mtl
+Sorbitol-6-phosphate 2-dehydrogenase (EC 1.1.1.140)	Stl; Sor
+Predicted sorbitol-6-phosphate 2-dehydrogenase (EC 1.1.1.140)	Stl; Sor
+PTS system, glucitol/sorbitol-specific IIB component and second of two IIC components (EC 2.7.1.69)	Stl
+PTS system, glucitol/sorbitol-specific IIA component (EC 2.7.1.69)	Stl
+PTS system, glucitol/sorbitol-specific IIC component (EC 2.7.1.69)	Stl
+Sorbitol dehydrogenase (EC 1.1.1.14)	Stl
+Predicted sorbitol permease	Stl
+Putative sorbitol MFS permease (TC 2.A.1.18)	Stl
+Predicted sorbitol ABC transporter, periplasmic substrate-binding protein	Stl
+Predicted sorbitol ABC transporter, permease protein	Stl
+Predicted sorbitol ABC transporter, ATP-binding component	Stl
+L-sorbose 1-phosphate reductase (EC 1.1.1.-)	Sor
+PTS system, sorbose-specific IIA component (EC 2.7.1.69)	Sor
+PTS system, sorbose-specific IIB component (EC 2.7.1.69)	Sor
+PTS system, sorbose-specific IIC component (EC 2.7.1.69)	Sor
+PTS system, sorbose-specific IID component (EC 2.7.1.69)	Sor
+Sorbitol operon regulator SorC	Stl
+Putative transcriptional regulator of sorbitol utilization (AraC family)	Stl
+Glucitol operon activator protein, BglG family	Stl
+Transciptional regulator of sorbitol utilization, ROK family	Stl
+Sorbitol operon transcription regulator, DeoR family	Stl
+Transciptional regulator of sorbitol utilization, LacI family	Stl
+Glucitol-responsive transcriptional regulator of glucitol/sorbitol utilization, GutR family	Stl
+Fructokinase (EC 2.7.1.4)	Stl; Sor
+1-phosphofructokinase (EC 2.7.1.56)	Stl; Sor
+Galactitol-1-phosphate 5-dehydrogenase (EC 1.1.1.251)	Gtl
+PTS system, galactitol-specific IIA component (EC 2.7.1.69)	Gtl
+PTS system, galactitol-specific IIB component (EC 2.7.1.69)	Gtl
+PTS system, galactitol-specific IIC component (EC 2.7.1.69)	Gtl
+Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)	Gtl
+Tagatose-6-phosphate kinase (EC 2.7.1.144)	Gtl
+Tagatose-6-phosphate kinase GatZ (EC 2.7.1.144)	Gtl
+Galactitol utilization operon repressor	Gtl
+Predicted galactitol operon regulator (Transcriptional antiterminator), BglG family	Gtl
+D-arabitol-phosphate dehydrogenase (EC 1.1.1.301)	Atl
+PTS system, arabitol-specific IIC component (EC 2.7.1.69)	Atl
+PTS system, arabitol-specific IIA component (EC 2.7.1.69)	Atl
+PTS system, arabitol-specific IIB component (EC 2.7.1.69)	Atl
+D-arabinitol 4-dehydrogenase (EC 1.1.1.11)	Atl
+Ribitol/Xylitol/Arabitol transporter, MFS superfamily	Xtl; Atl; Rtl
+D-xylitol-phosphate dehydrogenase (EC 1.1.1.-)	Xtl
+PTS system, xylitol-specific IIA component (EC 2.7.1.69)	Xtl
+PTS system, xylitol-specific IIB component (EC 2.7.1.69)	Xtl
+PTS system, xylitol-specific IIC component (EC 2.7.1.69)	Xtl
+Xylitol dehydrogenase (EC 1.1.1.9)	Xtl
+Xylitol ABC transporter, periplasmic substrate-binding protein	Xtl
+Xylitol ABC transporter, permease component	Xtl
+Xylitol ABC transporter, ATP-binding component	Xtl
+Ribitol 2-dehydrogenase (EC 1.1.1.56)	Rtl
+Predicted ribitol ABC transporter, periplasmic substrate-binding protein	Rtl
+Predicted ribitol ABC transporter, permease component	Rtl
+Predicted ribitol ABC transporter, ATP-binding component	Rtl
+Various polyols ABC transporter, periplasmic substrate-binding protein	Xtl; Atl; Rtl
+Various polyols ABC transporter, permease component 1	Xtl; Atl; Rtl
+Various polyols ABC transporter, permease component 2	Xtl; Atl; Rtl
+Various polyols ABC transporter, ATP-binding component	Xtl; Atl; Rtl
+Predicted pentitol operon regulator (Transcriptional antiterminator), BglG family	Atl
+Predicted pentitol operon regulator, NtrC family	Atl
+Transcriptional regulator of various polyols utilization, AraC family	Xtl
+Xylulose kinase (EC 2.7.1.17)	Xtl; Atl
+D-ribulokinase (EC 2.7.1.47)	Rtl
+Sulfur carrier protein ThiS	B1
+Sulfur carrier protein ThiS adenylyltransferase (EC 2.7.7.73)	B1
+2-iminoacetate synthase (ThiH) (EC 4.1.99.19)	B1
+Glycine oxidase ThiO (EC 1.4.3.19)	B1
+Thiazole synthase (EC 2.8.1.10)	B1
+Thiazole biosynthetic enzyme Thi4	B1
+Phosphomethylpyrimidine synthase ThiC (EC 4.1.99.17)	B1
+Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	B1
+Hydroxyethylthiazole kinase (EC 2.7.1.50)	B1
+Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)	B1
+Hypothetical alternative hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)	B1
+Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety	B1
+Hydroxymethylpyrimidine ABC transporter, substrate-binding component	B1
+Hydroxymethylpyrimidine ABC transporter, transmembrane component	B1
+Hydroxymethylpyrimidine ABC transporter, ATPase component	B1
+Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine	B1
+ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine	B1
+Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine	B1
+Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine	B1
+Predicted hydroxymethylpyrimidine transporter CytX	B1
+Substrate-specific component ThiW of predicted thiazole ECF transporter	B1
+Predicted thiazole transporter ThiU	B1
+Substrate-specific component ThiT of thiamin ECF transporter	B1
+Thiamin ABC transporter, substrate-binding component	B1
+Thiamin ABC transporter, transmembrane component	B1
+Thiamin ABC transporter, ATPase component	B1
+Predicted thiamin transporter PnuT	B1
+Substrate-specific component YkoE of thiamin-regulated ECF transporter for Thiamin	B1
+ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for Thiamin	B1
+Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for Thiamin	B1
+Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for Thiamin	B1
+Thiamin ABC transporter ThiZ, ATPase component	B1
+Thiamin ABC transporter ThiY, substrate-binding component	B1
+Thiamin ABC transporter ThiX, transmembrane component	B1
+Cytoplasmic thiamin-binding component of thiamin ABC transporter, COG0011 family	B1
+Thiamin-regulated outer membrane receptor Omr1	B1
+Predicted thiamin transporter ThiV, SSS family	B1
+Putative HMP/thiamine-binding protein YkoF	B1
+Thiamin pyrophosphokinase (EC 2.7.6.2)	B1
+Thiamine-monophosphate kinase (EC 2.7.4.16)	B1
+Thiamine kinase (EC 2.7.1.89)	B1
+Putative thiamine kinase, YkoEDC-associated, THI-regulated	B1
+ThMPase type I predicted	B1
+Thiamin-related 3-oxoacyl-[acyl-carrier protein] reductase OarX	B1
+Thiamin-related FMN-dependent hydroxylase family protein For	B1
+GTP cyclohydrolase II (EC 3.5.4.25)	B2
+Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)	B2
+5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)	B2
+6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	B2
+3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)	B2
+Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)	B2
+Substrate-specific component RibU of riboflavin ECF transporter	B2
+Riboflavin transporter PnuX	B2
+Riboflavin transporter, COG2814 family	B2
+Predicted riboflavin transporter, EamA family	B2
+Predicted riboflavin ABC transporter, transmembrane component	B2
+Predicted riboflavin ABC transporter, substrate-binding component	B2
+Riboflavin transporter RibN	B2
+Riboflavin transporter RfnT, MFS family	B2
+Riboflavin kinase (EC 2.7.1.26)	B2
+Duplicated ATPase component of energizing module of riboflavin ECF transporter	B2
+Transmembrane component of energizing module of riboflavin ECF transporter	B2
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase (EC 3.5.1.102), bacterial	B2
+2,5-diamino-6-ribitylamino-pyrimidinone 5-phosphate deaminase, archaeal (EC 3.5.4.-)	B2
+FMN adenylyltransferase, type 3 archaeal (EC 2.7.7.2)	B2
+L-aspartate oxidase (EC 1.4.3.16)	B3
+L-Aspartate dehydrogenase (EC 1.4.1.21)	B3
+Quinolinate synthetase (EC 2.5.1.72)	B3
+Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	B3
+Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	B3
+NAD synthetase (EC 6.3.1.5)	B3
+Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)	B3
+Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1)	B3
+Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	B3
+Nicotinate phosphoribosyltransferase (EC 6.3.4.21)	B3
+Nicotinamidase (EC 3.5.1.19)	B3
+Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1)	B3
+Ribosylnicotinamide kinase (EC 2.7.1.22)	B3
+Niacin transporter NiaP	B3
+Substrate-specific component NiaX of predicted niacin ECF transporter	B3
+Ribosyl nicotinamide transporter, PnuC-like	B3
+Predicted nicotinate-regulated transporter BH3254	B3
+Nudix-related transcriptional regulator NrtR	B3
+Transcriptional repressor for NAD biosynthesis in gram-positives	B3
+Tryptophan 2,3-dioxygenase (EC 1.13.11.11)	B3
+Kynurenine formamidase, bacterial (EC 3.5.1.9)	B3
+Kynurenine 3-monooxygenase (EC 1.14.13.9)	B3
+Kynureninase (EC 3.7.1.3)	B3
+3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6)	B3
+Kynurenine formamidase (EC 3.5.1.9)	B3
+Nicotinamide-nucleotide amidase (EC 3.5.1.42)	B3
+NadR transcriptional regulator	B3
+Aspartate 1-decarboxylase (EC 4.1.1.11)	B5
+PLP-dependent aspartate 1-decarboxylase, PanP (EC 4.1.1.15)	B5
+3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)	B5
+Ketopantoate reductase PanG (EC 1.1.1.169)	B5
+2-dehydropantoate 2-reductase (EC 1.1.1.169)	B5
+Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)	B5
+Pantoate--beta-alanine ligase (EC 6.3.2.1)	B5
+Pantothenate kinase (EC 2.7.1.33)	B5
+Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)	B5
+Pantothenate kinase type II, eukaryotic (EC 2.7.1.33)	B5
+Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	B5
+Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36)	B5
+Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	B5
+Dephospho-CoA kinase (EC 2.7.1.24)	B5
+Substrate-specific component PanT of predicted pantothenate ECF transporter	B5
+Pantothenate:Na+ symporter (TC 2.A.21.1.1)	B5
+Substrate-specific component PanU of pantothenate ECF transporter	B5
+ATPase component PanM of energizing module of pantothenate ECF transporter	B5
+Transmembrane component PanN of energizing module of pantothenate ECF transporter	B5
+Pantothenate precursors transporter PanS	B5
+Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), synthase subunit (EC 4.3.3.6)	B6
+Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing), glutaminase subunit (EC 4.3.3.6)	B6
+4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)	B6
+Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)	B6
+Pyridoxal kinase (EC 2.7.1.35)	B6
+Substrate-specific component PdxT of predicted pyridoxine ECF transporter	B6
+Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter	B6
+Novel pyridoxal kinase, thiD family (EC 2.7.1.35)	B6
+Predicted transcriptional regulator of pyridoxine metabolism	B6
+Substrate-specific component PdxU of predicted pyridoxine ECF transporter	B6
+Predicted pyridoxine transporter YdcO, BenE family	B6
+Transmembrane component of energizing module of predicted pyridoxine-related ECF transporter	B6
+Duplicated ATPase component of energizing module of predicted pyridoxine-related ECF transporter	B6
+8-amino-7-oxononanoate synthase (EC 2.3.1.47)	B7
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)	B7
+Dethiobiotin synthase BioD (EC 6.3.3.3)	B7
+Biotin synthase (EC 2.8.1.6)	B7
+Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)	B7
+Pimeloyl-[acyl-carrier protein] methyl ester esterase BioG (EC 3.1.1.85)	B7
+Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)	B7
+Pimeloyl-[acyl-carrier protein] methyl ester esterase BioZ (EC 3.1.1.85)	B7
+Pimeloyl-[acyl-carrier protein] methyl ester esterase BioV (EC 3.1.1.85)	B7
+Substrate-specific component BioY of biotin ECF transporter	B7
+Transmembrane component BioN of energizing module of biotin ECF transporter	B7
+ATPase component BioM of energizing module of biotin ECF transporter	B7
+Pimeloyl-CoA synthase (EC 6.2.1.14)	B7
+Biotin transporter BioP, DMT family	B7
+Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)	B7
+Predicted biotin regulator in Bacteroides	B7
+GTP cyclohydrolase I (EC 3.5.4.16) type 1	B9
+GTP cyclohydrolase I (EC 3.5.4.16) type 2	B9
+Dihydroneopterin triphosphate pyrophosphohydolase	B9
+Dihydroneopterin triphosphate pyrophosphohydrolase type 2	B9
+Putative DHNTP pyrophosphatase	B9
+Folate biosynthesis protein PTPS-III, catalyzes a reaction that bypasses dihydroneopterin aldolase (FolB)	B9
+Dihydroneopterin aldolase (EC 4.1.2.25)	B9
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	B9
+Dihydropteroate synthase (EC 2.5.1.15)	B9
+Dihydrofolate reductase (EC 1.5.1.3)	B9
+FolM Alternative dihydrofolate reductase 1	B9
+Alternative dihydrofolate reductase 2	B9
+Alternative dihydrofolate reductase 3	B9
+Dihydrofolate synthase (EC 6.3.2.12)	B9
+Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)	B9
+Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)	B9
+Aminodeoxychorismate lyase (EC 4.1.3.38)	B9
+Substrate-specific component FolT of folate ECF transporter	B9
+hypothetical protein linked to PabC	B9
+Predicted cobalt ABC transporter, periplasmic substrate-binding component CnoA	B12
+Predicted cobalt ABC transporter, permease protein CnoB	B12
+Predicted cobalt ABC transporter, ATP-binding protein CnoD	B12
+Predicted cobalt ABC transporter, permease protein CnoC	B12
+Predicted cobalt ABC transporter periplasmic component	B12
+Predicted cobalt transporter CbtA	B12
+Predicted cobalt transporter CbtC	B12
+Predicted cobalt transporter in Bacteroides_Porphyromonas	B12
+Predicted cobalt transporter in Mycobacteria	B12
+Predicted cobalt transporter in sulfate-reducing delta-proteobacteria	B12
+Substrate-specific component CbiM of cobalt ECF transporter	B12
+ATPase component CbiO of energizing module of cobalt ECF transporter	B12
+Transmembrane component CbiQ of energizing module of cobalt ECF transporter	B12
+Additional substrate-specific component CbiN of cobalt ECF transporter	B12
+HoxN/HupN/NixA family cobalt transporter	B12
+ChlI component of cobalt chelatase involved in B12 biosynthesis	B12
+ChlD component of cobalt chelatase involved in B12 biosynthesis	B12
+Aerobic cobaltochelatase CobN subunit (EC 6.6.1.2)	B12
+Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)	B12
+Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)	B12
+Cobalt-precorrin-3 C(17)-methyltransferase (EC 2.1.1.272)	B12
+Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)	B12
+Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)	B12
+Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)	B12
+Cobalt-precorrin-6A reductase (EC 1.3.1.106)	B12
+Cobalt-precorrin-6B C15-methyltransferase [decarboxylating] (EC 2.1.1.196)	B12
+Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289)	B12
+Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)	B12
+Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)	B12
+Cob(I)alamin adenosyltransferase (EC 2.5.1.17)	B12
+ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)	B12
+Cobyric acid synthase (EC 6.3.5.10)	B12
+Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)	B12
+Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)	B12
+Cobalamin synthase (EC 2.7.8.26)	B12
+Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)	B12
+L-threonine kinase in B12 biosynthesis (EC 2.7.1.177)	B12
+L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)	B12
+Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)	B12
+Substrate-specific component CblT of predicted B12-regulated ECF transporter for dimethylbenzimidazole	B12
+Predicted alpha-ribazole-5-phosphate synthase CblS for cobalamin biosynthesis	B12
+Duplicated ATPase component CbrU of energizing module of predicted cobalamin ECF transporter	B12
+Transmembrane component CbrV of energizing module of predicted cobalamin ECF transporter	B12
+Substrate-specific component CbrT of predicted cobalamin ECF transporter	B12
+Vitamin B12 ABC transporter, ATPase component BtuD	B12
+Vitamin B12 ABC transporter, B12-binding component BtuF	B12
+Vitamin B12 ABC transporter, permease component BtuC	B12
+Outer membrane vitamin B12 receptor BtuB	B12
+Sirohydrochlorin cobaltochelatase (EC 4.99.1.3)	B12
+Precorrin-3B synthase	B12
+Precorrin-6A synthase (deacetylating) (EC 2.1.1.152)	B12
+Sirohydrochlorin cobaltochelatase CbiX(long) (EC 4.99.1.3)	B12
+CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase	B12
+GTP cyclohydrolase I (EC 3.5.4.16) type 1	Q
+GTP cyclohydrolase I (EC 3.5.4.16) type 2	Q
+6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)	Q
+7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)	Q
+7-cyano-7-deazaguanine synthase (EC 6.3.4.20)	Q
+NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)	Q
+Queuine tRNA-ribosyltransferase (EC 2.4.2.29)	Q
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)	Q
+Epoxyqueuosine reductase (EC 1.17.99.6) QueG	Q
+Epoxyqueuosine reductase (EC 1.17.99.6) QueH	Q
+Substrate-specific component STY3230 of queuosine-regulated ECF transporter	Q
+Transmembrane component STY3231 of energizing module of queuosine-regulated ECF transporter	Q
+ATPase component STY3232 of energizing module of queuosine-regulated ECF transporter	Q
+ATPase component STY3233 of energizing module of queuosine-regulated ECF transporter	Q
+Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter	Q
+Putative preQ0 transporter YhhQ	Q
+Queuosine reductase QueI	Q
+QueJ Activator of Queuosine reductase QueI	Q
+preQ1-regulated inosine-uridine nucleoside hydrolase (EC 3.2.2.1)	Q
+Radical SAM domain linked to preQ0 transport	Q
+Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase	LA
+Lipoate-protein ligase A	LA
+Lipoyl synthase (EC 2.8.1.8)	LA
+Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)	LA
+Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase, LipM (EC 2.3.1.181)	LA
+Menaquinone-specific isochorismate synthase (EC 5.4.4.2)	MQ
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)	MQ
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)	MQ
+2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate dehydrogenase, HAD superfamily	MQ
+O-succinylbenzoate synthase (EC 4.2.1.113)	MQ
+O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)	MQ
+Naphthoate synthase (EC 4.1.3.36)	MQ
+1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis	MQ
+1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis, putative	MQ
+1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)	MQ
+Demethylmenaquinone methyltransferase (EC 2.1.1.163)	MQ
+Chorismate dehydratase (EC 4.2.1.151)	MQ
+Aminodeoxyfutalosine synthase (EC 2.5.1.120)	MQ
+Aminodeoxyfutalosine deaminase (EC 3.5.4.40)	MQ
+Futalosine hydrolase (EC 3.2.2.26)	MQ
+Aminodeoxyfutalosine nucleosidase (EC 3.2.2.30)	MQ
+Cyclic dehypoxanthine futalosine synthase (EC 1.21.98.1)	MQ
+1,4-dihydroxy-6-naphthoate synthase (EC 1.14.-.-)	MQ
+1,4-dihydroxy-6-naphthoate synthase (EC 1.14.-.-), alternative	MQ
+1,4-naphthoquinone polyprenyltransferase	MQ
+1,4-dihydroxy-6-naphthoate carboxy-lyase, UbiD-like	MQ
+1,4-dihydroxy-6-naphthoate carboxy-lyase, UbiX-like	MQ
+Menaquinone-9 beta-reductase (EC 1.3.99.38)	MQ
+N-acetylglutamate synthase (EC 2.3.1.1)	Arg
+Glutamate N-acetyltransferase (EC 2.3.1.35)	Arg
+Predicted N-acetylglutamate synthase (EC 2.3.1.1), AbgB family	Arg
+Predicted amino-acid acetyltransferase (EC 2.3.1.1) complementing ArgA function in Arginine Biosynthesis pathway	Arg
+N-acetylglutamate synthase, C-NAGS (EC 2.3.1.1)	Arg
+N-acetylglutamate synthase, alternative (EC 2.3.1.1)	Arg
+N-acetylglutamate kinase (EC 2.7.2.8)	Arg
+N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	Arg
+N-acetylornithine aminotransferase (EC 2.6.1.11)	Arg
+Ornithine carbamoyltransferase (EC 2.1.3.3)	Arg
+N-acetylornithine carbamoyltransferase (EC 2.1.3.9)	Arg
+N-succinylornithine carbamoyltransferase (EC 2.1.3.11)	Arg
+Acetylornithine deacetylase (EC 3.5.1.16)	Arg
+Argininosuccinate synthase (EC 6.3.4.5)	Arg
+Argininosuccinate lyase (EC 4.3.2.1)	Arg
+Arginine pathway regulatory protein ArgR, repressor of arg regulon	Arg
+Predicted arginine uptake transporter	Arg
+Arginine ABC transporter, ATP-binding protein ArtP	Arg
+Arginine ABC transporter, periplasmic arginine-binding protein ArtI	Arg
+Arginine ABC transporter, permease protein ArtQ	Arg
+Arginine ABC transporter, permease protein ArtM	Arg
+Predicted arginine ABC transporter, substrate-binding protein	Arg
+Predicted arginine ABC transporter, permease protein	Arg
+Predicted arginine ABC transporter, ATP-binding protein	Arg
+Arginine ABC transporter, substrate-binding protein	Arg
+Arginine ABC transporter, permease protein	Arg
+Arginine ABC transporter, ATP-binding protein	Arg
+Arginine ABC transporter, substrate-binding and permease protein	Arg
+Diaminopimelate decarboxylase (EC 4.1.1.20)	Lys
+4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)	Lys
+L,L-diaminopimelate aminotransferase (EC 2.6.1.83)	Lys
+Diaminopimelate epimerase (EC 5.1.1.7)	Lys
+Meso-diaminopimelate D-dehydrogenase (EC 1.4.1.16)	Lys
+Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	Lys; Thr; Met
+Aspartokinase (EC 2.7.2.4)	Lys; Thr; Met
+Diaminopimelate epimerase alternative form predicted for S.aureus (EC 5.1.1.7)	Lys
+4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	Lys
+L,L-diaminopimelate aminotransferase (EC 2.6.1.83), DapL2 type	Lys
+Predicted lysine ABC transporter, lysine-binding protein LysX	Lys
+Predicted lysine ABC transporter, permease component LysY	Lys
+Predicted lysine ABC transporter, ATP-binding protein LysZ	Lys
+Lysine-specific permease	Lys
+Predicted lysine transporter, NhaC family	Lys
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)	Lys
+N-acetyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.-)	Lys
+N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)	Lys
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	Lys
+N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)	Lys
+N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17), type 2	Lys
+N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)	Lys
+L,L-diaminopimelate aminotransferase (EC 2.6.1.83), methanococcal	Lys
+His repressor	His
+ATP phosphoribosyltransferase (EC 2.4.2.17)	His
+ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)	His
+Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)	His
+Predicted phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31), PAP2 family	His
+Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	His
+Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	His
+Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)	His
+Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)	His
+Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	His
+Histidinol-phosphate aminotransferase (EC 2.6.1.9)	His
+Histidinol-phosphatase (EC 3.1.3.15)	His
+Histidinol-phosphatase [alternative form] (EC 3.1.3.15)	His
+Bifidobacterial histidinol-phosphatase (EC 3.1.3.15)	His
+Histidinol dehydrogenase (EC 1.1.1.23)	His
+Histidine permease YuiF	His
+Histidine ABC transporter, histidine-binding protein	His
+Histidine ABC transporter, permease protein	His
+Histidine ABC transporter, ATP-binding protein	His
+Histidine ABC transporter, histidine-binding periplasmic protein precursor HisJ (TC 3.A.1.3.1)	His
+Histidine ABC transporter, permease protein HisQ (TC 3.A.1.3.1)	His
+Histidine ABC transporter, permease protein HisM (TC 3.A.1.3.1)	His
+Histidine ABC transporter, ATP-binding protein HisP (TC 3.A.1.3.1)	His
+Histidine transport protein (permease)	His
+Predicted histidine permease, NhaC family	His
+Predicted histidine uptake transporter	His
+Anthranilate synthase, aminase component (EC 4.1.3.27)	Trp
+Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	Trp
+Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	Trp
+Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	Trp
+Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)	Trp
+Indole-3-glycerol phosphate synthase (EC 4.1.1.48)	Trp
+Tryptophan synthase alpha chain (EC 4.2.1.20)	Trp
+Tryptophan synthase beta chain (EC 4.2.1.20)	Trp
+Tryptophan synthase (indole-salvaging) (EC 4.2.1.122)	Trp
+Transcriptional repressor protein TrpR	Trp
+Tryptophan-specific transport protein	Trp
+Substrate-specific component TrpP of tryptophan ECF transporter	Trp
+Putative tyrosine or tryptophane transporter MhsT	Trp
+Predicted ABC transporter for tryptophane, substrate-binding protein TrpX	Trp
+Predicted ABC transporter for tryptophane, permease protein TrpY	Trp
+Predicted ABC transporter for tryptophane, ATP-binding protein TrpZ	Trp
+Duplicated ATPase component of tryptophan ECF transporter	Trp
+Transmembrane component of tryptophan ECF transporter	Trp
+Chorismate mutase I (EC 5.4.99.5)	Tyr; Phe
+Chorismate mutase II (EC 5.4.99.5)	Tyr; Phe
+Periplasmic chorismate mutase I precursor (EC 5.4.99.5)	Tyr; Phe
+Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)	Tyr; Phe
+Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	Tyr; Phe
+Aromatic amino acid aminotransferase gamma (EC 2.6.1.57)	Tyr; Phe
+Periplasmic aromatic amino acid aminotransferase beta precursor (EC 2.6.1.57)	Tyr; Phe
+Prephenate dehydrogenase (EC 1.3.1.12)	Tyr
+Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)	Tyr
+Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)	Tyr
+Prephenate dehydratase (EC 4.2.1.51)	Phe
+Cyclohexadienyl dehydratase (EC 4.2.1.51)(EC 4.2.1.91)	Phe
+Arogenate dehydrogenase (EC 1.3.1.43)	Tyr
+Predicted tyrosine transporter, NhaC family	Tyr; Phe
+Tyrosine-specific transport protein	Tyr; Phe
+Putative tyrosine or tryptophane transporter MhsT	Tyr; Phe
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)	Chor
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)	Chor
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)	Chor
+3-dehydroquinate synthase (EC 4.2.3.4)	Chor
+3-dehydroquinate dehydratase I (EC 4.2.1.10)	Chor
+3-dehydroquinate dehydratase II (EC 4.2.1.10)	Chor
+Quinate/shikimate 5-dehydrogenase I delta (EC 1.1.1.25)	Chor
+Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)	Chor
+Shikimate 5-dehydrogenase I gamma (EC 1.1.1.25)	Chor
+Shikimate kinase I (EC 2.7.1.71)	Chor
+Shikimate kinase III (EC 2.7.1.71)	Chor
+3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	Chor
+Chorismate synthase (EC 4.2.3.5)	Chor
+Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)	Chor
+3-dehydroquinate synthase II (EC 1.4.1.24)	Chor
+2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase (EC 2.2.1.10)	Chor
+2-isopropylmalate synthase (EC 2.3.3.13)	Leu
+3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	Leu
+3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	Leu
+3-isopropylmalate dehydrogenase (EC 1.1.1.85)	Leu
+Threonine dehydratase biosynthetic (EC 4.3.1.19)	Ile; Val; Leu
+(R)-citramalate synthase (EC 2.3.1.182)	Ile; Val; Leu
+Threonine dehydratase, catabolic (EC 4.3.1.19)	Ile; Val; Leu
+Threonine dehydratase (EC 4.3.1.19)	Ile; Val; Leu
+Acetolactate synthase large subunit (EC 2.2.1.6)	Ile; Val; Leu
+Acetolactate synthase small subunit (EC 2.2.1.6)	Ile; Val; Leu
+Acetolactate synthase small subunit (EC 2.2.1.6), predicted	Ile; Val; Leu
+Acetolactate synthase small subunit (EC 2.2.1.6), Xanthomonadales type	Ile; Val; Leu
+Dihydroxy-acid dehydratase (EC 4.2.1.9)	Ile; Val; Leu
+Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)	Ile; Val; Leu
+Branched-chain amino acid aminotransferase (EC 2.6.1.42)	Ile; Val; Leu
+Branched-chain amino acid transport system carrier protein	Ile; Val; Leu
+Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)	Ile; Val; Leu
+High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)	Ile; Val; Leu
+Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)	Ile; Val; Leu
+Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)	Ile; Val; Leu
+Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)	Ile; Val; Leu
+D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	Ser
+Phosphoserine aminotransferase (EC 2.6.1.52)	Ser
+Phosphoserine aminotransferase, putative (EC 2.6.1.52)	Ser
+Predicted phosphoserine aminotransferase (EC 2.6.1.52)	Ser
+Phosphoserine phosphatase (EC 3.1.3.3)	Ser
+Phosphoserine phosphatase YseA (EC 3.1.3.3)	Ser
+Novel Phosphoserine phosphatase (EC 3.1.3.3)	Ser
+Predicted phosphoserine phosphatase, HAD superfamily (EC 3.1.3.3)	Ser
+Predicted phosphoglycerate dehydrogenase (EC:1.1.1.95), FAD-linked	Ser
+Serine acetyltransferase (EC 2.3.1.30)	Cys
+Cysteine synthase (EC 2.5.1.47)	Cys
+Cysteine synthase B (EC 2.5.1.47)	Cys
+Serine acetyltransferase (EC 2.3.1.30), type 2	Cys
+Homoserine dehydrogenase (EC 1.1.1.3)	Thr; Met
+Homoserine kinase (EC 2.7.1.39)	Thr
+Predicted functional analog of homoserine kinase (EC 2.7.1.-)	Thr
+Threonine synthase (EC 4.2.3.1)	Thr
+Homoserine dehydrogenase (EC 1.1.1.3)	Met
+Homoserine O-succinyltransferase (EC 2.3.1.46)	Met
+Homoserine O-acetyltransferase (EC 2.3.1.31)	Met
+O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	Met
+Cystathionine beta-lyase, type II (EC 4.4.1.8)	Met
+Cystathionine beta-lyase (EC 4.4.1.8)	Met
+Cystathionine gamma-synthase (EC 2.5.1.48)	Met
+5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	Met
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	Met
+5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	Met
+Betaine--homocysteine S-methyltransferase (EC 2.1.1.5)	Met
+Methionine synthase activation domain (EC 2.1.1.13)	Met
+Homocysteine S-methyltransferase (EC 2.1.1.10)	Met
+Methionine ABC transporter ATP-binding protein	Met
+Methionine ABC transporter permease protein	Met
+Methionine ABC transporter substrate-binding protein	Met
+Methionine transporter MetT	Met
+S-adenosylmethionine synthetase (EC 2.5.1.6)	Met
+Cystathionine beta-lyase PatB (EC 4.4.1.8)	Met
+Methionine synthase II (cobalamin-independent)	Met
+contains methionine synthase, vitamin-B12 independent domain	Met
+bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase protein	Met
+Methionine biosynthesis and transport regulator MtaR, LysR family	Met
+Methionine synthase MesB, methylcobalamin-dependent	Met
+Methionine synthase MesA, methylcobalamin-dependent	Met
+Methionine synthase MesD, methylcobalamin-dependent	Met
+Methionine synthase accessory protein MesX	Met
+L-aspartate semialdehyde sulfurtransferase (EC 2.8.1.16)	Met
+Glutamate 5-kinase (EC 2.7.2.11)	Pro
+Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	Pro
+Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	Pro
+Pyrroline-5-carboxylate reductase (EC 1.5.1.2), ProG-like	Pro
+Ornithine cyclodeaminase (EC 4.3.1.12)	Pro
+Ornithine aminotransferase (EC 2.6.1.13)	Pro
+Serine hydroxymethyltransferase (EC 2.1.2.1)	Gly
+Low-specificity L-threonine aldolase (EC 4.1.2.48)	Gly
+Serine--glyoxylate aminotransferase (EC 2.6.1.45)	Gly
+Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	Glu
+Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	Glu
+Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)	Glu
+Glutamate synthase, alpha subunit domain protein	Glu
+Glutamine synthetase (EC 6.3.1.2)	Gln
+Glutamine synthetase type I (EC 6.3.1.2)	Gln
+Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)	Gln
+Glutamine synthetase type III, GlnN (EC 6.3.1.2)	Gln
+Glutamine synthetase, clostridia type (EC 6.3.1.2)	Gln
+Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)	Gln
+Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)	Gln
+Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)	Gln
+NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	Glu
+NAD-specific glutamate dehydrogenase (EC 1.4.1.2)	Glu
+NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form	Glu
+Aspartate--ammonia ligase (EC 6.3.1.1)	Asn
+Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	Asn
+Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) AsnB	Asn
+Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) AsnH	Asn
+Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) YisO	Asn
+Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6)	Asn
+Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6)	Asn
+Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6)	Asn
+Aspartate aminotransferase (EC 2.6.1.1)	Asp
+Aspartate transaminase (EC 2.6.1.1)	Asp
+3-ketoacyl-CoA thiolase (EC 2.3.1.16)	Butyrate
+3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	Butyrate
+3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)	Butyrate
+Butyryl-CoA dehydrogenase (EC 1.3.99.2)	Butyrate
+Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein alpha	Butyrate
+Electron bifurcating butyryl-CoA dehydrogenase, electron transfer flavoprotein beta	Butyrate
+Butyrate--acetoacetate CoA-transferase subunit A (EC 2.8.3.9)	Butyrate
+Butyrate--acetoacetate CoA-transferase subunit B (EC 2.8.3.9)	Butyrate
+Predicted butyrate efflux transporter	Butyrate
+Butyryl-CoA:acetate CoA-transferase (EC 2.8.3.8)	Butyrate
+Phosphate butyryltransferase (EC 2.3.1.19)	Butyrate
+Butyrate kinase (EC 2.7.2.7)	Butyrate
+NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	Butyrate
+4-hydroxybutyrate:acetyl-CoA CoA transferase (EC 2.3.1.-)	Butyrate
+NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	Butyrate
+Succinate-semialdehyde dehydrogenase, CoA-dependent	Butyrate
+Glutaconate CoA-transferase subunit A (EC 2.8.3.12)	Butyrate
+Glutaconate CoA-transferase subunit B (EC 2.8.3.12)	Butyrate
+Glutaconyl-CoA decarboxylase alpha subunit (EC 4.1.1.70)	Butyrate
+Glutaconyl-CoA decarboxylase beta subunit (EC 4.1.1.70)	Butyrate
+Glutaconyl-CoA decarboxylase subunit gamma (EC 4.1.1.70) (Biotin carrier)	Butyrate
+2-hydroxyglutaryl-CoA dehydratase, D-component HgdA	Butyrate
+2-hydroxyglutaryl-CoA dehydratase, D-component HgdB	Butyrate
+2-hydroxyglutaryl-CoA dehydratase activator, A-component	Butyrate
+4-hydroxybutanoyl-CoA dehydratase (EC 4.2.1.120)	Butyrate
+L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3)	Butyrate
+D-lysine 5,6-aminomutase beta subunit (EC 5.4.3.4)	Butyrate
+L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3)	Butyrate
+D-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.4)	Butyrate
+Lysine 2,3-aminomutase (EC 5.4.3.2)	Butyrate
+3,5-diaminohexanoate dehydrogenase (EC 1.4.1.11)	Butyrate
+3-keto-5-aminohexanoate cleavage enzyme (EC 2.3.1.247)	Butyrate
+3-aminobutyryl-CoA ammonia-lyase (EC 4.3.1.14)	Butyrate
+Transporter, LysE family	Butyrate
+L-lysine permease	Butyrate
+Propanediol dehydratase large subunit (EC 4.2.1.28)	Propionate
+Propanediol dehydratase medium subunit (EC 4.2.1.28)	Propionate
+Propanediol dehydratase small subunit (EC 4.2.1.28)	Propionate
+Predicted novel propanediol dehydratase, B12-independent (EC 4.2.1.-)	Propionate
+Predicted novel propanediol dehydratase, B12-independent, activating enzyme	Propionate
+Propanediol dehydratase reactivation factor large subunit	Propionate
+CoA-acylating propionaldehyde dehydrogenase	Propionate
+Phosphate propanoyltransferase (EC 2.3.1.222)	Propionate
+Propanol dehydrogenase	Propionate
+1,3-propanediol dehydrogenase (EC 1.1.1.202)	Propionate
+Propionate CoA-transferase (EC 2.8.3.1)	Propionate
+Propionate permease	Propionate
+Acryloyl-CoA reductase (EC 1.3.1.95)	Propionate
+Lactoyl-CoA dehydratase, alpha subunit (EC 4.2.1.54)	Propionate
+Lactoyl-CoA dehydratase, beta subunit (EC 4.2.1.54)	Propionate
+Lactoyl-CoA dehydratase, gamma subunit (EC 4.2.1.54)	Propionate
+Lactoyl-CoA dehydratase, predicted (EC 4.2.1.54)	Propionate
+Methylmalonyl-CoA epimerase (EC 5.1.99.1)	Propionate
+Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	Propionate
+Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)	Propionate
+Methylmalonyl-CoA mutase (EC 5.4.99.2)	Propionate
+YgfD: protein that forms a complex with the methylmalonyl-CoA mutase in a pathway for conversion of succinyl-CoA to propionyl-CoA	Propionate
+Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	Propionate
+Methylmalonyl-CoA decarboxylase (EC 4.1.1.41)	Propionate
+Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)	Propionate
+Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)	Propionate
+Biotin carboxyl carrier protein => methylmalonyl-CoA decarboxylase	Propionate
+Methylmalonyl-CoA decarboxylase, delta-subunit (EC 4.1.1.41)	Propionate
+Methylmalonyl-CoA decarboxylase, epsilon-subunit (EC 4.1.1.41)	Propionate
+B12 binding domain of Methylmalonyl-CoA mutase (EC 5.4.99.2)	Propionate
+Methylmalonyl-CoA:Pyruvate transcarboxylase 5S subunit (EC 2.1.3.1)	Propionate
+Methylmalonyl-CoA:Pyruvate transcarboxylase 12S subunit (EC 2.1.3.1)	Propionate
+Propionyl-CoA:succinate coenzyme A transferase (EC 2.8.3.-)	Propionate
+Propionate kinase (EC 2.7.2.15)	Propionate
+Acetate kinase (EC 2.7.2.1)	Acetate
+Phosphate acetyltransferase (EC 2.3.1.8)	Acetate
+Acetaldehyde dehydrogenase (EC 1.2.1.10)	Ethanol
+Alcohol dehydrogenase (EC 1.1.1.1)	Ethanol
+L-lactate dehydrogenase (EC 1.1.1.27)	L-Lactate
+D-lactate dehydrogenase (EC 1.1.1.28)	D-Lactate
+Pyruvate formate-lyase (EC 2.3.1.54)	Formate
+Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)	Formate
+Formate efflux transporter (TC 2.A.44 family)	Formate
+Urease alpha subunit (EC 3.5.1.5)	Urea_d
+Urease beta subunit (EC 3.5.1.5)	Urea_d
+Urease gamma subunit (EC 3.5.1.5)	Urea_d
+Urease accessory protein UreD	Urea_d
+Urease accessory protein UreE	Urea_d
+Urease accessory protein UreF	Urea_d
+Urease accessory protein UreG	Urea_d
+Urea channel UreI	Urea_d
+Urea ABC transporter, urea binding protein	Urea_d
+Urea ABC transporter, permease protein UrtB	Urea_d
+Urea ABC transporter, permease protein UrtC	Urea_d
+Urea ABC transporter, ATPase protein UrtD	Urea_d
+Urea ABC transporter, ATPase protein UrtE	Urea_d
+Eukaryotic-type low-affinity urea transporter	Urea_d
+Partial urea carboxylase (EC 6.3.4.6)	Urea_d
+Urea carboxylase (EC 6.3.4.6)	Urea_d
+Allophanate hydrolase (EC 3.5.1.54)	Urea_d
+Urea carboxylase-related aminomethyltransferase (EC 2.1.2.10)	Urea_d
+Urea carboxylase-related ABC transporter, periplasmic substrate-binding protein	Urea_d
+Urea carboxylase-related ABC transporter, permease protein	Urea_d
+Urea carboxylase-related ABC transporter, ATPase protein	Urea_d
+Urea carboxylase-related amino acid permease	Urea_d
+HupE-UreJ family metal transporter	Urea_d
+Nickel transporter UreH	Urea_d
+Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	Urea_d
+Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)	Urea_d
+Proline dehydrogenase (EC 1.5.5.2)	Pro_d
+Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)	Pro_d
+Proline racemase (EC 5.1.1.4)	Pro_d
+D-proline reductase, 45 kDa subunit (EC 1.21.4.1)	Pro_d
+D-proline reductase, 23 kDa subunit (EC 1.21.4.1)	Pro_d
+D-proline reductase, 26 kDa subunit (EC 1.21.4.1)	Pro_d
+trans-4-hydroxy-L-proline dehydratase (EC 4.2.1.172)	HP_d
+trans-4-hydroxy-L-proline dehydratase activating enzyme	HP_d
+4-hydroxyproline epimerase (EC 5.1.1.8)	HP_d
+D-hydroxyproline dehydrogenase (EC 1.4.99.-), beta subunit	HP_d
+D-hydroxyproline dehydrogenase (EC 1.4.99.-), alpha subunit	HP_d
+D-hydroxyproline dehydrogenase (EC 1.4.99.-), gamma subunit	HP_d
+1-pyrroline-4-hydroxy-2-carboxylate deaminase (EC 3.5.4.22)	HP_d
+Ketoglutarate semialdehyde dehydrogenase (EC 1.2.1.26)	HP_d
+trans-3-hydroxy-L-proline dehydratase (EC 4.2.1.77)	HP_d
+cis-3-hydroxy-L-proline dehydratase (EC 4.2.1.171)	HP_d
+Delta 1-pyrroline-2-carboxylate reductase (NAD(P)H) (EC 1.5.1.49)	HP_d
+Proline/sodium symporter PutP (TC 2.A.21.2.1)	Pro_d
+Amino acid permease in 4-hydroxyproline catabolic gene cluster	HP_d
+L-Proline/Glycine betaine transporter ProP	Pro_d
+Proline-specific permease proY	Pro_d
+Putative L-proline transporter, TauE superfamily	Pro_d
+4-hydroxyproline ABC transporter, substrate-binding protein	HP_d
+4-hydroxyproline ABC transporter, permease protein 1	HP_d
+4-hydroxyproline ABC transporter, permease protein 2	HP_d
+4-hydroxyproline ABC transporter, ATP-binding protein	HP_d
+Transcriptional repressor of PutA and PutP	Pro_d
+Putative regulator for D-hydroxyproline utilization, AraC family	HP_d
+Predicted regulator PutR for proline utilization, GntR family	Pro_d
+Proline-responsive transcriptional activator PutR	Pro_d
+Predicted regulator for hydroxyproline utilization, GntR family	HP_d
+Putative sigma-54-dependent transcriptional regulator for proline degradation	Pro_d
+electron transferring subunit of proline reductase	Pro_d
+Predicted transcriptional regulator for hydroxyproline degradation, MerR family	HP_d
+Xaa-Pro aminopeptidase (EC 3.4.11.9)	HP_d
+L-threonine 3-dehydrogenase (EC 1.1.1.103)	Thr_d
+2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	Thr_d
+Threonine dehydratase, catabolic (EC 4.3.1.19)	Thr_d
+2-ketobutyrate formate-lyase (EC 2.3.1.-)	Thr_d
+L-threonine transporter, anaerobically inducible	Thr_d
+Threonine catabolic operon transcriptional activator TdcA	Thr_d
+Threonine catabolic operon transcriptional activator TdcR	Thr_d
+Low-specificity L-threonine aldolase (EC 4.1.2.48)	Thr_d
+Methionine gamma-lyase (EC 4.4.1.11)	Met_d
+Putative sigma-54-dependent transcriptional regulator of methionine degradation	Met_d
+Histidine ammonia-lyase (EC 4.3.1.3)	His_d
+Urocanate hydratase (EC 4.2.1.49)	His_d
+Imidazolonepropionase (EC 3.5.2.7)	His_d
+Formiminoglutamase (EC 3.5.3.8)	His_d
+N-formylglutamate deformylase (EC 3.5.1.68)	His_d
+N-formylglutamate deformylase (EC 3.5.1.68) [alternative form]	His_d
+Formiminoglutamic iminohydrolase (EC 3.5.3.13)	His_d
+Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	His_d
+Glutamate formyltransferase	His_d
+Predicted DNA-binding transcriptional activator of histidine utilization genes, SARP family	His_d
+Hut operon positive regulatory protein	His_d
+Histidine decarboxylase (EC 4.1.1.22)	His_d; HA
+Predicted histidine/histamine antiporter	His_d
+Histidine transport protein (permease)	His_d
+Lysine decarboxylase 2, constitutive (EC 4.1.1.18)	Lys_d
+Lysine decarboxylase, inducible (EC 4.1.1.18)	Lys_d
+Lysine/cadaverine antiporter membrane protein CadB	Lys_d
+Transcriptional activator of cad operon	Lys_d
+Lysine 2-monooxygenase (EC 1.13.12.2)	Lys_d
+5-aminopentanamidase (EC 3.5.1.30)	Lys_d
+5-aminovalerate aminotransferase (EC 2.6.1.48)	Lys_d
+Glutarate-semialdehyde dehydrogenase (EC 1.2.1.20)	Lys_d
+Lysine 2,3-aminomutase (EC 5.4.3.2)	Lys_d
+L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3)	Lys_d
+L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3)	Lys_d
+3,5-diaminohexanoate dehydrogenase (EC 1.4.1.11)	Lys_d
+3-keto-5-aminohexanoate cleavage enzyme (EC 2.3.1.247)	Lys_d
+3-aminobutyryl-CoA ammonia-lyase (EC 4.3.1.14)	Lys_d
+L-lysine aminomutase regulator	Lys_d
+Predicted L-lysine aminomutase regulator, CdaR family	Lys_d
+Beta-lysine acetyltransferase (EC 2.3.1.-)	Lys_d
+N-acetyl-beta-lysine transaminase YodT	Lys_d
+3-keto-6-acetamidohexanoate cleavage enzyme YodS	Lys_d
+3-keto-6-acetamidohexanoate cleavage enzyme YodR	Lys_d
+4-acetamidobutyryl-CoA deacetylase YodQ	Lys_d
+Choline trimethylamine-lyase	TMA
+Choline trimethylamine-lyase activating enzyme	TMA
+EutM/PduA/PduJ-like protein 3 clustered with choline trimethylamine-lyase	TMA
+EutM/PduA/PduJ-like protein clustered with choline trimethylamine-lyase	TMA
+Acetaldehyde dehydrogenase (EC 1.2.1.10), clustered with choline trimethylamine-lyase	TMA
+EutM/PduA/PduJ-like protein 2 clustered with choline trimethylamine-lyase	TMA
+PduL-like protein clustered with choline trimethylamine-lyase	TMA
+EutN-like protein clustered with choline trimethylamine-lyase	TMA
+PduU-like protein clustered with choline trimethylamine-lyase	TMA
+PduV-like protein clustered with choline trimethylamine-lyase	TMA
+Choline permease LicB	TMA
+Choline utilization transcriptional regulator Dde_3291	TMA
+EutJ-like protein clustered with choline trimethylamine-lyase	TMA
+Carnitine monooxygenase, oxygenase component CntA	TMA
+Carnitine monooxygenase, reductase component CntB	TMA
+Transcriptional regulator for carnitine utilization, LysR family	TMA
+Carnitine transporter, BCCT family	TMA
+D-malate dehydrogenase [decarboxylating] (EC 1.1.1.83)	TMA
+Acylcarnitine hydrolase (EC 3.1.1.28)	TMA
+Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79), involved in carnitine degradation	TMA
+Nucleoside ABC transporter, ATP-binding protein	Nuc_ut
+Nucleoside ABC transporter, permease protein 1	Nuc_ut
+Nucleoside ABC transporter, permease protein 2	Nuc_ut
+Nucleoside ABC transporter, periplasmic nucleoside-binding protein	Nuc_ut
+Purine nucleoside ABC transporter, substrate-binding protein	Nuc_ut
+Purine nucleoside ABC transporter, ATP-binding protein	Nuc_ut
+Purine nucleoside ABC transporter, permease protein 1	Nuc_ut
+Purine nucleoside ABC transporter, permease protein 2	Nuc_ut
+Nucleoside transport protein YdhC	Nuc_ut
+Predicted nucleoside transporter, DcuC family	Nuc_ut
+Nucleoside permease NupC	Nuc_ut
+Predicted nucleoside transporter, MFS family	Nuc_ut
+RusC, outer membrane protein involved in nucleoside binding	Nuc_ut
+RusD, outer membrane protein involved in nucleoside binding	Nuc_ut
+Uridine phosphorylase (EC 2.4.2.3)	Nuc_ut
+Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	Nuc_ut
+Thymidine phosphorylase (EC 2.4.2.4)	Nuc_ut
+Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	Nuc_ut
+Predicted ribokinase, in cluster with nucleoside hydrolase, PfkB family	Nuc_ut
+Arginine decarboxylase (EC 4.1.1.19)	Arg_d
+Agmatinase (EC 3.5.3.11)	Arg_d
+Agmatine deiminase (EC 3.5.3.12)	Arg_d
+Arginine/agmatine antiporter	Arg_d
+Transcriptional regulator of catabolic arginine decarboxylase (adiA)	Arg_d
+N-carbamoylputrescine amidase (EC 3.5.1.53)	Arg_d
+Arginase (EC 3.5.3.1)	Arg_d
+Ornithine aminotransferase (EC 2.6.1.13)	Arg_d
+Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)	Arg_d
+Arginine deiminase (EC 3.5.3.6)	Arg_d
+Ornithine carbamoyltransferase (EC 2.1.3.3)	Arg_d
+Carbamate kinase (EC 2.7.2.2)	Arg_d
+Arginine/ornithine antiporter ArcD	Arg_d
+Transcriptional regulator ArcR essential for anaerobic expression of the ADI pathway, Crp/Fnr family	Arg_d
+Arginine N-succinyltransferase (EC 2.3.1.109)	Arg_d
+Succinylarginine dihydrolase (EC 3.5.3.23)	Arg_d
+Succinylornithine transaminase (EC 2.6.1.81)	Arg_d
+Succinylglutamic semialdehyde dehydrogenase (EC 1.2.1.71)	Arg_d
+Succinylglutamate desuccinylase (EC 3.5.1.96)	Arg_d
+Anaerobic dimethyl sulfoxide reductase chain A (EC 1.8.5.3)	DMSO_r; TMAO_r
+Anaerobic dimethyl sulfoxide reductase chain B (EC 1.8.5.3)	DMSO_r; TMAO_r
+Anaerobic dimethyl sulfoxide reductase chain C (EC 1.8.5.3)	DMSO_r; TMAO_r
+Anaerobic dimethyl sulfoxide reductase chaperone DmsD	DMSO_r; TMAO_r
+Anaerobic dimethyl sulfoxide reductase associated 4Fe-4S dicluster protein, NapG-like	DMSO_r; TMAO_r
+Trimethylamine-N-oxide reductase (EC 1.6.6.9), TorA	TMAO_r
+Trimethylamine-N-oxide reductase associated c-type cytochrome, TorC	TMAO_r
+TorA-specific chaperone protein, TorD	TMAO_r
+Trimethylamine-N-oxide operon transcriptional regulatory protein TorR	TMAO_r
+Trimethylamine-N-oxide sensor histidine kinase TorS (EC 2.7.13.3)	TMAO_r
+Periplasmic protein TorT	TMAO_r
+Respiratory nitrate reductase alpha chain (EC 1.7.99.4)	NAR
+Respiratory nitrate reductase beta chain (EC 1.7.99.4)	NAR
+Respiratory nitrate reductase delta chain (EC 1.7.99.4)	NAR
+Respiratory nitrate reductase gamma chain (EC 1.7.99.4)	NAR
+Periplasmic nitrate reductase precursor (EC 1.7.99.4)	NAR
+Nitrate reductase cytochrome c550-type subunit	NAR
+Cytochrome c-type protein NapC	NAR
+Polyferredoxin NapH (periplasmic nitrate reductase)	NAR
+Ferredoxin-type protein NapG (periplasmic nitrate reductase)	NAR
+Periplasmic nitrate reductase component NapD	NAR
+Ferredoxin-type protein NapF (periplasmic nitrate reductase)	NAR
+NapM protein	NAR
+Periplasmic nitrate reductase component NapE	NAR
+Assimilatory nitrate reductase large subunit (EC 1.7.99.4)	NAR
+Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)	aNIR
+Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)	aNIR
+Cytochrome c552 precursor (EC 1.7.2.2)	aNIR
+Cytochrome c-type protein NrfB precursor	aNIR
+NrfC protein	aNIR
+NrfD protein	aNIR
+Cytochrome c-type heme lyase subunit nrfE, nitrite reductase complex assembly	aNIR
+Cytochrome c-type heme lyase subunit nrfF, nitrite reductase complex assembly	aNIR
+Cytochrome c-type heme lyase subunit nrfG, nitrite reductase complex assembly	aNIR
+Cytochrome c nitrite reductase, small subunit NrfH	aNIR
+Cytochrome c-type heme lyase subunit nrfI, nitrite reductase complex assembly	aNIR
+Copper-containing nitrite reductase (EC 1.7.2.1)	dNIR
+Cytochrome cd1 nitrite reductase (EC:1.7.2.1)	dNIR
+Cytochrome c-type protein NirT	dNIR
+Cytochrome c-552 precursor NirB	dNIR
+Cytochrome c551 NirM	dNIR
+Nitrite reductase accessory protein NirV	dNIR
+Nitrite reductase associated c-type cytochorome NirN	dNIR
+Nitrite reductase, transmembrane domain	dNIR
+Cytochrome c55X precursor NirC	dNIR
+Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent	NOR
+Nitric-oxide reductase subunit B (EC 1.7.99.7)	NOR
+Nitric-oxide reductase subunit C (EC 1.7.99.7)	NOR
+Nitric oxide reductase activation protein NorQ	NOR
+Nitric oxide reductase activation protein NorD	NOR
+Nitric oxide reductase activation protein NorE	NOR
+Nitric oxide reductase activation protein NorF	NOR
+Nitrous-oxide reductase (EC 1.7.99.6)	NOS
+Nitrous oxide reductase maturation protein NosR	NOS
+Nitrous oxide reductase maturation protein NosD	NOS
+Nitrous oxide reductase maturation protein NosF (ATPase)	NOS
+Nitrous oxide reductase maturation transmembrane protein NosY	NOS
+Nitrous oxide reductase maturation protein, outer-membrane lipoprotein NosL	NOS
+Nitrous oxide reductase, polyferredoxin	NOS
+Hypothetical protein CyfX, associated with predicted extracellular microaerobic reductase	mAer
+Predicted extracellular microaerobic reductase, FeS cluster membrane subunit	mAer
+Predicted extracellular microaerobic reductase, catalytic and thiol-binding subunit	mAer
+Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)	mAer
+Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)	mAer
+Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)	Aer
+Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)	Aer
+Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)	Aer
+Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)	Aer
+Cytochrome aa3-600 menaquinol oxidase subunit IV	Aer
+Cytochrome aa3-600 menaquinol oxidase subunit II	Aer
+Cytochrome aa3-600 menaquinol oxidase subunit III	Aer
+Cytochrome aa3-600 menaquinol oxidase subunit I	Aer
+Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)	Aer
+Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)	Aer
+Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)	Aer
+Cytochrome c oxidase polypeptide II (EC 1.9.3.1)	Aer
+Cytochrome c oxidase polypeptide I (EC 1.9.3.1)	Aer
+Cytochrome c oxidase polypeptide III (EC 1.9.3.1)	Aer
+Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)	Aer
+Ubiquinol-cytochrome C reductase, iron-sulfur subunit (EC 1.10.2.2)	Aer
+Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)	Aer
+Ubiquinol-cytochrome C reductase, cytochrome C1 subunit (EC 1.10.2.2)	Aer
+Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)	Aer
+Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)	Aer
+Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)	Aer
+Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1)	Aer
+Tetrathionate reductase subunit A	TTR
+Tetrathionate reductase subunit C	TTR
+Tetrathionate reductase subunit B	TTR
+Tetrathionate reductase, TorD-like chaperon protein	TTR
+Predicted thiosulfate respiratory reductase, cytochrome c-552/4 subunit TsrA	TSR
+Predicted thiosulfate respiratory reductase, rhodanese domain protein TsrB	TSR
+Predicted thiosulfate respiratory reductase maturation protein TsrC, peptidyl-prolyl cis-trans isomerase	TSR
+Predicted thiosulfate respiratory reductase maturation protein TsrD, cytochrome c-type heme lyase	TSR
+Predicted thiosulfate respiratory reductase, 4Fe-4S protein TsrE	TSR
+Predicted thiosulfate respiratory reductase, integral transmembrane protein TsrF	TSR
+Predicted thiosulfate respiratory reductase maturation protein, outer-membrane lipoprotein TsrG	TSR
+Predicted thiosulfate respiratory reductase maturation protein TsrH	TSR
+Predicted thiosulfate respiratory reductase maturation protein TsrI (ATPase)	TSR
+Predicted thiosulfate respiratory reductase maturation transmembrane protein TsrJ	TSR
+Polysulfide reductase PsrA (EC 1.12.98.4), molybdoperterin-binding subunit	TSR
+Polysulfide reductase PsrB (EC 1.12.98.4), Fe-S subunit	TSR
+Polysulfide reductase PsrC (EC 1.12.98.4), anchor subunit	TSR
+Polysulfide reductase PsrD (EC 1.12.98.4), ferredoxin-like protein	TSR
+Polysulfide reductase PsrE (EC 1.12.98.4), TorD-like chaperon	TSR
+Thiosulfate reductase precursor (EC 1.-.-.-)	TSR
+Thiosulfate reductase electron transport protein phsB	TSR
+Thiosulfate reductase cytochrome B subunit	TSR
+Thiosulfate reductase integral membrane protein	TSR
+Dissimilatory sulfite reductase, alpha subunit (EC 1.8.99.3)	SR
+Dissimilatory sulfite reductase, beta subunit (EC 1.8.99.3)	SR
+Dissimilatory sulfite reductase, gamma subunit (EC 1.8.99.3)	SR
+Dissimilatory sulfite reductase clustered protein DsrD	SR
+Anaerobic sulfite reductase subunit A	SR
+Anaerobic sulfite reductase subunit B	SR
+Anaerobic sulfite reductase subunit C (EC 1.8.1.-)	SR
+Spermidine synthase (EC 2.5.1.16)	Put_ut
+Spermidine dehydrogenase (EC 1.5.99.6)	Put_ut
+Monoamine/putrescine oxidase (EC 1.4.3.10)	Put_ut
+Putrescine aminotransferase (EC 2.6.1.82)	Put_ut
+4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)	Put_ut
+Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)	Put_ut
+Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)	Put_ut
+Gamma-glutamyl-aminobutyraldehyde dehydrogenase (EC 1.2.1.-)	Put_ut
+Gamma-glutamyl-GABA hydrolase (EC 3.5.1.94)	Put_ut
+Glutamate/gamma-aminobutyrate antiporter	GABA_d
+Putative novel glutamate/gamma-aminobutyrate antiporter	GABA_d
+Putrescine importer PuuP	GABA_d
+Glutaminase (EC 3.5.1.2)	GABA_d
+Glutamate decarboxylase (EC 4.1.1.15)	GABA_d
+Monoamine/putrescine oxidase (EC 1.4.3.10)	GABA_d
+Putrescine aminotransferase (EC 2.6.1.82)	GABA_d
+4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)	GABA_d
+Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)	GABA_d
+Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)	GABA_d
+Gamma-glutamyl-aminobutyraldehyde dehydrogenase (EC 1.2.1.-)	GABA_d
+Gamma-glutamyl-GABA hydrolase (EC 3.5.1.94)	GABA_d
+Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)	GABA
+Succinate-semialdehyde dehydrogenase [NAD] (EC 1.2.1.24)	GABA
+Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.79)	GABA
+D-serine ammonia-lyase (EC 4.3.1.18)	Ser_d
+Serine racemase (EC:5.1.1.- )	Ser_d
+L-serine dehydratase, alpha subunit (EC 4.3.1.17)	Ser_d
+L-serine dehydratase, beta subunit (EC 4.3.1.17)	Ser_d
+Serine--glyoxylate aminotransferase (EC 2.6.1.45)	Ser_d
+Serine--pyruvate aminotransferase (EC 2.6.1.51)	Ser_d
+Serine transporter SdaC	Ser_d
+Putative serine transporter, GntP family	Ser_d
+Predicted transcriptional regulator of serine utilization, MerR family	Ser_d
+D-serine transporter, RarD family	Ser_d
+Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)	Eut_ut
+Ethanolamine ammonia-lyase light chain (EC 4.3.1.7)	Eut_ut
+Acetaldehyde dehydrogenase, ethanolamine utilization cluster (EC 1.2.1.10)	Eut_ut
+Ethanolamine permease	Eut_ut
+Ethanolamine utilization polyhedral-body-like protein EutK	Eut_ut
+Ethanolamine utilization polyhedral-body-like protein EutL	Eut_ut
+Ethanolamine utilization polyhedral-body-like protein EutM	Eut_ut
+Ethanolamine utilization polyhedral-body-like protein EutN	Eut_ut
+Ethanolamine utilization polyhedral-body-like protein EutS	Eut_ut
+Ethanolamine utilization protein EutA	Eut_ut
+Ethanolamine utilization protein EutG	Eut_ut
+Ethanolamine utilization protein EutJ	Eut_ut
+Ethanolamine utilization protein EutP	Eut_ut
+Ethanolamine utilization protein EutQ	Eut_ut
+Ethanolamine utilization protein similar to PduA/PduJ	Eut_ut
+Ethanolamine utilization protein similar to PduL	Eut_ut
+Ethanolamine utilization protein similar to PduT	Eut_ut
+Ethanolamine utilization protein similar to PduU	Eut_ut
+Ethanolamine utilization protein similar to PduV	Eut_ut
+Phosphate acetyltransferase (EC 2.3.1.8), ethanolamine utilization-specific	Eut_ut
+Protein clustered with ethanolamine utilization	Eut_ut
+Ethanolamine two-component response regulator	Eut_ut
+Ethanolamine sensory transduction histidine kinase	Eut_ut
+Electron transfer flavoprotein, beta subunit YdiQ	But_ut
+Electron transfer flavoprotein, alpha subunit YdiR	But_ut
+Electron transfer flavoprotein-quinone oxidoreductase YdiS	But_ut
+Short-chain-fatty-acid--CoA ligase	But_ut
+Ferredoxin-like protein YdiT	But_ut
+Uncharacterized transcriptional regulator YdiP, AraC family	But_ut
+Inner membrane transport protein YdiN	But_ut
+Inner membrane transport protein YdiM	But_ut
+Acyl-CoA:acetate CoA transferase (EC 2.8.3.8)	But_ut
+Anaerobic Butyryl-CoA dehydrogenase (EC 1.3.99.2)	But_ut
+Uncharacterized protein YdiL	But_ut
+Propanediol dehydratase large subunit (EC 4.2.1.28)	PD_ut
+Propanediol dehydratase medium subunit (EC 4.2.1.28)	PD_ut
+Propanediol dehydratase small subunit (EC 4.2.1.28)	PD_ut
+Predicted novel propanediol dehydratase, B12-independent (EC 4.2.1.-)	PD_ut
+Predicted novel propanediol dehydratase, B12-independent, activating enzyme	PD_ut
+Propanediol dehydratase reactivation factor large subunit	PD_ut
+Propanediol dehydratase reactivation factor small subunit	PD_ut
+Propanediol utilization polyhedral body protein PduA	PD_ut
+Propanediol utilization polyhedral body protein PduB	PD_ut
+Propanediol utilization polyhedral body protein PduJ	PD_ut
+Propanediol utilization polyhedral body protein PduK	PD_ut
+Propanediol utilization protein PduM	PD_ut
+Propanediol utilization polyhedral body protein PduN	PD_ut
+Propanediol utilization polyhedral body protein PduT	PD_ut
+Propanediol utilization polyhedral body protein PduU	PD_ut
+Propanediol diffusion facilitator	PD_ut
+CoA-acylating propionaldehyde dehydrogenase	PD_ut
+Phosphate propanoyltransferase (EC 2.3.1.222)	PD_ut
+Putative iron-containing NADPH-dependent propanol dehydrogenase	PD_ut
+Propanediol utilization protein PduV	PD_ut
+Propionate kinase, propanediol utilization (EC 2.7.2.1)	PD_ut
+Cob(II)alamin reductase	PD_ut
+ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17), propanediol utilization	PD_ut
+Propanediol utilization transcriptional activator	PD_ut
+L-threonine kinase in B12 biosynthesis (EC 2.7.1.177)	PD_ut
+Propanediol utilization protein similar to EutJ	PD_ut
+D-Lactate dehydrogenase (EC 1.1.2.5)	Dlac_ut
+Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing	Dlac_ut
+Lactate dehydrogenase (NAD+, ferredoxin) (EC 1.3.1.110)	Dlac_ut
+Electron bifurcating lactate dehydrogenase, electron transfer flavoprotein alpha	Dlac_ut
+Electron bifurcating lactate dehydrogenase, electron transfer flavoprotein beta	Dlac_ut
+D-Lactate dehydrogenase, cytochrome c-dependent (EC 1.1.2.4)	Dlac_ut
+D-lactate dehydrogenase, FAD binding subunit GlcE (EC 1.1.99.6)	Dlac_ut
+D-lactate dehydrogenase, FAD-linked subunit GlcD (EC 1.1.99.6)	Dlac_ut
+D-lactate dehydrogenase, iron-sulfur subunit GlcF (EC 1.1.99.6)	Dlac_ut
+L-lactate dehydrogenase (EC 1.1.2.3)	Llac_ut
+L-lactate dehydrogenase, Fe-S oxidoreductase subunit LldE (EC 1.1.2.3)	Llac_ut
+L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit LldF (EC 1.1.2.3)	Llac_ut
+L-lactate dehydrogenase LldG subunit (EC 1.1.2.3)	Llac_ut
+Lactate 2-monooxygenase (EC 1.13.12.4)	Llac_ut; Dlac_ut
+DL-lactate permease, LctP family	Llac_ut; Dlac_ut
+Lactate-responsive regulator LldR in Firmicutes, GntR family	Llac_ut; Dlac_ut
+Predicted transcriptional regulator for D-lactate utilization, LysR family	Dlac_ut
+Predicted D-lactate dehydrogenase regulator, SdaR family	Dlac_ut
+Choloylglycine hydrolase (EC 3.5.1.24)	CA_d
+3-alpha-hydroxysteroid dehydrogenase (EC 1.1.1.50)	CA_t_3
+7-alpha-hydroxysteroid dehydrogenase (EC 1.1.1.159)	CA_t_7
+12-alpha-hydroxysteroid dehydrogenase (EC 1.1.1.176)	CA_t_12
+3-alpha-hydroxycholanate dehydrogenase (NADP(+)) (EC 1.1.1.392)	CA_t_DCA1
+Bile acid-coenzyme A ligase (EC 6.2.1.7)	CA_t_DCA1
+NAD(H)-dependent 7-alpha-hydroxy-3-oxo-delta4-cholenoic acid oxidoreductase	CA_t_DCA1
+NAD(H)-dependent 7-beta-hydroxy-3-oxo-delta4-cholenoic acid oxidoreductase	CA_t_DCA1
+Bile acid 7-alpha dehydratase (EC 4.2.1.106)	CA_t_DCA1
+Bile acid 7-beta dehydratase (EC 4.2.1.106)	CA_t_DCA1
+Bile acid CoA-transferase (EC 2.8.3.25)	CA_t_DCA1
+Bile acids transporter, MFS family	CA_t_DCA1
+NAD(H)-dependent 3-alpha-hydroxysteroid reductase, predicted	CA_t_DCA2
+3-dehydro-bile acid delta(4,6)-reductase (EC 1.3.1.114)	CA_t_DCA2
+Predicted transcriptional regulator for bile acid transformation, AraC family	CA_t_DCA1; CA_t_DCA2
+Predicted transcriptional regulator for bile acid transformation, HxlR family	CA_t_DCA1; CA_t_DCA2
+Transcriptional regulator, AcrR family probably bile acid related	CA_t_DCA1; CA_t_DCA2
+Cholic acid acyl synthetase for 3-succinylated cholic acid	CA_t_DCA1; CA_t_DCA2
+Bile acid 5-alpha-reductase	CA_t_DCA1; CA_t_DCA2
+Predicted bile acid transporter, MurJ family	CA_t_DCA1; CA_t_DCA2
+Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)	LPS
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)	LPS
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	LPS
+UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)	LPS
+Lipid-A-disaccharide synthase (EC 2.4.1.182)	LPS
+Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)	LPS
+3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)	LPS
+Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)	LPS
+Lipid A biosynthesis myristoyltransferase (EC 2.3.1.243)	LPS
+Lipid A 1-diphosphate synthase	LPS
+Lipid A biosynthesis palmitoleoyltransferase (EC 2.3.1.242)	LPS
+Amidophosphoribosyltransferase (EC 2.4.2.14)	Pur
+Phosphoribosylamine--glycine ligase (EC 6.3.4.13)	Pur
+Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	Pur
+Phosphoribosylglycinamide formyltransferase 2 (EC 6.3.1.21)	Pur
+Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)	Pur
+Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)	Pur
+Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)	Pur
+Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	Pur
+N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)	Pur
+N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)	Pur
+N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18), predicted alternative form	Pur
+Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	Pur
+Adenylosuccinate lyase (EC 4.3.2.2)	Pur
+Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	Pur
+IMP cyclohydrolase (EC 3.5.4.10)	Pur
+Adenylosuccinate synthetase (EC 6.3.4.4)	Pur
+Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	Pur
+GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	Pur
+Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)	Pyr
+Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	Pyr
+Aspartate carbamoyltransferase (EC 2.1.3.2)	Pyr
+Aspartate carbamoyltransferase regulatory chain (PyrI)	Pyr
+Dihydroorotase (EC 3.5.2.3)	Pyr
+Dihydroorotate dehydrogenase (EC 1.3.3.1)	Pyr
+Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)	Pyr
+Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)	Pyr
+Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)	Pyr
+Dihydroorotate dehydrogenase (fumarate) (EC 1.3.98.1)	Pyr
+Orotate phosphoribosyltransferase (EC 2.4.2.10)	Pyr
+Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	Pyr
+Uridylate kinase (EC 2.7.4.22)	Pyr
+Nucleoside diphosphate kinase (EC 2.7.4.6)	Pyr
+Adenylate kinase (EC 2.7.4.3)	Pyr
+CTP synthase (EC 6.3.4.2)	Pyr
+TRAP-type taurine transport system, large permease component	Tau_ut
+TRAP-type taurine transport system, small permease component	Tau_ut
+TRAP-type taurine transport system, periplasmic component	Tau_ut
+Taurine ABC transporter, substrate-binding protein TauA	Tau_ut
+Taurine ABC transporter, ATP-binding protein TauB	Tau_ut
+Taurine ABC transporter, permease protein TauC	Tau_ut
+Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	Tau_ut
+Taurine-2-oxoglutarate transaminase (EC 2.6.1.55)	Tau_ut
+Taurine-pyruvate aminotransferase (EC 2.6.1.77)	Tau_ut
+Taurine dehydrogenase, small subunit (EC 1.4.2.-)	Tau_ut
+Taurine dehydrogenase, large subunit (EC 1.4.2.-)	Tau_ut
+Sulfoacetaldehyde acetyltransferase (EC 2.3.3.15)	Tau_ut
+Sulfoacetaldehyde reductase (EC 1.1.1.313)	Tau_ut
+Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	Gly_d
+Glycine cleavage system H protein	Gly_d
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	Gly_d
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)	Gly_d
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)	Gly_d
+Glycine reductase component B alpha subunit (EC 1.21.4.2)	Gly_d
+Glycine reductase component B beta subunit (EC 1.21.4.2)	Gly_d
+Glycine reductase component B gamma subunit (EC 1.21.4.2)	Gly_d
+Glycine/sarcosine/betaine reductase protein A	Gly_d
+Glycine/sarcosine/betaine reductase component C chain 1	Gly_d
+Glycine/sarcosine/betaine reductase component C chain 2	Gly_d
+Alanine dehydrogenase (EC 1.4.1.1)	Ala_d
+Alanine racemase (EC 5.1.1.1)	Ala_d
+Alanine racemase, catabolic (EC 5.1.1.1)	Ala_d
+D-amino acid dehydrogenase (EC 1.4.99.6)	Ala_d
+D-amino acid dehydrogenase (EC 1.4.5.1)	Ala_d
+D-alanine aminotransferase (EC 2.6.1.21)	Ala_d
+L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)	Ala_d
+Predicted alanine permease, BcaP family	Ala_d
+D-serine/D-alanine/glycine transporter	Ala_d
+Predicted transcriptional regulator for alanine utilization, AsnC family	Ala_d
+Predicted alanine-responsive transcriptional activator AlaR	Ala_d
+Tryptophan 2,3-dioxygenase (EC 1.13.11.11)	Trp_d
+Kynurenine formamidase (EC 3.5.1.9)	Trp_d
+Kynurenine formamidase, bacterial (EC 3.5.1.9)	Trp_d
+Kynurenine 3-monooxygenase (EC 1.14.13.9)	Trp_d
+Kynureninase (EC 3.7.1.3)	Trp_d
+3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6)	Trp_d
+2-amino-3-carboxymuconate-6-semialdehyde decarboxylase (EC 4.1.1.45)	Trp_d
+2-aminomuconate semialdehyde dehydrogenase (EC 1.2.1.32)	Trp_d
+2-aminomuconate deaminase (EC 3.5.99.5)	Trp_d
+4-oxalocrotonate decarboxylase (EC 4.1.1.77)	Trp_d
+2-keto-4-pentenoate hydratase (EC 4.2.1.80)	Trp_d
+4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.39)	Trp_d
+Indoleamine 2,3-dioxygenase (EC 1.13.11.52)	Trp_d
+Tryptophanase (EC 4.1.99.1)	Trp_d; Trp_I
+Indoleacetamide hydrolase (EC 3.5.1.-)	Trp_d; Trp_IA
+Tryptophan 2-monooxygenase (EC 1.13.12.3)	Trp_d; Trp_IA
+Aromatic-L-amino-acid decarboxylase (EC 4.1.1.28)	Trp_d; Trp_TA
+Tryptophan decarboxylase (EC 4.1.1.28)	Trp_d; Trp_TA
+Indole-3-pyruvate decarboxylase (EC 4.1.1.74)	Trp_d; Trp_IA
+Predicted indole-3-acetaldehyde reductase (EC 1.1.1.191)	Trp_d; Trp_IA
+Predicted aromatic aldehyde dehydrogenase (EC 1.2.1.67)	Trp_d; Trp_IA
+(R)-aromatic lactate dehydrogenase (EC 1.1.1.110)	Trp_d; Trp_IL
+Aromatic amino acid aminotransferase gamma (EC 2.6.1.57)	Trp_d; Trp_IA; Trp_IL
+Predicted aromatic amino acids transaminase	Trp_d; Trp_IA; Trp_IL
+Phenylacetate-coenzyme A ligase (EC 6.2.1.30)	Trp_d; Trp_IA
+Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits	Trp_d; Trp_IA
+Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)	Trp_d; Trp_IA
+Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)	Trp_d; Trp_IA
+Pyrimidine monooxygenase RutA (EC 1.14.99.46)	Pyr_ut
+Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB (EC 3.5.1.110)	Pyr_ut
+Putative aminoacrylate peracid reductase RutC	Pyr_ut
+Possible hydrolase or acyltransferase RutD in novel pyrimidine catabolism pathway	Pyr_ut
+Probable malonic semialdehyde reductase RutE (EC 1.1.1.298)	Pyr_ut
+FMN reductase (NADH) RutF (EC 1.5.1.42)	Pyr_ut
+Pyrimidine permease RutG	Pyr_ut
+Transcriptional regulator RutR of pyrimidine catabolism (TetR family)	Pyr_ut
+Dihydropyrimidine dehydrogenase [NADP+] (EC 1.3.1.2)	Pyr_ut
+Dihydropyrimidinase (EC 3.5.2.2)	Pyr_ut
+Beta-ureidopropionase (EC 3.5.1.6)	Pyr_ut
+Predicted Beta-ureidopropionase (EC 3.5.1.6) similar to Aliphatic amidase	Pyr_ut
+NAD-dependent dihydropyrimidine dehydrogenase subunit PreT (EC 1.3.1.1)	Pyr_ut
+Possible pyrimidine permease in reductive pathway	Pyr_ut
+Pyrimidine ABC transporter, ATP-binding protein	Pyr_ut
+Pyrimidine ABC transporter, substrate-binding component	Pyr_ut
+Pyrimidine ABC transporter, transmembrane component 1	Pyr_ut
+Pyrimidine ABC transporter, transmembrane component 2	Pyr_ut
+L-tartrate/succinate antiporter	Tar_ut
+L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)	Tar_ut
+L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)	Tar_ut
+Transcriptional regulator for L(+)-tartrate utilization, GntR family	Tar_ut
+Predicted transcriptional regulator for L(+)-tartrate utilization, LysR family	Tar_ut
+Predicted transcriptional regulator for L(+)-tartrate utilization, AraC family	Tar_ut
+Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)	Pur_ut
+Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)	Pur_ut
+Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)	Pur_ut
+Possible hypoxanthine oxidase XdhD (EC 1.-.-.-)	Pur_ut
+Guanine-hypoxanthine permease	Pur_ut
+Uracil-xanthine permease	Pur_ut
+Xanthine permease	Pur_ut
+Adenine permease	Pur_ut
+Guanine deaminase (EC 3.5.4.3)	Pur_ut
+Adenine deaminase (EC 3.5.4.2)	Pur_ut
+Malate dehydrogenase (EC 1.1.1.37)	Succinate
+Fumarate hydratase class I (EC 4.2.1.2)	Succinate
+Fumarate hydratase class I, alpha region (EC 4.2.1.2)	Succinate
+Fumarate hydratase class I, beta region (EC 4.2.1.2)	Succinate
+Fumarate hydratase class II (EC 4.2.1.2)	Succinate
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)	Succinate
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)	Succinate
+Succinate dehydrogenase cytochrome b-556 subunit	Succinate
+Succinate dehydrogenase hydrophobic membrane anchor protein	Succinate
+Fumarate reductase flavoprotein subunit (EC 1.3.5.4)	Succinate
+Fumarate reductase iron-sulfur protein (EC 1.3.5.4)	Succinate
+Fumarate reductase subunit C	Succinate
+Fumarate reductase subunit D	Succinate
+Fumarate reductase cytochrome b subunit	Succinate
+Melibiose carrier protein, Na+/melibiose symporter	Mel
+Melibiose and raffinose family oligosaccharide symporter, GPH family	Mel; RFO
+Raffinose family oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1.53)	Mel; RFO
+Raffinose family oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1.53)	Mel; RFO
+Raffinose family oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1.53)	Mel; RFO
+Raffinose family oligosaccharide ABC transporter ATP-binding protein (TC 3.A.1.1.53)	Mel; RFO
+Alpha-1,6-galactosidase (GH36)	Mel; RFO
+Alpha-1,6/4/3-galactosidase (GH36)	Mel; RFO
+Melibiose operon regulatory protein MelR, AraC family	Mel
+Predicted transcriptional regulator of galactosides utilization, AraC family	Mel; RFO
+Predicted transcriptional regulator of galactosides utilization, LacI family	Mel; RFO
+Transcriptional regulator of raffinose family oligosaccharide utilization (ROK family)	Mel; RFO
+Two-component system sensor histidine kinase for alpha-galactosides utilization	Mel; RFO
+Two-component response regulator for alpha-galactosides utilization, AraC family	Mel; RFO
+Alpha-1,6-galactosidase (GH97)	Mel; RFO
+Alpha-galactosidase (EC 3.2.1.22)	Mel; RFO
+Ribulokinase (EC 2.7.1.16)	Ara; aAOS; bAOS
+L-arabinose isomerase (EC 5.3.1.4)	Ara; aAOS; bAOS
+Predicted L-arabinose isomerase (EC 5.3.1.4)	Ara; aAOS; bAOS
+L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	Ara; aAOS; bAOS
+Predicted L-arabinose-specific mutarotase	Ara; aAOS; bAOS
+L-arabinose-specific 1-epimerase (mutarotase)	Ara; aAOS; bAOS
+Exo-alpha-(1->5)-L-arabinofuranosidase (EC 3.2.1.55), GH43 family	aAOS
+Putative alpha-1,5-L-arabinofuranosidase (GH51)	aAOS
+Exo-alpha-(1->2/1->3)-L-arabinofuranosidase (EC 3.2.1.55), GH51 family	aAOS
+alpha-L-arabinofuranosidase (EC 3.2.1.55)	aAOS
+alpha-L-arabinofuranosidase II (EC 3.2.1.55)	aAOS
+Endo-alpha-(1->5)-L-arabinanase (EC 3.2.1.99), GH43 family	aAOS
+Putative galactose or arabinose proton symporter	Ara
+Arabinose-proton symporter AraE (TC 2.A.1.1), SP family	Ara
+L-arabinose-binding periplasmic protein precursor AraF (TC 3.A.1.2.2)	Ara
+L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	Ara
+L-arabinose transport system permease protein (TC 3.A.1.2.2)	Ara
+Predicted L-arabinose ABC transport system, periplasmic arabinose-binding protein	Ara
+Predicted L-arabinose ABC transport system, permease protein 1	Ara
+Predicted L-arabinose ABC transport system, ATP-binding protein	Ara
+Predicted L-arabinose ABC transport system, permease protein 2	Ara
+Sodium-dependent alpha-arabino-oligosaccharides transporter AraP (2.A.21), SSS family	Ara; aAOS
+Predicted alpha-arabino-oligosaccharides permease (TC 2.A.1.5), OHS family	aAOS
+Predicted alpha-arabino-oligosaccharides permease (TC 2.A.2), GPH:cation symporter family	aAOS
+Possible GPH family transporter (TC 2.A.2) for arabinosides	aAOS
+Alpha-arabinosides ABC transport system, substrate-binding protein	aAOS
+Alpha-arabinosides ABC transport system, permease protein 1	aAOS
+Alpha-arabinosides ABC transport system, permease protein 2	aAOS
+SusC, outer membrane protein involved in AOS/arabinan utilization	aAOS
+SusD, outer membrane protein involved in AOS/arabinan utilization	aAOS
+Exo-beta-(1->2)-L-arabinofuranosidase (EC 3.2.1.185), GH127 family	bAOS
+Predicted beta-arabino-oligosaccharides permease (TC 2.A.2), GPH:cation symporter family	bAOS
+Putative transcriptional regulator of beta-arabinooligosaccharide utilization (LacI family)	bAOS
+Predicted alpha-arabino-oligosaccharides utilization transcriptional regulator, AraC family	aAOS
+Putative transcriptional regulator of beta-arabinooligosaccharide utilization (AraC family)	bAOS
+Predicted transcriptional regulator for arabinose utilization, NrtR family	Ara
+Predicted transcriptional regulator for arabinose utilization, LacI family	Ara
+DNA-binding response regulator for AOS/arabinane utilization, AraC family	aAOS
+L-arabinose 1-dehydrogenase (EC 1.1.1.46)	Ara
+predicted L-arabinose 1-dehydrogenase (EC 1.1.1.46)	Ara
+L-arabinolactonase (EC 3.1.1.15)	Ara
+L-arabonate dehydratase (EC 4.2.1.25)	Ara
+L-2-keto-3-deoxyarabonate dehydratase (EC 4.2.1.43)	Ara
+Beta-galactosidase (EC 3.2.1.23)	GOS; Lac
+Periplasmic beta-galactosidase (EC 3.2.1.23) involved in lactose utilization (GH2)	GOS; Lac
+Beta-galactosidase LacH (EC 3.2.1.23)	GOS; Lac
+Beta-galactosidase large subunit (EC 3.2.1.23)	GOS; Lac
+Beta-galactosidase small subunit (EC 3.2.1.23)	GOS; Lac
+Evolved beta-D-galactosidase, alpha subunit	GOS; Lac
+Evolved beta-D-galactosidase, beta subunit	GOS; Lac
+Extracellular beta-1,4-galactosidase A (GH2)	GOS; Lac
+Beta-1,3-galactosidase (GH35)	GOS; Lac
+Beta-1,3-galactosidase, linked to hyaluronan utilization genes (GH35)	GOS; Lac
+Beta-1,3-galactosidase, specific for lacto-N-biose and galacto-N-biose (GH35)	GOS; Lac
+Lactose permease	Lac
+Lactose and galactose permease, GPH translocator family	Lac
+Putative lactose permease (TC 2.A.2)	Lac
+PTS system, lactose-specific IIA component (EC 2.7.1.69)	Lac
+PTS system, lactose-specific IIB component (EC 2.7.1.69)	Lac
+PTS system, lactose-specific IIC component (EC 2.7.1.69)	Lac
+6-phospho-beta-galactosidase (EC 3.2.1.85)	Lac
+Beta-galactosides ABC transporter, substrate-binding protein	GOS
+Beta-galactosides ABC transporter, permease component 1	GOS
+Beta-galactosides ABC transporter, permease component 2	GOS
+Beta-galactosides ABC transporter, ATP-binding protein	GOS
+Lactose phosphotransferase system repressor	GOS; Lac
+Transcriptional regulator for lactose utilization, LacI family	GOS; Lac
+Transcriptional regulator for lactose utilization, AraC family	GOS; Lac
+Transcriptional repressor of the lac operon	GOS; Lac
+Evolved beta-D-galactosidase transcriptional repressor	GOS; Lac
+Transcriptional regulator for beta-galactosides utilization, LacI family	GOS; Lac
+Transcriptional regulator for beta-galactosides utilization, AraC family	GOS; Lac
+Two-component response regulator for beta-galactosides utilization, AraC family	GOS; Lac
+Two-component system sensor histidine kinase for beta-galactosides utilization	GOS; Lac
+SusC, outer membrane protein involved in galacto-oligosaccharides utilization	GOS
+SusD, outer membrane protein involved in galacto-oligosaccharides utilization	GOS
+Hybrid two-component system sensor histidine kinase/response regulator involved in galacto-oligosaccharides utilization	GOS; Lac
+Arabinogalactan endo-1,4-beta-galactanase (EC 3.2.1.89)	GOS; Lac
+Secreted beta-galactosidase acting on galactan (GH147)	GOS
+Surface glycan binding protein, galacto-oligosaccharides-specific	GOS
+Periplasmic beta-galactosidase (EC 3.2.1.23) involved in galacto-oligosaccharides utilization (GH2)	GOS
+Broad specificity beta-glucosidase (GH1)	Bgl
+Beta-glucosidase-1 (GH1)	Bgl
+Beta-glucosidase (EC 3.2.1.21)	Bgl
+Periplasmic beta-glucosidase (EC 3.2.1.21)	Bgl
+6-phospho-beta-glucosidase (EC 3.2.1.86)	Bgl
+1,2-beta-oligoglucan phosphorylase (EC 2.4.1.333)	Bgl
+Cellobiose phosphorylase (EC 2.4.1.20)	Bgl
+Laminaribiose phosphorylase (EC 2.4.1.31)	Bgl
+probable beta-1,3-exoglucanase	Bgl
+Predicted beta-1,6-glucanase, GH30	Bgl
+beta-1,4-glucanase (cellulase) (EC 3.2.1.4)	Bgl
+Beta-glucanase precursor (EC 3.2.1.73)	Bgl
+Endo-beta-1,3-1,4 glucanase (Licheninase) (EC 3.2.1.73)	Bgl
+Cellulose 1,4-beta-cellobiosidase (non-reducing end) (EC 3.2.1.91)	Bgl
+PTS system, cellobiose-specific IIA component (EC 2.7.1.69)	Bgl
+PTS system, cellobiose-specific IIB component (EC 2.7.1.69)	Bgl
+PTS system, cellobiose-specific IIC component (EC 2.7.1.69)	Bgl
+PTS system, beta-glucoside-specific IIA component (EC 2.7.1.69)	Bgl
+PTS system, beta-glucoside-specific IIB component (EC 2.7.1.69)	Bgl
+PTS system, beta-glucoside-specific IIC component (EC 2.7.1.69)	Bgl
+PTS system, arbutin-, cellobiose-, and salicin-specific IIB component	Bgl
+PTS system, arbutin-, cellobiose-, and salicin-specific IIC component	Bgl
+Beta-glucosides ABC transporter, substrate-binding protein	Bgl
+Beta-glucosides ABC transporter, permease component 1	Bgl
+Beta-glucosides ABC transporter, permease component 2	Bgl
+Predicted beta-glucosides ABC transporter, substrate-binding protein	Bgl
+Predicted beta-glucosides ABC transporter, permease protein 1	Bgl
+Predicted beta-glucosides ABC transporter, permease protein 2	Bgl
+Cellobiose and cellodextrin ABC transporter substrate-binding component (TC 3.A.1.1)	Bgl
+Cellobiose and cellodextrin ABC transporter permease component 1 (TC 3.A.1.1)	Bgl
+Cellobiose and cellodextrin ABC transporter permease component 2 (TC 3.A.1.1)	Bgl
+SusC, outer membrane protein involved in beta-glucoside binding	Bgl
+SusD, outer membrane protein involved in beta-glucoside binding	Bgl
+Beta-glucoside bgl operon antiterminator, BglG family	Bgl
+Predicted beta-glucosides utilization regulator, RpiR family	Bgl
+Predicted beta-glucosides utilization regulator, GntR family	Bgl
+AscBF operon repressor	Bgl
+Transcriptional regulator of cellobiose and cellodextrin utilization (LacI family)	Bgl
+Transcriptional regulator of beta-glucosides utilization, LacI family	Bgl
+Transcriptional regulator of beta-glucosides utilization, AraC family	Bgl
+Transcriptional activator of cellobiose operon, BglG family	Bgl
+Outer surface protein of unknown function, cellobiose operon	Bgl
+Glucan endo-1,6-beta-glucosidase (EC 3.2.1.75)	Bgl
+Periplasmic beta-1,6-glucosidase (GH3)	Bgl
+Regulatory protein SusR involved in beta-glucan utilization	Bgl
+Endoglucanase C (EC 3.2.1.4)	Bgl
+Predicted cellobiose operon regulator (Transcriptional antiterminator), BglG family	Bgl
+1-phosphofructokinase (EC 2.7.1.56)	Fru
+Fructokinase (EC 2.7.1.4)	Fru
+Predicted fructose transporter	Fru
+Fructose-specific ABC transporter, substrate-binding protein FruE	Fru
+Fructose-specific ABC transporter, permease protein FruF	Fru
+Fructose-specific ABC transporter, permease protein FruG	Fru
+Fructose-specific ABC transporter, ATPase protein FruK	Fru
+PTS system, fructose-specific IIA component (EC 2.7.1.69)	Fru
+PTS system, fructose-specific IIB component (EC 2.7.1.69)	Fru
+PTS system, fructose-specific IIC component (EC 2.7.1.69)	Fru
+PTS system, fructose-specific IID component	Fru
+PTS system, fructose-specific IIA component (EC 2.7.1.202)	Fru
+PTS system, fructose-specific IIB component (EC 2.7.1.202)	Fru
+PTS system, fructose-specific IIC component	Fru
+Transcriptional repressor of the fructose operon, DeoR family	Fru
+Predicted transcriptional regulator of fructose utilization, RpiR family	Fru
+Fructose utilization antiterminator, BglG family	Fru
+L-fucose mutarotase (EC 5.1.3.29)	Fuc
+L-fucose isomerase (EC 5.3.1.25)	Fuc
+L-fuculokinase (EC 2.7.1.51)	Fuc
+L-fuculokinase (EC 2.7.1.51), predicted	Fuc
+L-fuculose phosphate aldolase (EC 4.1.2.17)	Fuc
+L-fuculose phosphate aldolase, type 2 (EC 4.1.2.17)	Fuc
+Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization (EC 1.2.1.22)	Fuc
+L-fuco-beta-pyranose dehydrogenase (EC 1.1.1.122)	Fuc
+L-fuco-beta-pyranose dehydrogenase, type 2 (EC 1.1.1.122)	Fuc
+L-fuconolactone hydrolase	Fuc
+L-fuconate dehydratase (EC 4.2.1.68)	Fuc
+2-keto-3-deoxy-L-fuconate dehydrogenase	Fuc
+2,4-didehydro-3-deoxy-L-fuconate hydrolase (EC 3.7.1.26)	Fuc
+2-keto-3-deoxy-L-fuconate aldolase (EC 4.1.2.64)	Fuc
+Lactaldehyde reductase (EC 1.1.1.77)	Fuc
+Fucose permease	Fuc
+Fucose transporter, Sugar_tr family, predicted	Fuc
+Fucose ABC transport system, substrate-binding protein, predicted	Fuc
+Fucose ABC transport system, permease protein, predicted	Fuc
+Fucose ABC transport system, ATP-binding protein, predicted	Fuc
+Alpha-L-fucosidase (EC 3.2.1.51)	Fcs
+alpha-L-fucosidase (EC 3.2.1.51)	Fcs
+Putative alpha-1,2-fucosidase (EC 3.2.1.63)	Fcs
+alpha-L-fucosidase (EC 3.2.1.51), predicted	Fcs
+glycosyl hydrolase family 29 (alpha-L-fucosidase)	Fcs
+Alpha-1,3/4-L-fucosidase (GH29)	Fcs
+Alpha-L-fucosidase (EC 3.2.1.51), GH95 family	Fcs
+PTS system, prediced fucosides-specific IIA component	Fcs
+PTS system, prediced fucosides-specific IIB component	Fcs
+PTS system, prediced fucosides-specific IIC component (EC 2.7.1.69)	Fcs
+PTS system, prediced fucosides-specific IID component	Fcs
+Fucosides ABC transport system, substrate-binding protein, predicted	Fcs
+Fucosides ABC transport system, permease protein, predicted	Fcs
+Outer membrane TonB-dependent transporter, predicted utilization system for fucosyllactose, SusC family	Fcs
+Cell surface glycan-binding lipoprotein, predicted utilization system for fucosyllactose, SusD family	Fcs
+Predicted transcriptional regulator for fucose utilization, AraC family	Fuc
+Predicted transcriptional regulator for fucose utilization, LacI family	Fuc
+L-fucose operon activator	Fuc
+Predicted lactaldehyde dehydrogenase (EC 1.2.1.22)	Fuc
+Predicted transcriptional regulator for fucose utilization, IclR family	Fuc
+Alpha-L-fucosidase (GH151)	Fcs
+Putative Fuc(a1-6)GlcNAc-peptide MFS permease (TC 2.A.1.68)	Fcs
+Alpha-1,6-L-fucosidase (GH29)	Fcs
+Predicted fuconate transporter, KdgT-related	Lfuc
+Predicted fuconate/rhamnonate transporter, ACS Family	Lfuc
+Predicted fuconate transcriptional regulator, IclR family	Lfuc
+Aldose 1-epimerase (EC 5.1.3.3)	Gal
+galactose mutarotase-like protein	Gal
+Galactokinase (EC 2.7.1.6)	Gal
+Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	Gal
+UTP---hexose-1-phosphate uridylyltransferase (EC 2.7.7.10)	Gal
+UDP-glucose 4-epimerase (EC 5.1.3.2)	Gal
+UDP-hexose 4-epimerase (EC 5.1.3.2)	Gal
+Phosphoglucomutase (EC 5.4.2.2)	Gal
+Galactose-proton symporter	Gal
+Galactose/glucose transporter, FHS family, MFS superfamily	Gal
+Putative galactose MFS permease (TC 2.A.21)	Gal
+Predicted sodium-dependent galactose transporter	Gal
+Galactose MFS permease (TC 2.A.1.1.42)	Gal
+Galactose/methyl galactoside ABC transport system, ATP-binding protein MglA (EC 3.6.3.17)	Gal
+Galactose/methyl galactoside ABC transport system, permease protein MglC (TC 3.A.1.2.3)	Gal
+Galactose/methyl galactoside ABC transport system, D-galactose-binding periplasmic protein MglB (TC 3.A.1.2.3)	Gal
+Galactose/xylose/glucose ABC transport system, ATP-binding component	Gal
+Galactose/xylose/glucose ABC transport system, permease component	Gal
+Galactose/xylose/glucose ABC transport system, substrate-binding component	Gal
+Galactose-6-phosphate isomerase, LacA subunit (EC 5.3.1.26)	Gal
+Galactose-6-phosphate isomerase, LacB subunit (EC 5.3.1.26)	Gal
+Tagatose-6-phosphate kinase (EC 2.7.1.144)	Gal; Tag
+Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)	Gal; Tag
+PTS system, galactose-specific IIA component (EC 2.7.1.69)	Gal
+PTS system, galactose-specific IIB component (EC 2.7.1.69)	Gal
+PTS system, galactose-specific IIC component (EC 2.7.1.69)	Gal
+Predicted PTS system, galactose-specific IID component	Gal
+Predicted PTS system, galactose-specific IIC component	Gal
+Predicted PTS system, galactose-specific IIB component	Gal
+Predicted PTS system, galactose-specific IIA component	Gal
+PTS system, tagatose-specific IIB component (EC 2.7.1.69)	Tag
+PTS system, tagatose-specific IIC component (EC 2.7.1.69)	Tag
+PTS system, tagatose-specific IIA component (EC 2.7.1.69)	Tag
+D-tagatose-1-phosphate kinase (EC 2.7.1.234)	Tag
+Tagatose-6-phosphate kinase GatZ (EC 2.7.1.144)	Gal; Tag
+Lactose phosphotransferase system repressor	Gal
+Galactose operon repressor, GalR-LacI family of transcriptional regulators	Gal
+Transcriptional regulator of galactose metabolism, DeoR family	Tag
+Tagatose-phosphate transcriptional repressor, RpiR family	Tag
+Transcriptional regulator of tagatose utilization, DeoR family	Tag
+Predicted transcriptional repressor of tagatose utilization, DeoR family	Tag
+Transcriptional regulator of galactose metabolism, LacI family	Gal
+Lactose and galactose permease, GPH translocator family	Gal
+Gluconokinase (EC 2.7.1.12)	Gnt
+6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	Gnt
+Gluconate dehydratase (EC 4.2.1.39)	Gnt
+Gluconate permease	Gnt
+Gluconate permease, Bsu4004 homolog	Gnt
+High-affinity gluconate transporter GntT	Gnt
+Gluconate transporter family protein	Gnt
+D-gluconate transporter (2.A.1.14)	Gnt
+Low-affinity gluconate/H+ symporter GntU	Gnt
+Predicted TRAP-type gluconate transport system, large permease component	Gnt
+Predicted TRAP-type gluconate transport system, small permease component	Gnt
+TRAP-type transport system, periplasmic component, predicted glutamate-binding protein	Gnt
+PTS system, gluconate-specific IIA component	Gnt
+PTS system, gluconate-specific IIB component	Gnt
+PTS system, gluconate-specific IIC component	Gnt
+PTS system, gluconate-specific IID component	Gnt
+Putative D-gluconate ABC transporter, permease protein 1	Gnt
+Putative D-gluconate ABC transporter, substrate-binding protein	Gnt
+Putative D-gluconate ABC transporter, permease protein 2	Gnt
+Transcriptional regulator for gluconate utilization, GntR family	Gnt
+Gluconate operon transcriptional repressor	Gnt
+Gluconate utilization system Gnt-I transcriptional repressor	Gnt
+Predicted phosphogluconate utilization regulator, RpiR family	Gnt
+Predicted 6-phosphomannonate 2-epimerase	Gnt
+Sugar-terminal-phosphatase (EC 3.1.3.58)	Gnt
+hypothetical membrane-bound protein from gluconate utilization operon	Gnt
+Glucokinase (EC 2.7.1.2)	Glc
+Hexokinase (EC 2.7.1.1)	Glc
+Polyphosphate glucokinase (EC 2.7.1.63)	Glc
+Galactose/glucose transporter, FHS family, MFS superfamily	Glc
+glucose uptake protein	Glc
+Sugar symporter in Akkermansia	Glc
+Glucose/mannose:H+ symporter GlcP	Glc
+Glucose MFS permease (TC 2.A.1.1.42)	Glc
+Galactose/xylose/glucose ABC transport system, ATP-binding component	Glc
+Galactose/xylose/glucose ABC transport system, permease component	Glc
+Galactose/xylose/glucose ABC transport system, substrate-binding component	Glc
+PTS system, glucose-specific IIA component (EC 2.7.1.69)	Glc
+PTS system, glucose-specific IIB component (EC 2.7.1.69)	Glc
+PTS system, glucose-specific IIC component (EC 2.7.1.69)	Glc
+PTS system, maltose and glucose-specific IIB component (EC 2.7.1.69)	Glc
+PTS system, maltose and glucose-specific IIC component (EC 2.7.1.69)	Glc
+PTS system, maltose and glucose-specific IIA component (EC 2.7.1.69)	Glc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIC component (EC 2.7.1.69)	Glc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IID component (EC 2.7.1.69)	Glc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIA component (EC 2.7.1.69)	Glc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIB component (EC 2.7.1.69)	Glc
+Glucose utilization antiterminator, BglG family	Glc
+Transcription antiterminator GlcT	Glc
+Predicted transcriptional regulator of glucose utilization, GntR family	Glc
+Mannonate dehydratase (EC 4.2.1.8)	GlcA; GalA; GlcAs; GalAs
+D-mannonate oxidoreductase (EC 1.1.1.57)	GlcA; GalA; GlcAs; GalAs
+Altronate dehydratase (EC 4.2.1.7)	GlcA; GalA; GlcAs; GalAs
+Altronate oxidoreductase (EC 1.1.1.58)	GlcA; GalA; GlcAs; GalAs
+Uronate isomerase (EC 5.3.1.12)	GlcA; GalA; GlcAs; GalAs
+Uronate isomerase, family BH0493 (EC 5.3.1.12)	GlcA; GalA; GlcAs; GalAs
+Novel D-tagaturonate epimerase	GlcA; GalA; GlcAs; GalAs
+Novel D-mannonate kinase	GlcA; GalA; GlcAs; GalAs
+Predicted 6-phosphomannonate 2-epimerase	GlcA; GalA; GlcAs; GalAs
+Novel D-gluconate kinase involved in hexuronate catabolism	GlcA; GalA; GlcAs; GalAs
+Predicted D-mannonate epimerase	GlcA; GalA; GlcAs; GalAs
+Hexuronate transporter	GlcA; GalA
+Predicted hexuronate transporter, GPH family	GlcA; GalA
+TRAP-type hexuronate transport system, periplasmic component	GlcA; GalA
+TRAP-type hexuronate transport system, small permease component	GlcA; GalA
+TRAP-type hexuronate transport system, large permease component	GlcA; GalA
+Predicted hexuronate ABC transporter, ATP-binding component	GlcA; GalA
+Predicted hexuronate ABC transporter, inner membrane permease	GlcA; GalA
+Predicted hexuronate ABC transporter, solute-binding periplasmic protein	GlcA; GalA
+Predicted hexuronate ABC transporter, permease protein	GlcA; GalA
+Beta-glucuronidase (EC 3.2.1.31)	GlcAs
+Glucuronide permease	GlcAs
+Glucuronide transporter UidB	GlcAs
+Predicted beta-glucuronide-specific PTS system, IIABC components	GlcAs
+Putative glucuronide ABC transporter substrate-binding component (TC 3.A.1.1)	GlcAs
+Putative glucuronide ABC transporter permease component 1 (TC 3.A.1.1)	GlcAs
+Putative glucuronide ABC transporter permease component 2 (TC 3.A.1.1)	GlcAs
+Polygalacturonase (EC 3.2.1.15)	GalAs
+Exopolygalacturonate lyase (EC 4.2.2.9)	GalAs
+Oligogalacturonate lyase (EC 4.2.2.6)	GalAs
+Oligogalacturonide ABC transporter, inner membrane permease	GalAs
+Oligogalacturonide ABC transporter, ATP-binding component	GalAs
+Oligogalacturonide ABC transporter, solute-binding periplasmic protein	GalAs
+Predicted oligogalacturonate TRAP transporter, substrate-binding subunit	GalAs
+Predicted oligogalacturonate TRAP transporter, small transmembrane subunit	GalAs
+Predicted oligogalacturonate TRAP transporter, large transmembrane subunit	GalAs
+Oligogalacturonide transporter	GalAs
+Oligogalacturonate-specific porin protein KdgM	GalAs
+SusC, outer membrane protein involved in oligogalacturonate binding	GalAs
+SusD, outer membrane protein involved in oligogalacturonate binding	GalAs
+Surface glycan binding protein, homogalacturonan-specific	GalAs
+Putative beta-glucuronidase (GH154)	GlcAs
+Predicted Alpha-glucuronidase (GH31)	GlcA; GalA; GlcAs; GalAs
+Uronate dehydrogenase (EC 1.1.1.203)	GlcA; GalA; GlcAs; GalAs
+D-galactaro-1,5-lactonase/D-glucaro-1,5-lactonase UxuF	GlcA; GalA; GlcAs; GalAs
+D-galactaro-1,5-lactonase/D-glucaro-1,5-lactonase UxuL	GlcA; GalA; GlcAs; GalAs
+D-galactarolactone cycloisomerase (EC 5.5.1.27)	GlcA; GalA; GlcAs; GalAs
+D-galactarolactone isomerase (EC 5.4.1.4)	GlcA; GalA; GlcAs; GalAs
+Glucuronide transport facilitator UidC	GlcAs
+Fructuronate transporter GntP	GlcA; GalA
+Alpha-galacturonidase (EC 3.2.1.67)	GalAs
+Pectate lyase precursor (EC 4.2.2.2)	GalAs
+Pectate lyase (EC 4.2.2.2)	GalAs
+Pectate lyase L precursor (EC 4.2.2.2)	GalAs
+Pectin degradation protein KdgF	GalAs
+Uxu operon transcriptional regulator	GlcA; GalA; GlcAs; GalAs
+Predicted regulator for glucuronate utilization, LacI family	GlcA; GalA; GlcAs; GalAs
+Predicted regulator for galacturonate utilization, LacI family	GlcA; GalA; GlcAs; GalAs
+Predicted regulator for galacturonate utilization, GntR family	GlcA; GalA; GlcAs; GalAs
+Predicted transcriptional regulator for oligogalacturonate utilization, AraC family	GlcA; GalA; GlcAs; GalAs
+Hexuronate utilization transcriptional regulator, GntR family	GlcA; GalA; GlcAs; GalAs
+Hexuronate utilization operon transcriptional repressor ExuR	GlcA; GalA; GlcAs; GalAs
+D-glucuronate-specific transcriptional regulator, LacI family	GlcA; GalA; GlcAs; GalAs
+Predicted regulator for glucuronate utilization, GntR family	GlcA; GalA; GlcAs; GalAs
+Predicted transcriptional regulator for beta-glucuronide utilization, AraC family	GlcA; GalA; GlcAs; GalAs
+Two-component response regulator for hexuronate utilization, AraC family	GlcA; GalA; GlcAs; GalAs
+Two-component system sensor histidine kinase for hexuronate utilization	GlcA; GalA; GlcAs; GalAs
+Pectin acetylesterase (EC 3.1.1.6)	GalAs
+Myo-inositol 2-dehydrogenase (EC 1.1.1.18)	Ino
+Myo-inositol 2-dehydrogenase 1 (EC 1.1.1.18)	Ino
+Myo-inositol 2-dehydrogenase 2 (EC 1.1.1.18)	Ino
+putative scyllo-inositol 2-dehydrogenase	Ino
+Inosose isomerase (EC 5.3.99.11)	Ino
+Inosose dehydratase (EC 4.2.1.44)	Ino
+3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase (EC 3.7.1.22)	Ino
+5-deoxy-glucuronate isomerase (EC 5.3.1.30)	Ino
+5-keto-2-deoxygluconokinase (EC 2.7.1.92)	Ino
+5-keto-2-deoxy-D-gluconate-6 phosphate aldolase (EC 4.1.2.29)	Ino
+5-keto-2-deoxy-D-gluconate-6 phosphate aldolase [form 2] (EC 4.1.2.29)	Ino
+Methylmalonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.27)	Ino
+Malonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.18)	Ino
+Scyllo-inosose 3-dehydrogenase (EC 1.1.1.-)	Ino
+3-dehydro-scyllo-inosose hydrolase (EC 3.7.1.-)	Ino
+5-keto-L-gluconate epimerase	Ino
+Minor myo-inositol transporter IolF	Ino
+Major myo-inositol transporter IolT	Ino
+Sodium/myo-inositol cotransporter	Ino
+Predicted inositol transporter IolT	Ino
+Predicted inositol ABC transporter, substrate-binding protein	Ino
+Predicted inositol ABC transporter, permease protein 2	Ino
+Predicted inositol ABC transporter, permease protein 1	Ino
+Inositol transport system permease protein	Ino
+Inositol transport system sugar-binding protein	Ino
+Inositol transport system ATP-binding protein	Ino
+Transcriptional repressor of the myo-inositol catabolic operon DeoR family	Ino
+Predicted transcriptional regulator of the myo-inositol catabolic operon	Ino
+Predicted transcriptional regulator of inositol degradation, IclR family	Ino
+Predicted transcriptional regulator of inositol degradation, LacI family	Ino
+PTS system, maltose and glucose-specific IIA component (EC 2.7.1.69)	Mal
+PTS system, maltose and glucose-specific IIB component (EC 2.7.1.69)	Mal
+PTS system, maltose and glucose-specific IIC component (EC 2.7.1.69)	Mal
+Maltose-6'-phosphate glucosidase (EC 3.2.1.122)	Mal
+Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	Mal; MOS
+Maltose/maltodextrin ABC transporter, permease protein MalF	Mal; MOS
+Maltose/maltodextrin ABC transporter, permease protein MalG	Mal; MOS
+Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	Mal; MOS
+Maltoporin for transport of maltose and maltodextrins	Mal; MOS
+Maltose operon periplasmic protein MalM	Mal
+Alpha-1,4-glucosidase (GH13_44)	Mal; MOS
+Alpha-glucosidase (EC 3.2.1.20)	Mal; MOS
+Oligo-1,6-glucosidase (EC 3.2.1.10)	Mal; MOS
+Maltose phosphorylase (EC 2.4.1.8)	Mal; MOS
+Maltodextrin phosphorylase (EC 2.4.1.1)	Mal; MOS
+Glycogen phosphorylase (EC 2.4.1.1)	Mal; MOS
+Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196)	MOS
+4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	Mal; MOS
+Maltodextrin glucosidase (EC 3.2.1.20)	MOS
+Glucoamylase (EC 3.2.1.3)	MOS
+Neopullulanase (EC 3.2.1.135)	MOS
+Cyclomaltodextrin glucanotransferase (EC 2.4.1.19)	MOS
+Pullulanase (EC 3.2.1.41)	MOS
+Alpha-amylase BoGH13A (EC 3.2.1.1)	MOS
+Periplasmic alpha-amylase (EC 3.2.1.1)	MOS
+Cytoplasmic alpha-amylase (EC 3.2.1.1)	MOS
+Alpha-amylase (EC 3.2.1.1)	MOS
+SusC, outer membrane protein involved in maltodextrin utilization	Mal; MOS
+SusD, outer membrane protein involved in maltodextrin utilization	Mal; MOS
+Glucan 1,4-alpha-glucosidase (EC 3.2.1.3)	MOS
+Surface glycan-binding protein involved in maltodextrin utilization	MOS
+Outer membrane protein SusF	MOS
+Predicted maltose transporter, MFS family	Mal
+Maltose operon transcriptional repressor MalR, LacI family	Mal; MOS
+Regulatory protein SusR involved in maltodextrin utilization	Mal; MOS
+Maltose epimerase (EC 5.1.3.21)	Mal; MOS
+Beta-phosphoglucomutase (EC 5.4.2.6)	Mal; MOS
+Transcriptional regulator GlvR, RpiR family	Mal; MOS
+Maltodextrin utilization transcriptional regulator MalR1, LacI family	Mal; MOS
+Transcriptional activator of maltose regulon, MalT	Mal; MOS
+Maltose operon antiterminator, BglG family	Mal; MOS
+Predicted transcriptional regulator of maltodextrin utilization, GntR family	Mal; MOS
+Predicted maltose-specific TonB-dependent receptor	Mal
+Predicted transcriptional regulator of maltodextrin utilization, AraC family	Mal; MOS
+PTS system, mannose-specific IIA component (EC 2.7.1.69)	Man
+PTS system, mannose-specific IIB component (EC 2.7.1.69)	Man
+PTS system, mannose-specific IIC component (EC 2.7.1.69)	Man
+PTS system, mannose-specific IID component (EC 2.7.1.69)	Man
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIA component (EC 2.7.1.69)	Man
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIB component (EC 2.7.1.69)	Man
+PTS system, mannose/glucose/N-acetylglucosamine-specific IID component (EC 2.7.1.69)	Man
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIC component (EC 2.7.1.69)	Man
+PTS system, fructose- and mannose-inducible IIA component (EC 2.7.1.69)	Man
+PTS system, fructose- and mannose-inducible IIB component	Man
+PTS system, fructose- and mannose-inducible IIC component	Man
+PTS system, fructose- and mannose-inducible IID component (EC 2.7.1.69)	Man
+Predicted mannose transporter, GGP family	Man
+Predicted sodium-dependent mannose transporter	Man; bMnOS; bMAN
+Predicted mannobiose transporter, GPH family	Man; bMnOS; bMAN
+Predicted mannobiose ABC transporter, substrate-binding protein	bMnOS; bMAN
+Predicted mannobiose ABC transporter, permease protein 1	bMnOS; bMAN
+Predicted mannobiose ABC transporter, permease protein 2	bMnOS; bMAN
+PTS system, oligo-beta-mannoside-specific IIC component (EC:2.7.1.69)	bMnOS; bMAN
+PTS system, oligo-beta-mannoside-specific IIB component (EC:2.7.1.69)	bMnOS; bMAN
+PTS system, oligo-beta-mannoside-specific IIA component (EC:2.7.1.69)	bMnOS; bMAN
+Beta-mannosidase (EC 3.2.1.25)	Man; bMnOS; bMAN
+Extracellular endo-beta-1,4-mannanase (GH26)	bMAN
+Extracellular endo-beta-1,4-mannanase (GH5)	bMAN
+Endo-beta-1,4-mannanase (GH113)	bMAN
+Beta-1,4-mannooligosaccharide phosphorylase (EC 2.4.1.319)	bMnOS; bMAN
+4-O-beta-D-mannosyl-D-glucose phosphorylase (EC 2.4.1.281)	bMnOS; bMAN
+Beta-1,2-mannooligosaccharide phosphorylase (EC 2.4.1.340)	Man; bMnOS; bMAN
+Predicted mannose/mannobiose transporter, SSS family	Man; bMnOS; bMAN
+Predicted mannose kinase, ROK family	Man; bMnOS; bMAN
+Mannokinase (EC 2.7.1.7)	Man; bMnOS; bMAN
+Predicted mannokinase (EC 2.7.1.7)	Man; bMnOS; bMAN
+Mannose-6-phosphate isomerase (EC 5.3.1.8)	Man; bMnOS; bMAN
+Mannose-6-phosphate isomerase, class I (EC 5.3.1.8)	Man
+D-mannose isomerase (EC 5.3.1.7)	Man; bMnOS; bMAN
+Phosphomannomutase (EC 5.4.2.8)	Man; bMnOS; bMAN
+Mannobiose 2-epimerase (EC 5.1.3.11)	bMnOS; bMAN
+Predicted mannan acetyl-esterase	bMAN
+6-phospho-beta-glucosidase (EC 3.2.1.86) involved in glucomannan utilization	bMAN
+Alpha-galactosidase (EC 3.2.1.22) involved in galactomannan utilization	bMnOS; bMAN
+SusC, outer membrane protein involved in beta-mannooligosaccharide binding	bMnOS; bMAN
+SusD, outer membrane protein involved in beta-mannooligosaccharide binding	bMnOS; bMAN
+Putative regulator of the mannose operon, ManO	Man
+Activator of the mannose operon (transcriptional antiterminator), BglG family	Man
+Predicted transcriptional regulator of Mannose utilization, GntR family	Man
+Transcriptional regulator of mannan utilization, AraC family	bMAN
+Predicted transcriptional regulator of mannooligosacharide utilization ManR5, LacI family	bMnOS
+Predicted transcriptional regulator of Mannose utilization ManR6, GntR family	Man
+Alpha-mannosidase (EC 3.2.1.24)	Man
+putative alpha-1,2-mannosidase	Man
+putative alpha-1,6-mannanase	Man
+Endo-alpha-mannosidase	Man
+Alpha-mannosidase (GH38)	Man
+Alpha-1,2-mannosidase (GH92)	Man
+Alpha-1,6-mannosidase (GH125)	Man
+Predicted N-acetyl-glucosamine kinase 2, ROK family (EC 2.7.1.59)	GlcNAc; Chb
+N-acetylglucosamine kinase of eukaryotic type (EC 2.7.1.59)	GlcNAc; Chb
+predicted N-acetylglucosamine kinase, glucokinase-like (EC 2.7.1.59)	GlcNAc; Chb
+N-acetylglucosamine kinase, glucokinase-like (EC 2.7.1.59)	GlcNAc; Chb
+Predicted N-acetyl-glucosamine kinase, ROK family (EC 2.7.1.59)	GlcNAc; Chb
+N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GlcNAc; Chb
+predicted N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GlcNAc; Chb
+Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GlcNAc; Chb
+Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)	GlcNAc; Chb
+GlcNAc phosphomutase (EC 5.4.2.3)	GlcNAc; Chb
+PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.69)	GlcNAc
+PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.69)	GlcNAc
+PTS system, N-acetylglucosamine-specific IIC component (EC 2.7.1.69)	GlcNAc
+N-acetyl glucosamine transporter, NagP	GlcNAc
+Predicted N-acetylglucosamine transporter, GGP family	GlcNAc
+N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GlcNAc
+N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GlcNAc
+N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GlcNAc
+N-Acetyl-D-glucosamine ABC transport system ATP-binding protein	GlcNAc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIA component (EC 2.7.1.69)	GlcNAc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIB component (EC 2.7.1.69)	GlcNAc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IIC component (EC 2.7.1.69)	GlcNAc
+PTS system, mannose/glucose/N-acetylglucosamine-specific IID component (EC 2.7.1.69)	GlcNAc
+N-acetylglucosamine related transporter, NagX	GlcNAc
+beta-N-acetylglucosaminidase (EC 3.2.1.52)	Chb
+Alpha-N-acetylglucosaminidase (EC 3.2.1.50)	GlcNAc
+Predicted chitobiose ABC transporter, substrate-binding protein	Chb
+Predicted chitobiose ABC transporter, permease protein 1	Chb
+Predicted chitobiose ABC transporter, permease protein 2	Chb
+(GlcNAc)2 ABC transporter, periplasmic substrate-binding protein	Chb
+(GlcNAc)2 ABC transporter, permease component 1	Chb
+(GlcNAc)2 ABC transporter, permease component 2	Chb
+(GlcNAc)2 ABC transporter, ATP-binding component 1	Chb
+(GlcNAc)2 ABC transporter, ATP-binding component 2	Chb
+PTS system, N,N'-diacetylchitobiose-specific IIA component (EC 2.7.1.69)	Chb
+PTS system, N,N'-diacetylchitobiose-specific IIB component (EC 2.7.1.69)	Chb
+PTS system, N,N'-diacetylchitobiose-specific IIC component (EC 2.7.1.69)	Chb
+N,N'-diacetylchitobiose phosphorylase (EC 2.4.1.280)	Chb
+N,N'-diacetylchitobiose-specific 6-phospho-beta-glucosidase (EC 3.2.1.86)	Chb
+Glucosaminyl-1,4-glucosamine-6-phosphate hydrolase	Chb
+Glucosamine kinase GpsK (EC 2.7.1.8)	GlcNAc
+Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family	GlcNAc
+Predicted antiterminator of N-acetylglucosamine operon, BglG family	GlcNAc
+N-acetylglucosamine-6P-responsive transcriptional repressor NagC, ROK family	GlcNAc
+Chitin binding protein	Chb
+Chitodextrinase (EC 3.2.1.202)	Chb
+Chitinase (EC 3.2.1.14)	Chb
+N,N'-diacetylchitobiose utilization operon protein YdjC	Chb
+N,N'-diacetylchitobiose-specific regulator ChbR, AraC family	Chb
+Predicted bifunctional N-acetylmuramic acid and N-acetylglucosamine kinase	Chb
+Chitinase A (EC 3.2.1.14)	Chb
+Chitinase B (EC 3.2.1.14)	Chb
+Chitinase C (EC 3.2.1.14)	Chb
+Chitinase D (EC 3.2.1.14)	Chb
+Predicted N-acetylgalactosamine and N-acetylglucosamine kinase, ROK family (EC 2.7.1.157)(EC 2.7.1.59)	GlcNAc
+Putative N-glycan beta-N-acetylglucosaminidase (GH20)	GlcNAc
+D-ribose pyranase (EC 5.4.99.62)	Rib
+Ribokinase (EC 2.7.1.15)	Rib
+Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	Rib
+Ribose ABC transport system, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)	Rib
+Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	Rib
+Putative ribose uptake protein RbsU, GRP transporter family (TC 2.A.7.5)	Rib
+Predicted ribose permease, FHS family	Rib
+D-ribose transporter, DMT family	Rib
+Predicted ribose-specific PTS system, IIBC components	Rib
+Ribose operon repressor	Rib
+Predicted transcriptional activator of D-ribose utilization operon	Rib
+N-acetylneuraminate lyase (EC 4.1.3.3)	Neu5Ac
+Predicted N-acetylneuraminate lyase, DUF4127 family	Neu5Ac
+N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	Neu5Ac; ManNAc
+N-acylglucosamine 2-epimerase (EC 5.1.3.8)	Neu5Ac; ManNAc
+N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	Neu5Ac; ManNAc
+predicted N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	Neu5Ac; ManNAc
+Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	Neu5Ac; ManNAc
+Sialic acid transporter (permease) NanT	Neu5Ac
+Predicted N-acetyl-neuraminate transporter, MFS family	Neu5Ac
+Predicted sialic acid transporter	Neu5Ac
+Putative sialic acid ABC transporter, periplasmic protein	Neu5Ac
+Putative sialic acid ABC transporter, permease protein	Neu5Ac
+Putative sialic acid ABC transporter, ATP-binding protein	Neu5Ac
+ABC transporter, predicted N-acetylneuraminate transport system permease protein 1	Neu5Ac
+ABC transporter, predicted N-acetylneuraminate transport system permease protein 2	Neu5Ac
+ABC transporter, predicted N-acetylneuraminate-binding protein	Neu5Ac
+ABC transporter, predicted N-acetylneuraminate transport system ATP-binding protein	Neu5Ac
+TRAP-type transport system, large permease component, predicted N-acetylneuraminate transporter	Neu5Ac
+TRAP-type transport system, small permease component, predicted N-acetylneuraminate transporter	Neu5Ac
+TRAP-type transport system, periplasmic component, predicted N-acetylneuraminate-binding protein	Neu5Ac
+Alpha-2,3/6-sialidase (GH33)	Neu5Ac
+N-acetylmannosamine kinase (EC 2.7.1.60)	Neu5Ac; ManNAc
+Exo-alpha-sialidase SiaHI (EC 3.2.1.18)	Neu5Ac
+Sialidase (EC 3.2.1.18)	Neu5Ac
+Putative sialidase (EC 3.2.1.18), GH33 family	Neu5Ac
+Putative N-acetylmannosamine ABC transporter, periplasmic protein	ManNAc
+Putative N-acetylmannosamine ABC transporter, permease protein 1	ManNAc
+Putative N-acetylmannosamine ABC transporter, permease protein 2	ManNAc
+PTS system, N-acetylmannosamine-specific IIB component (EC 2.7.1.69)	ManNAc
+PTS system, N-acetylmannosamine-specific IIC component (EC 2.7.1.69)	ManNAc
+PTS system, N-acetylmannosamine-specific IIA component (EC 2.7.1.69)	ManNAc
+N-acetylneuraminate epimerase (EC 5.1.3.24)	Neu5Ac
+Putative sugar isomerase involved in processing of exogenous sialic acid	Neu5Ac
+N-acetylglucosamine kinase, glucokinase-like (EC 2.7.1.59)	Neu5Ac
+SusC, outer membrane protein involved in sialic acid binding	Neu5Ac
+SusD, outer membrane protein involved in sialic acid binding	Neu5Ac
+Transcriptional regulator NanR	Neu5Ac
+Putative N-acetylglucosamine repressor of sialic acid catabolism, ROK family	Neu5Ac
+Transcriptional regulator of sialic acid metabolism, GntR family	Neu5Ac
+Transcriptional regulator of sialic acid utilization, AraC family	Neu5Ac
+Transcriptional regulator of sialic acid utilization, LacI family	Neu5Ac
+Predicted N-acetylmannosamine operon antiterminator, BglG family	ManNAc
+Sialic acid utilization regulator, RpiR family	Neu5Ac
+Probable 9-O-acetyl-N-acetylneuraminic acid deacetylase	Neu5Ac
+N-acetylneuraminic acid outer membrane channel protein NanC	Neu5Ac
+Predicted PTS system, N-acetylmannosamine-specific IID component (EC 2.7.1.69)	ManNAc
+Predicted PTS system, N-acetylmannosamine-specific IIC component (EC 2.7.1.69)	ManNAc
+Predicted PTS system, N-acetylmannosamine-specific IIB component (EC 2.7.1.69)	ManNAc
+Predicted PTS system, N-acetylmannosamine-specific IIA component (EC 2.7.1.69)	ManNAc
+Transciptional regulator of N-acetylmannosamine utilization, RpiR family	ManNAc
+Transciptional regulator of N-acetylmannosamine utilization, ROK family	ManNAc
+2,7-anhydro-Neu5Ac oxidoreductase	Neu5Ac
+Predicted sialic acid transporter, GPH family	Neu5Ac
+Fructokinase (EC 2.7.1.4)	Scr; FOS
+Sucrose phosphorylase (EC 2.4.1.7)	Scr
+Sucrase (EC 3.2.1.26)	Scr
+Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	Scr
+beta-fructofuranosidase (EC 3.2.1.26)	Scr; FOS
+Levanase (EC 3.2.1.65)	FOS
+Amylosucrase (EC 2.4.1.4)	FOS
+Inulin fructotransferase (DFA-I-forming)( EC:4.2.2.17 )	FOS
+PTS system, sucrose-specific IIA component (EC 2.7.1.69)	Scr
+PTS system, sucrose-specific IIB component (EC 2.7.1.69)	Scr
+PTS system, sucrose-specific IIC component (EC 2.7.1.69)	Scr
+Sucrose permease, major facilitator superfamily	Scr
+Predicted sucrose ABC transporter, permease protein 1	Scr
+Predicted sucrose ABC transporter, permease protein 2	Scr
+Predicted sucrose ABC transporter, substrate-binding protein	Scr
+Putative sucrose ABC transporter, substrate-binding protein	Scr
+Putative sucrose ABC transporter, permease protein 1	Scr
+Sucrose ABC transporter, substrate-binding protein	Scr
+Sucrose ABC transporter, permease protein 1	Scr
+Sucrose ABC transporter, permease protein 2	Scr
+Predicted fructosides ABC transporter, permease protein BfrE	FOS
+Predicted fructosides ABC transporter, permease protein BfrG	FOS
+Predicted fructosides ABC transporter, substrate-binding protein BfrF	FOS
+Predicted fructosides ABC transporter, ATPase protein BfrH	FOS
+Predicted fructosides ABC transporter, substrate-binding protein	FOS
+Predicted fructosides ABC transporter, ATP-binding protein	FOS
+Predicted fructosides ABC transporter, permease protein	FOS
+Predicted fructosides ABC transporter, substrate-binding protein BfrB	FOS
+Predicted fructosides ABC transporter, permease protein BfrC	FOS
+Predicted fructosides ABC transporter, permease protein BfrD	FOS
+SusC, outer membrane protein involved in FOS binding	Scr; FOS
+SusD, outer membrane protein involved in FOS binding	Scr; FOS
+Sucrose operon repressor ScrR, LacI family	Scr
+Sucrose specific transcriptional regulator CscR, LacI family	Scr
+Transcriptional regulator of FOS utilization, LacI family	FOS
+Putative transcriptional regulator of fructooligosaccharide utilization, LacI-family	FOS
+DNA-binding response regulator for FOS utilization, AraC family	FOS
+endo-beta-2,6-fructanase (EC 3.2.1.65)	FOS
+TonB-dependent receptor porin, involved in FOS binding	Scr; FOS
+Sucrose porin ScrY	Scr
+Sucrose ABC transporter, substrate binding periplasmic protein ScrE	Scr
+Sucrose ABC transporter, permease protein ScrE	Scr
+Sucrose ABC transporter, permease protein ScrG	Scr
+Sucrose ABC transporter, ATP-binding protein ScrM	Scr
+Predicted sucrose permease, MFS family, FucP subfamily	Scr
+Predicted sucrose-specific TonB-dependent receptor	Scr
+Predicted sucrose permease, GPH family	Scr
+Sucrose hydrolase (EC 3.2.1.48)	Scr
+Sucrose 6F-phosphate phosphorylase (EC 2.4.1.329)	Scr
+Novel ATP-dependent sucrose kinase	Scr; FOS
+Xylose isomerase (EC 5.3.1.5)	Xyl; XOS; aXyl
+predicted xylose isomerase	Xyl; XOS; aXyl
+Xylulose kinase (EC 2.7.1.17)	Xyl; XOS; aXyl
+D-xylose-specific 1-epimerase (mutarotase)	Xyl
+Beta-xylosidase (EC 3.2.1.37)	XOS
+Xylan 1,4-beta-xylosidase (EC 3.2.1.37)	XOS
+Reducing end xylose-releasing exo-oligoxylanase (EC 3.2.1.156), GH8 family	XOS
+Putative alpha-xylosidase (GH31)	aXyl
+alpha-xylosidase (EC 3.2.1.177)	aXyl
+Endo-1,4-beta-xylanase (EC 3.2.1.8)	XOS
+Xylan alpha-1,2-glucuronosidase (EC 3.2.1.131)	XOS
+Acetyl xylan esterase (EC 3.1.1.41)	XOS
+D-xylose proton-symporter XylT	Xyl
+D-xylose proton-symporter XylE	Xyl; XOS; aXyl
+Predicted sodium-dependent xylose transporter, SSS family	Xyl
+Xylose ABC transporter, periplasmic xylose-binding protein XylF	Xyl
+D-xylose transport ATP-binding protein XylG	Xyl
+Xylose ABC transporter, permease protein XylH	Xyl
+Galactose/xylose/glucose ABC transport system, ATP-binding component	Xyl
+Galactose/xylose/glucose ABC transport system, permease component	Xyl
+Galactose/xylose/glucose ABC transport system, substrate-binding component	Xyl
+PTS system, alpha-xyloside-specific IIA component	aXyl
+PTS system, alpha-xyloside-specific IIB component (EC 2.7.1.69)	aXyl
+PTS system, alpha-xyloside-specific IID component	aXyl
+PTS system, alpha-xyloside-specific IIC component	aXyl
+Xyloside transporter XynT	XOS; aXyl
+Bifidobacterial XOS/AXOS transporter, substrate-binding protein	XOS
+Bifidobacterial XOS/AXOS transporter, permease protein 1	XOS
+Bifidobacterial XOS/AXOS transporter, permease protein 2	XOS
+Predicted beta-xyloside ABC transporter, substrate-binding component	XOS
+Predicted beta-xyloside ABC transporter, permease component	XOS
+Predicted beta-xyloside ABC transporter, ATP-binding component	XOS
+Possible beta-xyloside ABC transporter, substrate-binding protein XynU	XOS
+Possible beta-xyloside ABC transporter, permease component XynV	XOS
+Possible beta-xyloside ABC transporter, permease component XynW	XOS
+SusC, outer membrane protein involved in XOS utilization	XOS; aXyl
+SusD, outer membrane protein involved in XOS utilization	XOS; aXyl
+Predicted alpha-xyloside ABC transporter, substrate-binding component	aXyl
+Predicted alpha-xyloside ABC transporter, permease component 1	aXyl
+Predicted alpha-xyloside ABC transporter, permease component 2	aXyl
+Xylose activator XylR (AraC family)	Xyl
+Xylose-responsive transcription regulator, ROK family	Xyl
+Predicted xylose-responsive transcription regulator, LacI family	Xyl
+Predicted regulator of xylose utilization, NrtR family	Xyl
+Hybrid two-component system (HTCS) regulator for Xylan and XOS utilization PUL	XOS
+Probable alpha-xyloside uptake permease YicJ	aXyl
+Isoprimeverose transporter XylP	aXyl
+3-dehydro-L-gulonate 2-dehydrogenase (EC 1.1.1.130)	Asc
+3-keto-L-gulonate 6-phosphate decarboxylase (EC 4.1.1.85)	Asc
+L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	Asc
+L-xylulose 5-phosphate 3-epimerase (EC 5.1.3.22)	Asc
+L-xylulose/3-keto-L-gulonate kinase (EC 2.7.1.-)	Asc
+3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)	Asc
+Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	Asc
+Ascorbate-specific PTS system, EIIB component (EC 2.7.1.69)	Asc
+Ascorbate-specific PTS system, EIIC component	Asc
+L-ribulose-5-phosphate 3-epimerase UlaE (EC 5.1.3.22)	Asc
+Probable L-ascorbate-6-phosphate lactonase UlaG (EC 3.1.1.-)	Asc
+L-ribulose-5-phosphate 4-epimerase involved in ascorbate utilization (EC 5.1.3.4)	Asc
+Ascorbate utilization transcriptional regulator UlaR, HTH-type	Asc
+Transcriptional antiterminator with PTS regulation domain for ascorbate utilization genes SgaR	Asc
+Putative ascorbate kinase	Asc
+Putative L-ascorbate-6-phosphate lactonase (EC 3.1.1.-)	Asc
+Putative ascorbate MFS transporter (TC 2.A.1)	Asc
+Putative transcriptional regulator of ascorbate utilization (DeoR family)	Asc
+Putative ascorbate MFS transporter 2 (TC 2.A.1)	Asc
+Predicted non-orthologous type of 3-keto-L-gulonate 6-phosphate decarboxylase (EC 4.1.1.85)	Asc
+L-xylulokinase (EC 2.7.1.53)	Asc
+2,3-diketo-L-gulonate TRAP transporter large permease protein yiaN	Asc
+2,3-diketo-L-gulonate-binding periplasmic protein yiaO precursor	Asc
+2,3-diketo-L-gulonate TRAP transporter small permease protein yiaM	Asc
+Predicted 2,3-diketo-L-gulonate MFS transporter	Asc
+DUF386 domain-containing protein YiaL, putative anomerase involved in 2,3-diketo-L-gulonate utilization	Asc
+L-ascorbate-responsive transcriptional regulator PlaR of plant utilization, IclR family	Asc
+1,3-beta-galactosyl-N-acetylhexosamine phosphorylase (EC 2.4.1.211)	GNB; LNB
+N-acetylhexosamine 1-kinase (EC 2.7.1.162)	GNB; LNB
+UTP---hexose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GNB; LNB
+UDP-hexose 4-epimerase (EC 5.1.3.2)	GNB; LNB
+Predicted galacto-N-biose, lacto-N-biose ABC transporter, periplasmic substrate-binding protein	GNB; LNB
+Predicted galacto-N-biose, lacto-N-biose ABC transporter, permease component 1	GNB; LNB
+Predicted galacto-N-biose, lacto-N-biose ABC transporter, permease component 2	GNB; LNB
+Predicted galacto-N-biose, lacto-N-biose ABC transporter, ATPase component	GNB; LNB
+Beta-1,3-galactosidase, specific for lacto-N-biose and galacto-N-biose (GH35)	GNB; LNB
+PTS system, GNB- and LNB-specific IIC component (EC 2.7.1.69)	GNB; LNB
+PTS system, GNB- and LNB-specific IID component (EC 2.7.1.69)	GNB; LNB
+PTS system, GNB- and LNB-specific IIB component (EC 2.7.1.69)	GNB; LNB
+PTS system, GNB- and LNB-specific IIA component (EC 2.7.1.69)	GNB; LNB
+Extracellular lacto-N-biosidase (GH136)	GNB; LNB
+Putative lacto-N-biosidase chaperone	GNB; LNB
+Endo-alpha-N-acetylgalactosaminidase (EC 3.2.1.97)	GNB; LNB
+Extracellular endo-alpha-N-acetylgalactosaminidase (GH101)	GNB; LNB
+Glucose DMT permease (TC 2.A.7.5)	Glc
+Glucose-specific PTS system IIABC components (TC 4.A.1.2.18)	Glc
+Galactose-1-phosphate uridylyltransferase (EC 2.7.7.12)	Gal
+Putative galactose MFS permease (TC 2.A.2)	Gal
+Putative transcriptional regulator of galactose utilization (DeoR family)	Gal
+Putative transcriptional regulator of galactose utilization (LacI family)	Gal
+Fructose/xylose/ribose ABC transporter substrate-binding component (TC 3.A.1.2.23)	Rib
+Fructose/xylose/ribose ABC transporter permease component 1 (TC 3.A.1.2.23)	Rib
+Fructose/xylose/ribose ABC transporter permease component 2 (TC 3.A.1.2.23)	Rib
+Fructose/xylose/ribose ABC transporter ATP-binding component (TC 3.A.1.2.23)	Rib
+Transcriptional regulator of ribose utilization (LacI family)	Rib
+N-acetylglucosamine-specific PTS system-2 IIA component (TC 4.A.1)	GlcNAc
+N-acetylglucosamine-specific PTS system-2 IIB component (TC 4.A.1)	GlcNAc
+N-acetylglucosamine-specific PTS system-2 IIC component (TC 4.A.1)	GlcNAc
+Putative N-acetylglucosamine kinase (EC 2.7.1.59)	GlcNAc; Chb
+Beta-1,3/4/6-N-acetylglucosaminidase-1 (GH20)	Chb
+Beta-1,3/4/6-N-acetylglucosaminidase-2 (GH20)	Chb
+Putative diacetylchitobiose ABC transporter substrate-binding component (TC 3.A.1.1)	Chb
+Putative diacetylchitobiose ABC transporter permease component 1 (TC 3.A.1.1)	Chb
+Putative diacetylchitobiose ABC transporter permease component 2 (TC 3.A.1.1)	Chb
+Putative transcriptional regulator of diacetylchitobiose utilization (LacI family)	Chb
+Putative transcriptional regulator of diacetylchitobiose utilization (ROK family)	Chb
+N-acetylneuraminate ABC transporter substrate-binding component (TC 3.A.1)	Neu5Ac
+N-acetylneuraminate ABC transporter permease component 1 (TC 3.A.1)	Neu5Ac
+N-acetylneuraminate ABC transporter permease component 2 (TC 3.A.1)	Neu5Ac
+N-acetylneuraminate ABC transporter ATP-binding component (TC 3.A.1)	Neu5Ac
+Putative N-acetylneuraminate ABC transporter substrate-binding component (TC 3.A.1)	Neu5Ac
+Putative N-acetylneuraminate ABC transporter permease component 1 (TC 3.A.1)	Neu5Ac
+Putative N-acetylneuraminate ABC transporter permease component 2 (TC 3.A.1)	Neu5Ac
+Transcriptional regulator of N-acetylneuraminate utilization (GntR family)	Neu5Ac
+Putative transcriptional regulator of N-acetylneuraminate utilization (RpiR family)	Neu5Ac
+L-fucose mutarotase-1 (EC 5.1.3.29)	Fuc
+L-fuco-beta-pyranose dehydrogenase-1 (EC 1.1.1.122)	Fuc
+L-fuconolactone hydrolase-1 (EC 3.1.1.-)	Fuc
+L-fuconate dehydratase-1 (EC 4.2.1.68)	Fuc
+2-keto-3-deoxy-L-fuconate aldolase-1 (EC 4.1.2.18)	Fuc
+L-fucose mutarotase-2 (EC 5.1.3.29)	Fuc
+L-fuco-beta-pyranose dehydrogenase-2 (EC 1.1.1.122)	Fuc
+L-fuconolactone hydrolase-2 (EC 3.1.1.-)	Fuc
+L-fuconate dehydratase-2 (EC 4.2.1.68)	Fuc
+2-keto-3-deoxy-L-fuconate aldolase-2 (EC 4.1.2.18)	Fuc
+Fucose MFS permease (TC 2.A.1.7)	Fuc
+Putative transcriptional regulator of fucose utilization (LacI family)	Fuc
+Extracellular beta-1,4-galactosidase (GH2)	LNnT; lcHMO
+Extracellular beta-1,3-N-acetylglucosaminidase (GH20)	LNnT; lcHMO
+Extracellular lacto-N-biosidase (GH20)	LNT; LNFPI; lcHMO
+Extracellular lacto-N-biosidase (GH136)	LNT; LNFPI
+Putative extracellular lacto-N-biosidase (GH136)	LNT
+Extracellular alpha-1,2-L-fucosidase (GH95)	FL; LDFT; LNFPI; lcHMO
+Extracellular alpha-1,3/4-L-fucosidase (GH29)	FL; LDFT; lcHMO
+Extracellular alpha-2,3/6/8-sialidase with acetylesterase (GH33)	SL; lcHMO
+Extracellular alpha-2,3/6/8-sialidase (GH33)	SL; lcHMO
+Lacto-N-biose/galacto-N-biose ABC transporter-1 substrate-binding component (TC 3.A.1.1.48)	LNB; LNT; LNFPI
+Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 1 (TC 3.A.1.1.48)	LNB; LNT; LNFPI
+Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 2 (TC 3.A.1.1.48)	LNB; LNT; LNFPI
+Lacto-N-biose/galacto-N-biose ABC transporter-2 substrate-binding component (TC 3.A.1.1)	LNB; LNT
+Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 1 (TC 3.A.1.1)	LNB; LNT
+Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 2 (TC 3.A.1.1)	LNB; LNT
+Type I chain HMO ABC transporter substrate-binding component (TC 3.A.1.1)	LNT
+Type I chain HMO ABC transporter permease component 1 (TC 3.A.1.1)	LNT
+Type I chain HMO ABC transporter permease component 2 (TC 3.A.1.1)	LNT
+Type II chain HMO ABC transporter substrate-binding component (TC 3.A.1.1)	LNnT; lcHMO
+Type II chain HMO ABC transporter (low affinity) substrate-binding component (TC 3.A.1.1)	LNnT; lcHMO
+Type II chain HMO ABC transporter permease component 1 (TC 3.A.1.1)	LNnT; lcHMO
+Type II chain HMO ABC transporter permease component 2 (TC 3.A.1.1)	LNnT; lcHMO
+Putative HMO ABC transporter (Blon_2350) substrate-binding component (TC 3.A.1.1)	LNnT; lcHMO
+Putative HMO ABC transporter (Blon_2351) substrate-binding component (TC 3.A.1.1)	LNnT; lcHMO
+Putative HMO ABC transporter (Blon_2352) substrate-binding component (TC 3.A.1.1)	LNnT; lcHMO
+Putative HMO ABC transporter (Blon_2354) substrate-binding component (TC 3.A.1.1)	LNnT; lcHMO
+LNnT ABC transporter substrate-binding component (TC 3.A.1.1)	LNnT
+LNnT ABC transporter permease component 1 (TC 3.A.1.1)	LNnT
+LNnT ABC transporter permease component 2 (TC 3.A.1.1)	LNnT
+2'FL, 3FL ABC transporter substrate-binding component (TC 3.A.1.1)	FL
+2'FL, 3FL, LDFT, LNFP I ABC transporter substrate-binding component (TC 3.A.1.1)	FL; LDFT; LNFPI
+2'FL, 3FL, LDFT, LNFP I ABC transporter permease component 1 (TC 3.A.1.1)	FL; LDFT; LNFPI
+2'FL, 3FL, LDFT, LNFP I ABC transporter permease component 2 (TC 3.A.1.1)	FL; LDFT; LNFPI
+Putative lacto-N-biosidase (GH136)	LNT
+Beta-1,3/4/6-galactosidase (GH42)	LNB; LNT; LNFPI; lcHMO
+Beta-1,4-galactosidase (GH2)	LNT; LNnT; FL; LDFT; LNFPI; SL; lcHMO
+Beta-1,3/4/6-N-acetylglucosaminidase-1 (GH20)	LNT; LNnT; LNFPI; lcHMO
+Beta-1,3/4/6-N-acetylglucosaminidase-2 (GH20)	LNT; LNnT; LNFPI; lcHMO
+Beta-1,3/4-N-acetylglucosaminidase (GH20)	LNT; LNnT; LNFPI; lcHMO
+Alpha-1,2-L-fucosidase (GH95)	FL; LNFPI; lcHMO
+Alpha-1,3/4-L-fucosidase (GH29)	FL; LDFT; lcHMO
+Alpha-2,3/6-sialidase (GH33)	SL; lcHMO
+HMO cluster I alpha-2,3/6-sialidase (GH33)	SL; lcHMO
+1,3-beta-galactosyl-N-acetylhexosamine phosphorylase (EC 2.4.1.211)	LNB; LNT; LNFPI; lcHMO
+N-acetylhexosamine 1-kinase (EC 2.7.1.162)	LNB; LNT; LNFPI; lcHMO
+UDP-glucose---hexose-1-phosphate uridylyltransferase (EC 2.7.7.12)	LNB; LNT; LNFPI; lcHMO
+UDP-hexose 4-epimerase (EC 5.1.3.2)	LNB; LNT; LNFPI; lcHMO
+L-fucose mutarotase-1 (EC 5.1.3.29)	FL; LDFT; LNFPI; lcHMO
+L-fuco-beta-pyranose dehydrogenase-1 (EC 1.1.1.122)	FL; LDFT; LNFPI; lcHMO
+L-fuconolactone hydrolase-1 (EC 3.1.1.-)	FL; LDFT; LNFPI; lcHMO
+L-fuconate dehydratase-1 (EC 4.2.1.68)	FL; LDFT; LNFPI; lcHMO
+2-keto-3-deoxy-L-fuconate aldolase-1 (EC 4.1.2.18)	FL; LDFT; LNFPI; lcHMO
+L-fucose mutarotase-2 (EC 5.1.3.29)	FL; LDFT; LNFPI; lcHMO
+L-fuco-beta-pyranose dehydrogenase-2 (EC 1.1.1.122)	FL; LDFT; LNFPI; lcHMO
+L-fuconolactone hydrolase-2 (EC 3.1.1.-)	FL; LDFT; LNFPI; lcHMO
+L-fuconate dehydratase-2 (EC 4.2.1.68)	FL; LDFT; LNFPI; lcHMO
+2-keto-3-deoxy-L-fuconate aldolase-2 (EC 4.1.2.18)	FL; LDFT; LNFPI; lcHMO
+Transcriptional regulator of LNB/GNB and HMO utilization (ROK family)	LNB; LNT; LNFPI
+Transcriptional regulator of LNnT utilization (ROK family)	LNB; LNT; LNFPI
+Putative transcriptional regulator of fucosylated HMO utilization (LacI family)	FL; LDFT; LNFPI; lcHMO
+Endo-beta-N-acetylglucosaminidase-1 (GH18)	Nglyc
+Endo-beta-N-acetylglucosaminidase-2 (GH18)	Nglyc
+Endo-beta-N-acetylglucosaminidase (GH85)	Nglyc
+Putative endo-beta-N-acetylglucosaminidase (GH85)	Nglyc
+Putative N-glycan glycoside hydrolase (GH3)	Nglyc
+N-glycan alpha-glucosidase (GH31)	Nglyc
+Alpha-1,2/3/6-mannosidase-1 (GH38)	Nglyc
+Alpha-1,2/3/6-mannosidase-2 (GH38)	Nglyc
+Alpha-1,2/3/6-mannosidase-3 (GH38)	Nglyc
+Alpha-1,6-mannosidase (GH125)	Nglyc
+N-glycan beta-mannosidase (GH5_18)	Nglyc
+Putative N-glycan ABC transporter substrate-binding component (TC 3.A.1.1)	Nglyc
+Putative N-glycan ABC transporter permease component 1 (TC 3.A.1.1)	Nglyc
+Putative N-glycan ABC transporter permease component 2 (TC 3.A.1.1)	Nglyc
+Putative transcriptional regulator of N-glycan utilization (LacI family)	Nglyc
+Putative anaerobic N-glycan sulfatase (EC 3.1.6.1)	Nglyc
+Putative anaerobic N-glycan sulfatase maturing enzyme	Nglyc
+Putative N-glycan alpha-L-fucosidase (GH29)	Nglyc
+Putative N-glycan beta-N-acetylglucosaminidase (GH20)	Nglyc
+Putative alpha-mannosidase (GH38)	Nglyc
+Putative N-glycan beta-mannosidase (GH2)	Nglyc
+Putative N-glycan beta-mannosidase (GH5_18)	Nglyc
+Putative complex N-glycan ABC transporter substrate-binding component (TC 3.A.1.1)	Nglyc
+Putative complex N-glycan ABC transporter permease component 1 (TC 3.A.1.1)	Nglyc
+Putative complex N-glycan ABC transporter permease component 2 (TC 3.A.1.1)	Nglyc
+Putative transcriptional regulator of complex N-glycan utilization (ROK family)	Nglyc
+Beta-1,3/4/6-N-acetylglucosaminidase-1 (GH20)	Nglyc
+Beta-1,3/4/6-N-acetylglucosaminidase-2 (GH20)	Nglyc
+Alpha-1,6-L-fucosidase (GH29)	Ncore
+Putative Fuc(a1-6)GlcNAc-peptide MFS permease (TC 2.A.1.68)	Ncore
+Lacto-N-biose/galacto-N-biose ABC transporter-1 substrate-binding component (TC 3.A.1.1.48)	GNB; LNB; Muc; Tan
+Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 1 (TC 3.A.1.1.48)	GNB; LNB; Muc; Tan
+Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 2 (TC 3.A.1.1.48)	GNB; LNB; Muc; Tan
+Lacto-N-biose/galacto-N-biose ABC transporter-2 substrate-binding component (TC 3.A.1.1)	GNB; LNB; Muc; Tan
+Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 1 (TC 3.A.1.1)	GNB; LNB; Muc; Tan
+Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 2 (TC 3.A.1.1)	GNB; LNB; Muc; Tan
+Extracellular alpha-1,3-galactosidase (GH110)	Muc
+Extracellular beta-1,4-galactosidase (GH2)	Muc
+Extracellular alpha-N-acetylglucosaminidase (GH89)	Muc
+Extracellular beta-1,3-N-acetylglucosaminidase (GH20)	Muc
+Extracellular 6-sulfo-beta-N-acetylglucosaminidase (GH20)	Muc
+Extracellular beta-1,6-N-acetylglucosaminidase (GH84)	Muc
+Extracellular beta-N-acetylglucosaminidase (GH84)	Muc
+Extracellular lacto-N-biosidase (GH20)	Muc
+Extracellular lacto-N-biosidase (GH136)	Muc
+Alpha-N-acetylgalactosaminidase (GH129)	Muc
+Extracellular endo-alpha-N-acetylgalactosaminidase (GH101)	Muc
+Extracellular alpha-1,2-L-fucosidase (GH95)	Muc
+Extracellular alpha-1,3/4-L-fucosidase (GH29)	Muc
+Extracellular alpha-2,3/6/8-sialidase with acetylesterase (GH33)	Muc
+Extracellular alpha-2,3/6/8-sialidase (GH33)	Muc
+Putative extracellular beta-N-acetylgalactosaminidase (GH123)	Muc
+Putative N-acetylglucosamine kinase involved in GlcNAc-6S utilization (EC 2.7.1.59)	GlcNAc6S
+N-acetylglucosamine-6-phosphate deacetylase involved in GlcNAc-6S utilization (EC 3.5.1.25)	GlcNAc6S
+Glucosamine-6-phosphate deaminase involved in GlcNAc-6S utilization (EC 3.5.99.6)	GlcNAc6S
+Anaerobic N-acetylglucosamine-6-sulfatase (EC 3.1.6.14)	GlcNAc6S
+Putative anaerobic N-acetylglucosamine-6-sulfatase maturing enzyme	GlcNAc6S
+GlcNAc-6S MFS permease (TC 2.A.1.1)	GlcNAc6S
+Transcriptional regulator of GlcNAc-6S utilization (ROK family)	GlcNAc6S
+Arylsulfatase (EC 3.1.6.1)	GlcNAc6S
+Putative arylsulfatase regulatory protein	GlcNAc6S
+Putative sulfated sugar ABC transporter substrate-binding component (TC 3.A.1.1)	GlcNAc6S
+Putative sulfated sugar ABC transporter permease component 1 (TC 3.A.1.1)	GlcNAc6S
+Putative sulfated sugar ABC transporter permease component 2 (TC 3.A.1.1)	GlcNAc6S
+Putative transcriptional regulator of sulfated sugar utilization (LacI family)	GlcNAc6S
+Putative 6-sulfo-N-acetylglucosaminidase (GH185)	GlcNAc6S
+Alpha-1,4/6-glucosidase (GH13_30)	Mal
+Putative maltose MFS permease (TC 2.A.1.2)	Mal
+Putative maltose ABC transporter substrate-binding component (TC 3.A.1.1)	Mal; MOS
+Putative maltose ABC transporter permease component 1 (TC 3.A.1.1)	Mal; MOS
+Putative maltose ABC transporter permease component 2 (TC 3.A.1.1)	Mal; MOS
+Maltodextrin utilization transcriptional regulator MalR5, LacI family	Mal; MOS
+Broad specificity alpha-glucosidase (GH13_30)	Mal; MOS; ST; RST
+Maltodextrin utilization transcriptional regulator MalR6, LacI family	Mal; MOS
+Pullulanase (GH13_14)	Mal; MOS
+Maltodextrin utilization transcriptional regulator MalR3, LacI family	Mal; MOS
+Putative extracellular alpha-amylase (GH13_32)	ST
+Extracellular type II bifunctional pullulanase (GH13_14_32)	ST
+Extracellular RS-degrading alpha-amylase-1 (GH13_28)	ST; RST
+Extracellular RS-degrading alpha-amylase-2 (GH13_28)	ST; RST
+Extracellular RS-degrading alpha-amylase-3 (GH13_28)	ST; RST
+Alpha-1,6-glucosidase (GH13_31)	IMO
+Alpha-1,2/3/4-glucosidase (GH13_30)	Mlz
+Alpha-1,3/4-galactosidase (GH36)	Mlz
+Panose/isomaltooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1.53)	IMO
+Panose/isomaltooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1.53)	IMO
+Panose/isomaltooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1.53)	IMO
+Putative panose/isomaltooligosaccharide ABC transporter-1 substrate-binding component (TC 3.A.1.1)	IMO
+Putative panose/isomaltooligosaccharide ABC transporter-1 permease component 1 (TC 3.A.1.1)	IMO
+Putative panose/isomaltooligosaccharide ABC transporter-1 permease component 2 (TC 3.A.1.1)	IMO
+Putative panose/isomaltooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	IMO
+Melezitose ABC transporter substrate-binding component (TC 3.A.1.1)	Mlz
+Melezitose ABC transporter permease component 1 (TC 3.A.1.1)	Mlz
+Melezitose ABC transporter permease component 2 (TC 3.A.1.1)	Mlz
+Putative panose/isomaltooligosaccharide utilization regulator-1 (LacI family)	IMO
+Putative panose/isomaltooligosaccharide utilization regulator-2 (LacI family)	IMO
+Transcriptional regulator of melezitose utilization-1 (LacI family)	Mlz
+Transcriptional regulator of melezitose utilization-2 (LacI family)	Mlz
+Beta-glucosidase-1 (GH3)	Cld; Bgl
+Predicted transcriptional regulator of beta-glucoside utilization (TetR family)	Bgl
+Beta-glucosidase-2 (GH3)	Cld; Bgl
+Predicted transcriptional regulator of beta-glucoside utilization-2 (TetR family)	Bgl
+Beta-glucosidase-3 (GH3)	Cld; Bgl
+Beta-glucosidase-2 (GH1)	Cld; Bgl
+Putative beta-glucooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	Cld; Bgl
+Putative beta-glucooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	Cld; Bgl
+Putative beta-glucooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	Cld; Bgl
+Putative transcriptional regulator of beta-glucooligosaccharide utilization (LacI family)	Bgl
+Putative beta-glucosidase-1 (GH1)	Cld; Bgl
+Putative beta-glucooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	Cld; Bgl
+Putative beta-glucooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	Cld; Bgl
+Putative beta-glucooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	Cld; Bgl
+Putative transcriptional regulator of beta-glucooligosaccharide utilization (AraC family)	Bgl
+Putative beta-glucosidase-1 (GH3)	BGL12
+Putative beta-1,2-oligoglucan ABC transporter substrate-binding component (TC 3.A.1.5)	BGL12
+Putative beta-1,2-oligoglucan ABC transporter permease component 1 (TC 3.A.1.5)	BGL12
+Putative beta-1,2-oligoglucan ABC transporter permease component 2 (TC 3.A.1.5)	BGL12
+Putative beta-1,2-oligoglucan ABC transporter ATP-binding component 1 (TC 3.A.1.5)	BGL12
+Putative beta-1,2-oligoglucan ABC transporter ATP-binding component 2 (TC 3.A.1.5)	BGL12
+Putative transcriptional regulator of beta-1,2-oligoglucan utilization (LacI family)	Bgl
+Putative beta-glucanase (GH30_3)	Bgl
+Putative beta-glucosidase-2 (GH3)	Bgl
+Putative glycoside hydrolase (GH2)	Bgl
+Bgl cluster ABC transporter substrate-binding component (TC 3.A.1.1)	Bgl
+Bgl cluster ABC transporter permease component 1 (TC 3.A.1.1)	Bgl
+Bgl cluster ABC transporter permease component 2 (TC 3.A.1.1)	Bgl
+Predicted transcriptional regulator of the bgl cluster (TetR family)	Bgl
+Flavonoid/ginsenoside beta-xylosidase (GH30)	Bgl
+Putative flavonoid/ginsenoside beta-xylosidase (GH43_11)	Bgl
+Flavonoid/ginsenoside alpha-L-arabinopyranosidase (GH42)	Bgl
+Putative flavonoid/ginsenoside alpha-L-arabinofuranosidase (GH51)	Bgl
+Putative flavonoid/ginsenoside glycoside hydrolase (GH5_44)	Bgl
+Predicted flavonoid/ginsenoside MFS permease (TC 2.A.1.2)	Bgl
+Predicted transcriptional regulator of beta-glucoside utilization-3 (TetR family)	Bgl
+Predicted transcriptional regulator of beta-glucoside utilization-4 (TetR family)	Bgl
+Predicted transcriptional regulator of beta-glucoside utilization-6 (TetR family)	Bgl
+Flavonoid/ginsenoside alpha-rhamnosidase (GH78)	Bgl
+Putatuve rhamnoglycoside MFS permease (TC 2.A.1.2)	Bgl
+Putatuve rhamnoglycoside MFS permease (TC 2.A.1.1)	Bgl
+Putative transcriptional regulator of rhamnoglycoside utilization (LacI family)	Bgl
+Beta-1,4-galactosidase (GH2)	Lac
+Beta-1,4-galactosidase-2 (GH2)	Lac
+Putative beta-galactosidase (GH2)	GOS; Lac
+Lactose MFS permease (TC 2.A.2)	Lac
+Putative transcriptional regulator of lactose utilization (LacI family)	Lac
+Beta-1,3-galactosidase (GH2)	GOS
+Beta-1,3-linked galactooligosaccharide MFS permease (TC 2.A.2)	GOS
+Putative transcriptional regulator of beta-1,3-linked galactooligosaccharide utilization (LacI family)	GOS
+Beta-1,4-galactosidase (GH42)	GOS; AGI
+Putative beta-galactosidase (GH42)	GOS
+Putative beta-galactosidase (GH35)	GOS
+Extracellular endo-beta-1,4/3-galactanase (GH53)	AGI
+Beta-1,4-linked galactooligosaccharide ABC transporter substrate-binding protein (TC 3.A.1.1)	GOS; AGI
+Beta-1,4-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	GOS
+Beta-1,4-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	GOS
+Putative beta-1,4-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	GOS
+Putative beta-1,4-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	GOS
+Putative beta-1,4-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	GOS
+Transcriptional regulator of beta-1,4-linked galactooligosaccharide utilization (LacI family)	GOS
+Putative transcriptional regulator of beta-1,4-linked galactooligosaccharide utilization (LacI family)	GOS
+Beta-1,3/4/6-galactosidase (GH42)	GOS
+Beta-1,6-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	GOS
+Beta-1,6-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	GOS
+Beta-1,6-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	GOS
+Putative galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	GOS
+Lactulose ABC transporter substrate-binding protein (TC 3.A.1.1)	GOS
+Putative transcriptional regulator of beta-1,6-linked galactooligosaccharide utilization (LacI family)	GOS
+Putative transcriptional regulator of galactooligosaccharide utilization (LacI family)	GOS
+Beta-L-arabinopyranosidase (GH27)	AGII; GA
+Putative beta-L-arabinofuranosidase (GH127)	AGII; GA
+Beta-xylosidase (GH43_22)	AGII; GA
+Alpha-1,2/3/5-L-arabinofuranosidase (GH51)	AGII; GA
+Beta-L-arabinopyranosidase (GH36)	AGII; GA
+Putative transcriptional regulator of beta-L-arabinopyranosidase (LacI family)	AGII; GA
+Extracellular beta-1,3-L-arabinofuranosidase (GH146)	AGII; GA
+Extracellular alpha-1,3-L-arabinofuranosidase (GH43_22)	AGII
+Extracellular alpha-1,3/4-L-arabinofuranosidase (GH43_22_34)	AGII; GA
+Extracellular exo-beta-1,3-galactanase (GH43_24)	AGII; GA
+Extracellular exo-beta-1,6-galactobiohydrolase (GH30_5)	AGII; GA
+Extracellular 3-O-alpha-D-galactosyl-alpha-L-arabinofuranosidase (GH39)	AGII; GalAf; GA
+Alpha-1,3-galactosidase (GH36)	GalAf
+Putative Gal(a1-3)Araf ABC transporter substrate-binding component (TC 3.A.1.1)	GalAf
+Putative Gal(a1-3)Araf ABC transporter permease component 1 (TC 3.A.1.1)	GalAf
+Putative Gal(a1-3)Araf ABC transporter permease component 2 (TC 3.A.1.1)	GalAf
+Putative transcriptional regulator of Gal(a1-3)Araf utilization (LacI family)	GalAf
+Extracellular 3-O-beta-L-arabinopyranosyl-alpha-L-arabinofuranosidase (GH39)	GalAf
+Putative beta-L-arabinopyranosidase (GH36)	GalAf
+Putative Arap(b1-3)Araf ABC transporter substrate-binding component (TC 3.A.1.1)	GalAf
+Putative Arap(b1-3)Araf ABC transporter permease component 1 (TC 3.A.1.1)	GalAf
+Putative Arap(b1-3)Araf ABC transporter permease component 2 (TC 3.A.1.1)	GalAf
+Putative transcriptional regulator of Arap(b1-3)Araf utilization (LacI family)	GalAf
+Beta-1,6-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	AGII; GA
+Beta-1,6-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	AGII; GA
+Beta-1,6-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	AGII; GA
+Putative galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	AGII; GA
+Putative transcriptional regulator of beta-1,6-linked galactooligosaccharide utilization (LacI family)	AGII; GA
+Putative fructose MFS permease (TC 2.A.1.7)	Fru
+Fructose/xylose/ribose ABC transporter substrate-binding component (TC 3.A.1.2.23)	Fru
+Fructose/xylose/ribose ABC transporter permease component 1 (TC 3.A.1.2.23)	Fru
+Fructose/xylose/ribose ABC transporter permease component 2 (TC 3.A.1.2.23)	Fru
+Fructose/xylose/ribose ABC transporter ATP-binding component (TC 3.A.1.2.23)	Fru
+Fructose-specific PTS system IIABC components (TC 4.A.1.2.18)	Fru
+Fructose-specific PTS system IIA component (TC 4.A.7)	Fru
+Fructose-specific PTS system IIB component (TC 4.A.7)	Fru
+Fructose-specific PTS system IIC component (TC 4.A.7)	Fru
+Putative transcriptional regulator of fructose utilization (ROK family)	Fru
+Putative transcriptional regulator of fructose-specific PTS system (GntR family)	Fru
+Putative sucrose MFS permease (TC 2.A.1.2)	Scr
+Putative alpha-glucosidase (GH13_44)	Scr
+Putative sucrose ABC transporter substrate-binding component (TC 3.A.1.1)	Scr
+Putative sucrose ABC transporter permease component 1 (TC 3.A.1.1)	Scr
+Putative sucrose ABC transporter permease component 2 (TC 3.A.1.1)	Scr
+Putative transcriptional regulator of sucrose utilization (LacI family)	Scr
+Beta-2,1/6-fructofuranosidase-2 (GH32)	Scr; scFOS
+Putative sucrose MFS permease (TC 2.A.1.5)	Scr; scFOS
+Putative transcriptional regulator of sucrose utilization-2 (LacI family)	Scr; scFOS
+Putative beta-fructofuranosidase-1 (GH32)	Scr; scFOS
+Putative sucrose/fructooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	Scr; scFOS
+Putative transcriptional regulator of sucrose utilization-3 (LacI family)	Scr; scFOS
+Beta-2,1/6-fructofuranosidase (GH32)	Scr; scFOS
+Putative fructooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	Scr; scFOS
+Putative fructooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	Scr; scFOS
+Putative fructooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	Scr; scFOS
+Putative transcriptional regulator of fructooligosaccharide utilization (LacI family)	Scr; scFOS
+Putative beta-fructofuranosidase-2 (GH32)	Scr; scFOS
+Putative fructooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	Scr; scFOS
+Putative fructooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	Scr; scFOS
+Putative fructooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	Scr; scFOS
+Putative transcriptional regulator of fructooligosaccharide utilization-2 (LacI family)	Scr; scFOS
+Putative beta-fructofuranosidase-3 (GH32)	DFA
+Difructose dianhydride I synthase/hydrolase (GH172)	DFA
+Putative difructose dianhydride ABC transporter substrate-binding component (TC 3.A.1.1)	DFA
+Putative difructose dianhydride ABC transporter permease component 1 (TC 3.A.1.1)	DFA
+Putative difructose dianhydride ABC transporter permease component 2 (TC 3.A.1.1)	DFA
+Putative transcriptional regulator of caramelized fructose utilization (LacI family)	DFA
+Putative inulin fructotransferase (DFA-III-forming) (GH91)	DFA
+Putative difructose dianhydride ABC transporter-2 substrate-binding component (TC 3.A.1.1)	DFA
+Putative difructose dianhydride ABC transporter-2 permease component 1 (TC 3.A.1.1)	DFA
+Putative difructose dianhydride ABC transporter-2 permease component 2 (TC 3.A.1.1)	DFA
+Putative transcriptional regulator of caramelized fructose utilization-2 (LacI family)	DFA
+Putative beta-1,4-mannosidase (GH2)	bMnOS; GmOS; bMAN
+Extracellular endo-beta-1,4-mannanase (GH5_8)	bMAN
+Putative acetylmannan esterase (CE2)	bMAN
+Beta-mannose-oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	bMnOS; GmOS; bMAN
+Beta-mannose-oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	bMnOS; GmOS
+Beta-mannose-oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	bMnOS; GmOS
+Putative beta-mannose-oligosaccharide ABC transport system substrate-binding component (TC 3.A.1)	bMnOS; GmOS; bMAN
+Putative beta-mannose-oligosaccharide ABC transport system permease component 1 (TC 3.A.1)	bMnOS; GmOS
+Putative beta-mannose-oligosaccharide ABC transport system permease component 2 (TC 3.A.1)	bMnOS; GmOS
+Putative beta-mannose-oligosaccharide ABC transport system ATP-binding component 1 (TC 3.A.1)	bMnOS; GmOS
+Putative beta-mannose-oligosaccharide ABC transport system ATP-binding component 2 (TC 3.A.1)	bMnOS; GmOS
+Predicted transcriptional regulator of beta-mannose-oligosaccharide utilization (LacI family)	bMnOS
+Putative beta-1,4-mannosidase-2 (GH2)	GmOS
+Putative beta-1,4-glucosidase-2 (GH1)	GmOS
+Putative glucomannan oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	GmOS
+Putative glucomannan oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	GmOS
+Putative glucomannan oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	GmOS
+Putative transcriptional regulator of glucomannan oligosaccharide utilization (LacI family)	GmOS
+Putative xylose ABC transporter substrate-binding component (TC 3.A.1.2)	Xyl
+Putative xylose ABC transporter ATP-binding component (TC 3.A.1.2)	Xyl
+Putative xylose ABC transporter permease component (TC 3.A.1.2)	Xyl
+Putative transcriptional regulator of xylose utilization (ROK family)	Xyl
+Fructose/xylose/ribose ABC transporter substrate-binding component (TC 3.A.1.2.23)	Xyl; AXOS; AX
+Fructose/xylose/ribose ABC transporter permease component 1 (TC 3.A.1.2.23)	Xyl
+Fructose/xylose/ribose ABC transporter permease component 2 (TC 3.A.1.2.23)	Xyl
+Fructose/xylose/ribose ABC transporter ATP-binding component (TC 3.A.1.2.23)	Xyl
+Putative arabinose ABC transporter substrate-binding component (TC 3.A.1.2)	AXOS; AX
+Putative arabinose ABC transporter ATP-binding component (TC 3.A.1.2)	AXOS; AX
+Putative arabinose ABC transporter permease component (TC 3.A.1.2)	AXOS; AX
+Beta-1,4-xylosidase-3 (GH43_11)	XOS; AXOS; XL; AX
+Monosubstituted AXOS alpha-1,2/3-L-arabinofuranosidase (GH43_12)	AXOS; AX
+Putative XOS/AXOS acetyl or feruloyl esterase-1 (CE20)	AXOS; AX
+Putative XOS/AXOS acetyl or feruloyl esterase-1	AXOS; AX
+XOS/AXOS ABC transporter-1 substrate-binding component (TC 3.A.1.1)	XOS; AXOS; XL; AX
+XOS/AXOS ABC transporter-1 permease component 1 (TC 3.A.1.1)	XOS; AXOS; XL; AX
+XOS/AXOS ABC transporter-1 permease component 2 (TC 3.A.1.1)	XOS; AXOS; XL; AX
+Putative transcriptional regulator of XOS/AXOS utilization (LacI family)	XOS; AXOS; XL; AX
+Beta-1,4-xylosidase-1 (GH43_11)	XOS; AXOS; AX
+Beta-1,4-xylosidase-1 (GH120)	AXOS; AX
+Reducing end xylose-releasing exo-oligoxylanase-1 (GH8)	AXOS; AX
+Double substituted AXOS alpha-1,3-L-arabinofuranosidase (GH43_10)	AXOS; AX
+Putative alpha-L-arabinofuranosidase (GH43_27)	AXOS; AX
+Putative XOS/AXOS acetyl or feruloyl esterase-2	AXOS; AX
+XOS/AXOS ABC transporter-2 substrate-binding component (TC 3.A.1.5)	XOS; AXOS; AX
+XOS/AXOS ABC transporter-2 permease component 1 (TC 3.A.1.5)	XOS; AXOS; AX
+XOS/AXOS ABC transporter-2 permease component 2 (TC 3.A.1.5)	XOS; AXOS; AX
+XOS/AXOS ABC transporter-2 ATP-binding component 1 (TC 3.A.1.5)	XOS; AXOS; AX
+XOS/AXOS ABC transporter-2 ATP-binding component 2 (TC 3.A.1.5)	XOS; AXOS; AX
+Beta-1,4-xylosidase-2 (GH43_11)	AXOS; AX
+Beta-1,4-xylosidase-2 (GH120)	AXOS; AX
+Reducing end xylose-releasing exo-oligoxylanase-2 (GH8)	AXOS; AX
+Putative XOS/AXOS acetyl or feruloyl esterase-2 (CE20)	AXOS; AX
+Arabinoxylooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	AXOS; AX
+Arabinoxylooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	AXOS; AX
+Arabinoxylooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	AXOS; AX
+Endo-beta-1,4-xylanase (GH10)	XL; AX
+Putative transcriptional regulator of XOS/AXOS utilization-2 (LacI family)	AXOS; AX
+Extracellular alpha-1,2/5-L-arabinofuranosidase (GH43_UC_26)	AXOS; AX
+Extracellular alpha-1,3/4-L-arabinofuranosidase (GH43_22_34)	AXOS; AX
+Extracellular monosubstituted arabinoxylan alpha-1,2/3-L-arabinofuranosidase (GH43_16)	AXOS; AX
+Extracellular double substituted arabinoxylan alpha-L-arabinofuranosidase (GH43_10)	AXOS; AX
+Putative beta-1,4-xylosidase (GH120)	XOS
+Putative xylooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	XOS
+Putative xylooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	XOS
+Putative xylooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	XOS
+Putative transcriptional regulator of XOS utilization (TetR family)	XOS
+Putative arabinose MFS permease (TC 2.A.1.1)	Ara
+Transcriptional regulator of arabinose utilization and central carbohydrate metabolism (LacI family)	Ara
+Putative arabinose ABC transporter substrate-binding component (TC 3.A.1.2)	Ara; AR
+Putative arabinose ABC transporter ATP-binding component (TC 3.A.1.2)	Ara; AR
+Putative arabinose ABC transporter permease component (TC 3.A.1.2)	Ara; AR
+Putative transcriptional regulator of arabinose transporter (ROK family)	Ara
+Fructose/xylose/ribose ABC transporter substrate-binding component (TC 3.A.1.2.23)	Ara; AR
+Fructose/xylose/ribose ABC transporter permease component 1 (TC 3.A.1.2.23)	Ara; AR
+Fructose/xylose/ribose ABC transporter permease component 2 (TC 3.A.1.2.23)	Ara; AR
+Fructose/xylose/ribose ABC transporter ATP-binding component (TC 3.A.1.2.23)	Ara; AR
+Alpha-1,5-L-arabinofuranosidase (GH1)	aAOS
+Alpha-1,2/3-L-arabinofuranosidase (GH43_27)	aAOS
+Alpha-1,5-L-arabinofuranosidase (GH43_26)	aAOS
+Putative alpha-L-arabinofuranosidase (GH43_22)	aAOS
+Extracellular endo-alpha-1,5-L-arabinanase (GH43_4)	aAOS
+Endo-alpha-1,5-L-arabinanase (GH43_4)	aAOS
+Putative beta-L-arabinofuranosidase in alpha-AOS locus (GH146)	aAOS
+Hydroxycinnamic acid esterase	aAOS
+Putative alpha-arabinooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	aAOS
+Putative alpha-arabinooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	aAOS
+Putative alpha-arabinooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	aAOS
+Putative transcriptional regulator of alpha-arabinooligosaccharide utilization (LacI family)	aAOS
+Alpha-1,3/5-L-arabinofuranosidase (GH51)	aAOS
+Putative alpha-L-arabinofuranosidase (GH51)	aAOS
+Extracellular alpha-1,3-L-arabinofuranosidase (GH43_22)	aAOS
+Extracellular alpha-1,5-L-arabinofuranosidase (GH43_22)	aAOS; AR
+Extracellular alpha-1,2/3-L-arabinofuranosidase (GH43_27)	aAOS; AR
+Extracellular alpha-1,2/5-L-arabinofuranosidase (GH43_UC_26)	aAOS
+Extracellular alpha-1,3/4-L-arabinofuranosidase (GH43_22_34)	aAOS
+Putative extracellular alpha-L-arabinofuranosidase (GH43_27)	aAOS
+Beta-1,2-L-arabinofuranosidase (GH127)	bAOS; HRGP
+Extracellular beta-L-arabinobiosidase (GH121)	bAOS; HRGP
+Extracellular alpha-1,3-L-arabinofuranosidase (GH43_29)	bAOS; HRGP
+Beta-arabinooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	bAOS; HRGP
+Beta-arabinooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	bAOS; HRGP
+Beta-arabinooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	bAOS; HRGP
+Extracellular beta-1,3-L-arabinofuranosidase (GH146)	bAOS; HRGP
+Extracellular beta-L-arabinofuranosidase (GH146)	bAOS; HRGP
+Putative beta-1,2-L-arabinofuranosidase (GH127)	bAOS; HRGP
+Putative beta-arabinooligosaccharide MFS permease (TC 2.A.2)	bAOS; HRGP
+Putative transcriptional regulator of beta-arabinooligosaccharide utilization-2 (LacI family)	bAOS; HRGP
+Hypothetical membrane-attached GH in beta-AOS utilization locus (GH39)	bAOS; HRGP
+Putative beta-1,2-L-arabinofuranosidase-2 (GH127)	bAOS; HRGP
+Putative beta-L-arabinopyranosidase-2 (GH36)	bAOS; HRGP
+Putative beta-arabinooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	bAOS; HRGP
+Putative beta-arabinooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	bAOS; HRGP
+Putative beta-arabinooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	bAOS; HRGP
+Putative transcriptional regulator of beta-arabinooligosaccharide utilization-3 (LacI family)	bAOS; HRGP
+Putative alpha-xylosidase (GH31)	XGlOS; XGL
+Putative beta-1,4-glucosidase (GH1)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	XGlOS; XGL
+Putative transcriptional regulator of xyloglucan oligosaccharide utilization (LacI family)	XGlOS; XGL
+Putative xgl-cluster alpha-L-fucosidase (GH29)	XGlOS; XGL
+Putative xgl-cluster beta-glucosidase (GH3)	XGlOS; XGL
+Putative xgl-cluster alpha-xylosidase (GH31)	XGlOS; XGL
+Putative xgl-cluster extracellular endo-beta-1,4-glucanase (GH5_4)	XGlOS; XGL
+Putative xgl-cluster endo-beta-1,4-glucanase (GH5_4)	XGlOS; XGL
+Putative xgl-cluster alpha-L-arabinofuranosidase (GH43_12)	XGlOS; XGL
+Putative xgl-cluster beta-galactosidase (GH42)	XGlOS; XGL
+Putative xgl-cluster xyloglucan acetylesterase	XGlOS; XGL
+Putative xgl-cluster beta-glucoside kinase (EC 2.7.1.85)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	XGlOS; XGL
+Putative xyloglucan acetylesterase	XGlOS; XGL
+Putative transcriptional regulator of xyloglucan oligosaccharide utilization (TetR family)	XGlOS; XGL
+Putative alpha-xylosidase-2 (GH31)	XGlOS; XGL
+Putative alpha-L-arabinofuranosidase in locus with alpha-xylosidase (GH51)	XGlOS; XGL
+Putative beta-L-arabinopyranosidase in locus with alpha-xylosidase (GH36)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter-3 substrate-binding component (TC 3.A.1.1)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter-3 permease component 1 (TC 3.A.1.1)	XGlOS; XGL
+Putative xyloglucan oligosaccharide ABC transporter-3 permease component 2 (TC 3.A.1.1)	XGlOS; XGL
+Putative transcriptional regulator of xyloglucan oligosaccharide utilization-2 (LacI family)	XGlOS; XGL
+Putative 2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)	GlcA; GlcAs
+Putative 2-dehydro-3-deoxy-6-phosphogluconate dehydrogenase (EC 1.1.1.-)	GlcA; GlcAs
+Putative D-glucuronate MFS permease (TC 2.A.2)	GlcA
+Putative transcriptional regulator of D-glucuronate utilization (LacI family)	GlcA
+Putative beta-glucuronidase (GH30_9)	GlcAs
+Putative glucuronide MFS permease (TC 2.A.2)	GlcAs
+Putative transcriptional regulator of the gus locus (LacI family)	GlcAs
+Putative D-gluconate MFS permease (TC 2.A.8)	Gnt
+Putative transcriptional regulator of gluconate utilization (GntR family)	Gnt
+Putative 2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)	Dgal
+Putative transcriptional regulator of D-galactonate utilization (IclR family)	Dgal
+Myo-inositol 2-dehydrogenase-1 (EC 1.1.1.18)	Ino
+Myo-inositol 2-dehydrogenase-2 (EC 1.1.1.18)	Ino
+Scyllo-inosose dehydratase (EC 4.2.1.44)	Ino
+Putative alcohol dehydrogenase in inositol utilization locus	Ino
+Putative aldehyde dehydrogenase in inositol utilization locus	Ino
+Putative inositol MFS permease-1 (TC 2.A.1.1)	Ino
+Putative inositol MFS permease-2 (TC 2.A.1.1)	Ino
+Putative transcriptional regulator of inositol degradation-1 (IclR family)	Ino
+Putative transcriptional regulator of inositol degradation-2 (IclR family)	Ino
+Putative transcriptional regulator of inositol utilization (AraC family)	Ino

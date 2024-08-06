@@ -1,0 +1,1 @@
+Put the annotation files (output of danatello pipeline) into this folder (don`t change file extensions, .faa or .fa)

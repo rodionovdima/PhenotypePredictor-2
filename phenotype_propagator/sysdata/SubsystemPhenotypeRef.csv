@@ -1,0 +1,159 @@
+Subsystem	Phenotype	isDone	Filename
+Thiamin HMP	B1	1	Thiamin HMP_B1.csv
+Riboflavin HMP	B2	1	Riboflavin HMP_B2.csv
+NAD Niacin HMP	B3	1	NAD Niacin HMP_B3.csv
+CoA Pantothenate HMP	B5	1	CoA Pantothenate HMP_B5.csv
+Pyridoxin HMP	B6	1	Pyridoxin HMP_B6.csv
+Biotin HMP	B7	1	Biotin HMP_B7.csv
+Folate HMP	B9	1	Folate HMP_B9.csv
+B12 Cobalamin HMP	B12	1	B12 Cobalamin HMP_B12.csv
+Queuosine HMP	Q	1	Queuosine HMP_Q.csv
+Lipoate HMP	LA	1	Lipoate HMP_LA.csv
+Menaquinone biosynthesis HMP	MQ	1	Menaquinone biosynthesis HMP_MQ.csv
+Arginine HMP	Arg	1	Arginine HMP_Arg.csv
+Lysine HMP	Lys	1	Lysine HMP_Lys.csv
+Histidine HMP	His	1	Histidine HMP_His.csv
+Tryptophan HMP	Trp	1	Tryptophan HMP_Trp.csv
+Tyrosine Phenylalanine HMP	Tyr	1	Tyrosine Phenylalanine HMP_Tyr.csv
+Tyrosine Phenylalanine HMP	Phe	1	Tyrosine Phenylalanine HMP_Phe.csv
+Chorismate HMP	Chor	1	Chorismate HMP_Chor.csv
+Isoleucine Valine Leucine HMP	Leu	1	Isoleucine Valine Leucine HMP_Leu.csv
+Isoleucine Valine Leucine HMP	Ile	1	Isoleucine Valine Leucine HMP_Ile.csv
+Isoleucine Valine Leucine HMP	Val	1	Isoleucine Valine Leucine HMP_Val.csv
+Threonine HMP	Thr	1	Threonine HMP_Thr.csv
+Serine HMP	Ser	1	Serine HMP_Ser.csv
+Cysteine HMP	Cys	1	Cysteine HMP_Cys.csv
+Glycine HMP	Gly	1	Glycine HMP_Gly.csv
+Methionine HMP	Met	1	Methionine HMP_Met.csv
+Proline HMP	Pro	1	Proline HMP_Pro.csv
+Glutamine Glutamate HMP	Glu	1	Glutamine Glutamate HMP_Glu.csv
+Glutamine Glutamate HMP	Gln	1	Glutamine Glutamate HMP_Gln.csv
+Aspartate Asparagine HMP	Asp	1	Aspartate Asparagine HMP_Asp.csv
+Aspartate Asparagine HMP	Asn	1	Aspartate Asparagine HMP_Asn.csv
+Purine biosynthesis HMP	Pur	1	Purine biosynthesis HMP_Pur.csv
+Pyrimidine biosynthesis HMP	Pyr	1	Pyrimidine biosynthesis HMP_Pyr.csv
+HMP propionate synthesis	Propionate	1	HMP propionate synthesis_Propionate.csv
+HMP Butyrate synthesis	Butyrate	1	HMP Butyrate synthesis_Butyrate.csv
+HMP lactate-acetate-formate fermentation	Acetate	1	HMP lactate-acetate-formate fermentation_Acetate.csv
+HMP lactate-acetate-formate fermentation	Formate	1	HMP lactate-acetate-formate fermentation_Formate.csv
+HMP lactate-acetate-formate fermentation	L-Lactate	1	HMP lactate-acetate-formate fermentation_L-Lactate.csv
+HMP lactate-acetate-formate fermentation	D-Lactate	1	HMP lactate-acetate-formate fermentation_D-Lactate.csv
+HMP lactate-acetate-formate fermentation	Ethanol	1	HMP lactate-acetate-formate fermentation_Ethanol.csv
+Succinate fermentation HMP	Succinate	1	Succinate fermentation HMP_Succinate.csv
+Trimethylamine production HMP	TMA	1	Trimethylamine production HMP_TMA.csv
+Lipid A biosynthesis HMP	LPS	1	Lipid A biosynthesis HMP_LPS.csv
+GABA (gamma-aminobutyric acid) metabolism HMP	GABA	1	GABA (gamma-aminobutyric acid) metabolism HMP_GABA.csv
+Histidine degradation HMP	HA	1	Histidine degradation HMP_HA.csv
+Tryptophan degradation HMP	Trp_I	1	Tryptophan degradation HMP_Trp_I.csv
+Tryptophan degradation HMP	Trp_IA	1	Tryptophan degradation HMP_Trp_IA.csv
+Tryptophan degradation HMP	Trp_TA	1	Tryptophan degradation HMP_Trp_TA.csv
+Tryptophan degradation HMP	Trp_IL	1	Tryptophan degradation HMP_Trp_IL.csv
+Histidine degradation HMP	His_d	1	Histidine degradation HMP_His_d.csv
+Lysine degradation HMP	Lys_d	1	Lysine degradation HMP_Lys_d.csv
+Methionine degradation HMP	Met_d	1	Methionine degradation HMP_Met_d.csv
+Proline degradation HMP	Pro_d	1	Proline degradation HMP_Pro_d.csv
+Threonine degradation HMP	Thr_d	1	Threonine degradation HMP_Thr_d.csv
+Tryptophan degradation HMP	Trp_d	1	Tryptophan degradation HMP_Trp_d.csv
+Proline degradation HMP	HP_d	1	Proline degradation HMP_HP_d.csv
+Arginine degradation HMP	Arg_d	1	Arginine degradation HMP_Arg_d.csv
+Serine degradation HMP	Ser_d	1	Serine degradation HMP_Ser_d.csv
+Glycine degradation HMP	Gly_d	1	Glycine degradation HMP_Gly_d.csv
+Alanine degradation HMP	Ala_d	1	Alanine degradation HMP_Ala_d.csv
+Urea degradation HMP	Urea_d	1	Urea degradation HMP_Urea_d.csv
+Ethanolamine utilization HMP	Eut_ut	1	Ethanolamine utilization HMP_Eut_ut.csv
+Butyrate utilization HMP	But_ut	1	Butyrate utilization HMP_But_ut.csv
+Propanediol utilization HMP	PD_ut	1	Propanediol utilization HMP_PD_ut.csv
+Putrescine utilization HMP	Put_ut	1	Putrescine utilization HMP_Put_ut.csv
+Taurine utilization HMP	Tau_ut	1	Taurine utilization HMP_Tau_ut.csv
+Tartrate utilization HMP	Tar_ut	1	Tartrate utilization HMP_Tar_ut.csv
+Nucleoside utilization HMP	Nuc_ut	1	Nucleoside utilization HMP_Nuc_ut.csv
+Purine utilization HMP	Pur_ut	1	Purine utilization HMP_Pur_ut.csv
+Pyrimidine utilization HMP	Pyr_ut	1	Pyrimidine utilization HMP_Pyr_ut.csv
+GABA (gamma-aminobutyric acid) metabolism HMP	GABA_d	1	GABA (gamma-aminobutyric acid) metabolism HMP_GABA_d.csv
+Lactate utilization HMP	Llac_ut	1	Lactate utilization HMP_Llac_ut.csv
+Lactate utilization HMP	Dlac_ut	1	Lactate utilization HMP_Dlac_ut.csv
+Bile acids HMP	CA_d	1	Bile acids HMP_CA_d.csv
+Bile acids HMP	CA_t_3	1	Bile acids HMP_CA_t_3.csv
+Bile acids HMP	CA_t_7	1	Bile acids HMP_CA_t_7.csv
+Bile acids HMP	CA_t_12	1	Bile acids HMP_CA_t_12.csv
+Bile acids HMP	CA_t_DCA1	1	Bile acids HMP_CA_t_DCA1.csv
+Bile acids HMP	CA_t_DCA2	1	Bile acids HMP_CA_t_DCA2.csv
+Respiration DMSO and TMAO HMP	DMSO_r	1	Respiration DMSO and TMAO HMP_DMSO_r.csv
+Respiration DMSO and TMAO HMP	TMAO_r	1	Respiration DMSO and TMAO HMP_TMAO_r.csv
+Respiration Nitrogen Oxides HMP	NAR	1	Respiration Nitrogen Oxides HMP_NAR.csv
+Respiration Nitrogen Oxides HMP	aNIR	1	Respiration Nitrogen Oxides HMP_aNIR.csv
+Respiration Nitrogen Oxides HMP	dNIR	1	Respiration Nitrogen Oxides HMP_dNIR.csv
+Respiration Nitrogen Oxides HMP	NOR	1	Respiration Nitrogen Oxides HMP_NOR.csv
+Respiration Nitrogen Oxides HMP	NOS	1	Respiration Nitrogen Oxides HMP_NOS.csv
+Respiration Oxygen HMP	Aer	1	Respiration Oxygen HMP_Aer.csv
+Respiration Oxygen HMP	mAer	1	Respiration Oxygen HMP_mAer.csv
+Respiration Sulfur Oxides HMP	TTR	1	Respiration Sulfur Oxides HMP_TTR.csv
+Respiration Sulfur Oxides HMP	TSR	1	Respiration Sulfur Oxides HMP_TSR.csv
+Respiration Sulfur Oxides HMP	SR	1	Respiration Sulfur Oxides HMP_SR.csv
+Arabinose and arabinosides utilization HMP	aAOS	1	Arabinose and arabinosides utilization HMP_aAOS.csv
+Allose utilization HMP	All	1	Allose utilization HMP_All.csv
+Arabinose and arabinosides utilization HMP	Ara	1	Arabinose and arabinosides utilization HMP_Ara.csv
+Ascorbate utilization HMP	Asc	1	Ascorbate utilization HMP_Asc.csv
+Pentitol utilization HMP	Atl	1	Pentitol utilization HMP_Atl.csv
+Xylose and xylosides utilization HMP	aXyl	1	Xylose and xylosides utilization HMP_aXyl.csv
+Arabinose and arabinosides utilization HMP	bAOS	1	Arabinose and arabinosides utilization HMP_bAOS.csv
+Beta-glucosides utilization HMP	Bgl	1	Beta-glucosides utilization HMP_Bgl.csv
+Mannose and Mannosides utilization HMP	bMAN	1	Mannose and Mannosides utilization HMP_bMAN.csv
+Mannose and Mannosides utilization HMP	bMnOS	1	Mannose and Mannosides utilization HMP_bMnOS.csv
+N-acetylglucosamine utilization HMP	Chb	1	N-acetylglucosamine utilization HMP_Chb.csv
+Unsaturated glucuronate utilization HMP	ddGlcA	1	Unsaturated glucuronate utilization HMP_ddGlcA.csv
+D-galactonate utilization HMP	Dgal	1	D-galactonate utilization HMP_Dgal.csv
+Deoxyribose utilization HMP	dRib	1	Deoxyribose utilization HMP_dRib.csv
+Fucose utilization HMP	Fcs	1	Fucose utilization HMP_Fcs.csv
+Sucrose and Fructosides utilization HMP	FOS	1	Sucrose and Fructosides utilization HMP_FOS.csv
+Fructose utilization HMP	Fru	1	Fructose utilization HMP_Fru.csv
+Fructose-asparagine utilization HMP	FruAsn	1	Fructose-asparagine utilization HMP_FruAsn.csv
+Fructoselysine and Glucoselysine utilization HMP	FruLys	1	Fructoselysine and Glucoselysine utilization HMP_FruLys.csv
+Fucose utilization HMP	Fuc	1	Fucose utilization HMP_Fuc.csv
+Galactose and Tagatose utilization HMP	Gal	1	Galactose and Tagatose utilization HMP_Gal.csv
+Hexuronates utilization HMP	GalA	1	Hexuronates utilization HMP_GalA.csv
+Hexuronates utilization HMP	GalAs	1	Hexuronates utilization HMP_GalAs.csv
+N-acetylgalactosamine utilization HMP	GalN	1	N-acetylgalactosamine utilization HMP_GalN.csv
+N-acetylgalactosamine utilization HMP	GalNAc	1	N-acetylgalactosamine utilization HMP_GalNAc.csv
+Glucose utilization HMP	Glc	1	Glucose utilization HMP_Glc.csv
+Hexuronates utilization HMP	GlcA	1	Hexuronates utilization HMP_GlcA.csv
+Hexuronates utilization HMP	GlcAs	1	Hexuronates utilization HMP_GlcAs.csv
+Fructoselysine and Glucoselysine utilization HMP	GlcLys	1	Fructoselysine and Glucoselysine utilization HMP_GlcLys.csv
+N-acetylglucosamine utilization HMP	GlcNAc	1	N-acetylglucosamine utilization HMP_GlcNAc.csv
+Glycerate utilization HMP	Glt	1	Glycerate utilization HMP_Glt.csv
+D-glucosaminate utilization HMP	Gmt	1	D-glucosaminate utilization HMP_Gmt.csv
+Galacto-N-biose and lacto-N-biose utilization HMP	GNB	1	Galacto-N-biose and lacto-N-biose utilization HMP_GNB.csv
+Gluconate utilization HMP	Gnt	1	Gluconate utilization HMP_Gnt.csv
+Beta-galactosides utilization HMP	GOS	1	Beta-galactosides utilization HMP_GOS.csv
+Galactitol utilization HMP	Gtl	1	Galactitol utilization HMP_Gtl.csv
+Hyaluronate utilization HMP	Hyl	1	Hyaluronate utilization HMP_Hyl.csv
+Inositol utilization HMP	Ino	1	Inositol utilization HMP_Ino.csv
+Beta-galactosides utilization HMP	Lac	1	Beta-galactosides utilization HMP_Lac.csv
+Fucose utilization HMP	Lfuc	1	Fucose utilization HMP_Lfuc.csv
+L-galactonate and L-gulonate utilization HMP	Lgal	1	L-galactonate and L-gulonate utilization HMP_Lgal.csv
+L-galactonate and L-gulonate utilization HMP	Lgul	1	L-galactonate and L-gulonate utilization HMP_Lgul.csv
+Galacto-N-biose and lacto-N-biose utilization HMP	LNB	1	Galacto-N-biose and lacto-N-biose utilization HMP_LNB.csv
+Maltose and Maltodextrin utilization HMP	Mal	1	Maltose and Maltodextrin utilization HMP_Mal.csv
+Mannose and Mannosides utilization HMP	Man	1	Mannose and Mannosides utilization HMP_Man.csv
+Mannosylglycerate utilization HMP	ManGlt	1	Mannosylglycerate utilization HMP_ManGlt.csv
+Sialic acids utilization HMP	ManNAc	1	Sialic acids utilization HMP_ManNAc.csv
+Alpha-galactosides utilization HMP	Mel	1	Alpha-galactosides utilization HMP_Mel.csv
+Maltose and Maltodextrin utilization HMP	MOS	1	Maltose and Maltodextrin utilization HMP_MOS.csv
+Mannitol utilization HMP	Mtl	1	Mannitol utilization HMP_Mtl.csv
+N-acetylmuramic acid utilization HMP	MurNac	1	N-acetylmuramic acid utilization HMP_MurNac.csv
+Sialic acids utilization HMP	Neu5Ac	1	Sialic acids utilization HMP_Neu5Ac.csv
+Fructoselysine and Glucoselysine utilization HMP	PsiLys	1	Fructoselysine and Glucoselysine utilization HMP_PsiLys.csv
+Alpha-galactosides utilization HMP	RFO	1	Alpha-galactosides utilization HMP_RFO.csv
+Rhamnose and rhamnosides utilization HMP	Rha	1	Rhamnose and rhamnosides utilization HMP_Rha.csv
+Rhamnose and rhamnosides utilization HMP	Rhi	1	Rhamnose and rhamnosides utilization HMP_Rhi.csv
+Ribose utilization HMP	Rib	1	Ribose utilization HMP_Rib.csv
+Rhamnose and rhamnosides utilization HMP	ROS	1	Rhamnose and rhamnosides utilization HMP_ROS.csv
+Pentitol utilization HMP	Rtl	1	Pentitol utilization HMP_Rtl.csv
+Sucrose and Fructosides utilization HMP	Scr	1	Sucrose and Fructosides utilization HMP_Scr.csv
+Sorbitol and sorbose utilization HMP	Sor	1	Sorbitol and sorbose utilization HMP_Sor.csv
+Sorbitol and sorbose utilization HMP	Stl	1	Sorbitol and sorbose utilization HMP_Stl.csv
+Galactose and Tagatose utilization HMP	Tag	1	Galactose and Tagatose utilization HMP_Tag.csv
+Trehalose utilization HMP	Tre	1	Trehalose utilization HMP_Tre.csv
+Xylose and xylosides utilization HMP	XOS	1	Xylose and xylosides utilization HMP_XOS.csv
+Pentitol utilization HMP	Xtl	1	Pentitol utilization HMP_Xtl.csv
+Xylose and xylosides utilization HMP	Xyl	1	Xylose and xylosides utilization HMP_Xyl.csv
